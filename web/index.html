@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- 검색 엔진 크롤링 및 인덱싱 완전 차단 (Google, Naver, Daum 등) -->
+  <!-- 검색 엔진 크롤링 및 인덱싱 완전 차단 -->
   <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, notranslate, noimageindex">
   <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet">
 
@@ -46,13 +46,25 @@
       </div>
 
       <!-- 플랫폼 필터 버튼 바 -->
-      <div class="flex items-center gap-1.5 overflow-x-auto pt-3 pb-1 no-scrollbar text-xs font-medium">
-        <button class="filter-btn active px-3 py-1.5 rounded-lg bg-slate-900 text-white transition-colors" data-platform="all">전체</button>
-        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="saramin">사람인</button>
-        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="jobkorea">잡코리아</button>
-        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="wanted">원티드</button>
-        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="jumpit">점핏</button>
-        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="remember">리멤버</button>
+      <div class="flex items-center gap-1.5 overflow-x-auto pt-3 pb-1 no-scrollbar text-xs font-medium" id="filterBar">
+        <button class="filter-btn active px-3 py-1.5 rounded-lg bg-slate-900 text-white transition-colors" data-platform="all">
+          전체 <span id="cnt-all" class="opacity-75"></span>
+        </button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="saramin">
+          사람인 <span id="cnt-saramin" class="opacity-75"></span>
+        </button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="jobkorea">
+          잡코리아 <span id="cnt-jobkorea" class="opacity-75"></span>
+        </button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="wanted">
+          원티드 <span id="cnt-wanted" class="opacity-75"></span>
+        </button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="jumpit">
+          점핏 <span id="cnt-jumpit" class="opacity-75"></span>
+        </button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="remember">
+          리멤버 <span id="cnt-remember" class="opacity-75"></span>
+        </button>
       </div>
     </div>
   </header>
@@ -80,8 +92,7 @@
       remember: { name: '리멤버', class: 'bg-orange-50 text-orange-700 border-orange-200' }
     };
 
-    // GitHub Pages 배포 환경(data/jobs.json) 및 로컬 환경 호환 로드
-// 캐시 방지 쿼리 (?t=Date.now()) 추가
+    // GitHub Pages 배포 환경(data/jobs.json) 캐시 방지 호출
     fetch(`data/jobs.json?t=${Date.now()}`)
       .then(res => {
         if (!res.ok) throw new Error('data/jobs.json 응답 실패');
@@ -92,11 +103,31 @@
       })
       .then(data => {
         rawCompanyData = data.data || [];
+        updatePlatformCounts();
         render();
       })
       .catch(err => {
         console.error("데이터 로드 실패:", err);
       });
+
+    // 각 플랫폼별 실시간 카운트 집계
+    function updatePlatformCounts() {
+      const counts = { all: 0, saramin: 0, jobkorea: 0, wanted: 0, jumpit: 0, remember: 0 };
+      rawCompanyData.forEach(comp => {
+        (comp.postings || []).forEach(post => {
+          counts.all++;
+          const p = String(post.platform || '').trim().toLowerCase();
+          if (counts[p] !== undefined) {
+            counts[p]++;
+          }
+        });
+      });
+
+      Object.keys(counts).forEach(k => {
+        const el = document.getElementById(`cnt-${k}`);
+        if (el) el.textContent = `(${counts[k]})`;
+      });
+    }
 
     function render() {
       const listEl = document.getElementById('companyList');
@@ -107,18 +138,27 @@
       let visibleCompanies = [];
 
       rawCompanyData.forEach(comp => {
-        const filteredPostings = comp.postings.filter(post => {
-          const matchPlatform = (activePlatform === 'all' || post.platform === activePlatform);
+        const compName = String(comp.company_name || '').trim();
+
+        const filteredPostings = (comp.postings || []).filter(post => {
+          // 플랫폼 매칭 (대소문자/공백 무시 비교)
+          const p = String(post.platform || '').trim().toLowerCase();
+          const targetP = String(activePlatform || '').trim().toLowerCase();
+          const matchPlatform = (targetP === 'all' || p === targetP);
+
+          // 검색어 매칭
+          const postTitle = String(post.title || '').toLowerCase();
           const matchQuery = !searchQuery || 
-            comp.company_name.toLowerCase().includes(searchQuery) ||
-            post.title.toLowerCase().includes(searchQuery);
+            compName.toLowerCase().includes(searchQuery) ||
+            postTitle.includes(searchQuery);
+
           return matchPlatform && matchQuery;
         });
 
         if (filteredPostings.length > 0) {
           totalVisibleJobs += filteredPostings.length;
           visibleCompanies.push({
-            name: comp.company_name,
+            name: compName || '회사명 미정',
             postings: filteredPostings
           });
         }
@@ -147,7 +187,8 @@
           
           <div class="divide-y divide-slate-100">
             ${comp.postings.map(post => {
-              const badge = platformBadgeMap[post.platform] || { name: post.platform, class: 'bg-slate-50 text-slate-600 border-slate-200' };
+              const platformKey = String(post.platform || '').trim().toLowerCase();
+              const badge = platformBadgeMap[platformKey] || { name: post.platform, class: 'bg-slate-50 text-slate-600 border-slate-200' };
               return `
                 <div class="py-3 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
                   <div class="flex-1 min-w-0 pr-2">
@@ -166,7 +207,7 @@
                     </a>
                   </div>
                   <div class="flex items-center justify-end">
-                    <a href="${post.link}" target="_blank" rel="noopener noreferrer"
+                    <a href="${post.link}" target="_blank" rel="noopener noreferrer" 
                        class="inline-flex items-center gap-1 text-xs font-medium px-2.5 py-1 rounded-lg text-slate-600 bg-slate-50 hover:bg-blue-50 hover:text-blue-600 transition-colors whitespace-nowrap">
                       지원하기 <i class="fas fa-arrow-up-right-from-square text-[10px]"></i>
                     </a>
