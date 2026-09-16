@@ -2,13 +2,24 @@ name: Scrape Jobs and Deploy Dashboard
 
 on:
   schedule:
-    # UTC 00:00 (한국시간 09:00), UTC 12:00 (한국시간 21:00)
+    # 1) 한국시간 09:00, 21:00 -> 수집 및 대시보드 배포
     - cron: '0 0,12 * * *'
-  workflow_dispatch: # Actions 탭에서 수동 실행 지원
+    # 2) 한국시간 10:00 -> 텔레그램 알림 전송
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      action_type:
+        description: '실행 모드 선택 (scrape / notify)'
+        required: true
+        default: 'scrape'
+        type: choice
+        options:
+          - scrape
+          - notify
 
 permissions:
-  contents: write # history.json 및 jobs.json 자동 커밋 권한
-  pages: write    # GitHub Pages 배포 권한
+  contents: write
+  pages: write
   id-token: write
 
 concurrency:
@@ -16,7 +27,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  scrape:
+  run-pipeline:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -33,44 +44,62 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Scraping Pipeline
+      # ----------------------------------------------------
+      # 모드 1: 수집 및 대시보드 갱신 (09시, 21시)
+      # ----------------------------------------------------
+      - name: Run Scraping (09:00 / 21:00 KST)
+        if: github.event.schedule == '0 0,12 * * *' || (github.event_name == 'workflow_dispatch' && inputs.action_type == 'scrape')
+        run: |
+          python main.py scrape
+
+      # ----------------------------------------------------
+      # 모드 2: 텔레그램 알림 발송 (10:00 KST)
+      # ----------------------------------------------------
+      - name: Send Daily Telegram Notification (10:00 KST)
+        if: github.event.schedule == '0 1 * * *' || (github.event_name == 'workflow_dispatch' && inputs.action_type == 'notify')
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          # 텔레그램 버튼에 연결될 도메인 (사용할 서브도메인으로 수정)
           DASHBOARD_URL: "https://yeoltong.site"
         run: |
-          python main.py
+          python main.py notify
 
+      # ----------------------------------------------------
+      # 데이터 변경사항 커밋 (수집 시 jobs/history/pending 저장)
+      # ----------------------------------------------------
       - name: Commit and Push Updated Data
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/history.json data/jobs.json
+          git add data/
           if git diff --staged --quiet; then
-            echo "수집 데이터 변경 사항이 없어 커밋을 건너뜁니다."
+            echo "변경 사항 없음"
           else
-            git commit -m "chore: update job postings data [skip ci]"
+            git commit -m "chore: update job data [skip ci]"
             git push
           fi
 
+      # ----------------------------------------------------
+      # GitHub Pages 산출물 빌드 및 업로드 (수집 시에만 배포)
+      # ----------------------------------------------------
       - name: Prepare Web Build Artifact
+        if: github.event.schedule == '0 0,12 * * *' || (github.event_name == 'workflow_dispatch' && inputs.action_type == 'scrape')
         run: |
           mkdir -p public
           cp -r web/* public/
           mkdir -p public/data
           cp data/jobs.json public/data/jobs.json
-          
-          # Pages 배포 시 CNAME 유지 (사용할 서브도메인 입력)
-          echo "qa.yourdomain.com" > public/CNAME
+          echo "yeoltong.site" > public/CNAME
 
       - name: Upload Pages Artifact
+        if: github.event.schedule == '0 0,12 * * *' || (github.event_name == 'workflow_dispatch' && inputs.action_type == 'scrape')
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'public'
 
   deploy:
-    needs: scrape
+    needs: run-pipeline
+    if: github.event.schedule == '0 0,12 * * *' || (github.event_name == 'workflow_dispatch' && inputs.action_type == 'scrape')
     runs-on: ubuntu-latest
     environment:
       name: github-pages
