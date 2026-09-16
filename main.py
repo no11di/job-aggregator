@@ -23,11 +23,12 @@ def run_scrape():
 
   all_jobs = []
   for scraper in scrapers:
-    try:
-      jobs = scraper.fetch_jobs()
-      all_jobs.extend(jobs)
-    except Exception as e:
-      print(f"[{scraper.platform_name}] 오류: {e}")
+        try:
+          jobs = scraper.fetch_jobs()
+          print(f"[{scraper.platform_name}] 수집 성공: {len(jobs)}건")
+          all_jobs.extend(jobs)
+        except Exception as e:
+          print(f"[{scraper.platform_name}] 오류 발생: {e}")
 
   aggregator = JobAggregator()
   new_jobs, _ = aggregator.process(all_jobs)

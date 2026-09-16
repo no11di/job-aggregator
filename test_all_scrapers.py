@@ -13,10 +13,10 @@ def test_scrapers():
     scrapers = [
        # SaraminScraper(delay=0.5),
         #JobKoreaScraper(delay=0.5),
-        #WantedScraper(delay=0.5),
+        WantedScraper(delay=0.5),
         #RememberScraper(delay=0.5),
         #JumpitScraper(delay=0.5),
-        CatchScraper(delay=0.5),
+        #CatchScraper(delay=0.5),
     ]
 
     print("=" * 60)
