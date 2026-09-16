@@ -2,7 +2,7 @@ name: Scrape Jobs and Deploy Dashboard
 
 on:
   schedule:
-    # UTC 기준: 00:00 UTC (KST 09:00), 12:00 UTC (KST 21:00)
+    # UTC 00:00 (한국시간 09:00), UTC 12:00 (한국시간 21:00)
     - cron: '0 0,12 * * *'
   workflow_dispatch: # Actions 탭에서 수동 실행 지원
 
@@ -37,6 +37,8 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # 텔레그램 버튼에 연결될 도메인 (사용할 서브도메인으로 수정)
+          DASHBOARD_URL: "https://yeoltong.site"
         run: |
           python main.py
 
@@ -46,7 +48,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/history.json data/jobs.json
           if git diff --staged --quiet; then
-            echo "변경 사항이 없어 커밋을 건너뜁니다."
+            echo "수집 데이터 변경 사항이 없어 커밋을 건너뜁니다."
           else
             git commit -m "chore: update job postings data [skip ci]"
             git push
@@ -54,11 +56,13 @@ jobs:
 
       - name: Prepare Web Build Artifact
         run: |
-          # GitHub Pages 배포를 위해 web/ 디렉토리에 최신 jobs.json 복사
           mkdir -p public
           cp -r web/* public/
           mkdir -p public/data
           cp data/jobs.json public/data/jobs.json
+          
+          # Pages 배포 시 CNAME 유지 (사용할 서브도메인 입력)
+          echo "qa.yourdomain.com" > public/CNAME
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
