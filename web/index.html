@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- 검색 엔진 크롤링 및 인덱싱 완전 차단 (Google, Naver, Daum 등) -->
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, notranslate, noimageindex">
+  <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet">
+
+  <title>수도권 QA 채용 모니터링</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+    body { font-family: 'Pretendard', sans-serif; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased selection:bg-blue-500 selection:text-white pb-16">
+
+  <!-- 헤더 영역 -->
+  <header class="sticky top-0 z-30 bg-white/80 backdrop-blur-md border-b border-slate-200">
+    <div class="max-w-5xl mx-auto px-4 py-4 sm:py-5">
+      <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-blue-100 text-blue-700">QA / QC / Test</span>
+            <h1 class="text-xl sm:text-2xl font-bold tracking-tight">수도권 QA 채용 대시보드</h1>
+          </div>
+          <p class="text-xs sm:text-sm text-slate-500 mt-1">
+            총 <span id="companyCount" class="font-semibold text-slate-800">0</span>개 기업 · 
+            <span id="jobCount" class="font-semibold text-blue-600">0</span>건의 포지션
+          </p>
+        </div>
+
+        <!-- 검색창 -->
+        <div class="relative w-full sm:w-72">
+          <i class="fas fa-search absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-sm"></i>
+          <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="회사명 또는 공고명 검색..." 
+            class="w-full pl-9 pr-4 py-2 text-sm bg-slate-100 border border-transparent rounded-xl focus:bg-white focus:border-blue-500 focus:outline-none transition-colors"
+          >
+        </div>
+      </div>
+
+      <!-- 플랫폼 필터 버튼 바 -->
+      <div class="flex items-center gap-1.5 overflow-x-auto pt-3 pb-1 no-scrollbar text-xs font-medium">
+        <button class="filter-btn active px-3 py-1.5 rounded-lg bg-slate-900 text-white transition-colors" data-platform="all">전체</button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="saramin">사람인</button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="jobkorea">잡코리아</button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="wanted">원티드</button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="jumpit">점핏</button>
+        <button class="filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors" data-platform="remember">리멤버</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- 메인 리스트 컨테이너 -->
+  <main class="max-w-5xl mx-auto px-4 mt-6">
+    <div id="companyList" class="space-y-4">
+      <div id="loadingState" class="py-16 text-center text-slate-400">
+        <i class="fas fa-spinner fa-spin text-2xl mb-2"></i>
+        <p class="text-sm">채용 데이터를 불러오고 있습니다...</p>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    let rawCompanyData = [];
+    let activePlatform = 'all';
+    let searchQuery = '';
+
+    const platformBadgeMap = {
+      saramin: { name: '사람인', class: 'bg-blue-50 text-blue-700 border-blue-200' },
+      jobkorea: { name: '잡코리아', class: 'bg-indigo-50 text-indigo-700 border-indigo-200' },
+      wanted: { name: '원티드', class: 'bg-emerald-50 text-emerald-700 border-emerald-200' },
+      jumpit: { name: '점핏', class: 'bg-teal-50 text-teal-700 border-teal-200' },
+      remember: { name: '리멤버', class: 'bg-orange-50 text-orange-700 border-orange-200' }
+    };
+
+    // GitHub Pages 배포 환경(data/jobs.json) 및 로컬 환경 호환 로드
+    fetch('data/jobs.json')
+      .then(res => {
+        if (!res.ok) throw new Error('data/jobs.json 응답 실패');
+        return res.json();
+      })
+      .catch(() => {
+        // 로컬에서 web/ 폴더 내 index.html을 직접 열었을 경우 상위 경로 fallback
+        return fetch('../data/jobs.json').then(res => res.json());
+      })
+      .then(data => {
+        rawCompanyData = data.data || [];
+        render();
+      })
+      .catch(err => {
+        console.error("데이터 로드 실패:", err);
+        document.getElementById('companyList').innerHTML = `
+          <div class="py-12 text-center text-rose-500 text-sm">
+            데이터를 불러오지 못했습니다. (data/jobs.json 경로 확인 필요)
+          </div>
+        `;
+      });
+
+    function render() {
+      const listEl = document.getElementById('companyList');
+      const companyCountEl = document.getElementById('companyCount');
+      const jobCountEl = document.getElementById('jobCount');
+
+      let totalVisibleJobs = 0;
+      let visibleCompanies = [];
+
+      rawCompanyData.forEach(comp => {
+        const filteredPostings = comp.postings.filter(post => {
+          const matchPlatform = (activePlatform === 'all' || post.platform === activePlatform);
+          const matchQuery = !searchQuery || 
+            comp.company_name.toLowerCase().includes(searchQuery) ||
+            post.title.toLowerCase().includes(searchQuery);
+          return matchPlatform && matchQuery;
+        });
+
+        if (filteredPostings.length > 0) {
+          totalVisibleJobs += filteredPostings.length;
+          visibleCompanies.push({
+            name: comp.company_name,
+            postings: filteredPostings
+          });
+        }
+      });
+
+      companyCountEl.textContent = visibleCompanies.length;
+      jobCountEl.textContent = totalVisibleJobs;
+
+      if (visibleCompanies.length === 0) {
+        listEl.innerHTML = `
+          <div class="py-16 text-center text-slate-400 text-sm">
+            조건에 일치하는 채용공고가 없습니다.
+          </div>
+        `;
+        return;
+      }
+
+      listEl.innerHTML = visibleCompanies.map(comp => `
+        <article class="bg-white rounded-2xl p-4 sm:p-5 border border-slate-200/80 shadow-sm hover:shadow transition-shadow">
+          <div class="flex items-center justify-between pb-3 border-b border-slate-100">
+            <h2 class="text-base sm:text-lg font-bold text-slate-900 tracking-tight truncate">${comp.name}</h2>
+            <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-slate-100 text-slate-600 ml-2 whitespace-nowrap">
+              ${comp.postings.length}개 공고
+            </span>
+          </div>
+          
+          <div class="divide-y divide-slate-100">
+            ${comp.postings.map(post => {
+              const badge = platformBadgeMap[post.platform] || { name: post.platform, class: 'bg-slate-50 text-slate-600 border-slate-200' };
+              return `
+                <div class="py-3 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+                  <div class="flex-1 min-w-0 pr-2">
+                    <div class="flex items-center gap-2 mb-1">
+                      <span class="text-[11px] font-semibold px-1.5 py-0.5 rounded border ${badge.class}">
+                        ${badge.name}
+                      </span>
+                      ${post.is_new ? '<span class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-rose-50 text-rose-600 border border-rose-200">NEW</span>' : ''}
+                      <span class="text-xs text-slate-400">
+                        <i class="far fa-calendar-alt text-[10px] mr-1"></i>${post.deadline || '상시채용'}
+                      </span>
+                    </div>
+                    <a href="${post.link}" target="_blank" rel="noopener noreferrer" 
+                       class="text-sm font-semibold text-slate-800 hover:text-blue-600 transition-colors line-clamp-1">
+                      ${post.title}
+                    </a>
+                  </div>
+                  <div class="flex items-center justify-end">
+                    <a href="${post.link}" target="_blank" rel="noopener noreferrer"
+                       class="inline-flex items-center gap-1 text-xs font-medium px-2.5 py-1 rounded-lg text-slate-600 bg-slate-50 hover:bg-blue-50 hover:text-blue-600 transition-colors whitespace-nowrap">
+                      지원하기 <i class="fas fa-arrow-up-right-from-square text-[10px]"></i>
+                    </a>
+                  </div>
+                </div>
+              `;
+            }).join('')}
+          </div>
+        </article>
+      `).join('');
+    }
+
+    // 검색창 입력 이벤트 (디바운스)
+    let debounceTimer;
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        searchQuery = e.target.value.toLowerCase().trim();
+        render();
+      }, 150);
+    });
+
+    // 플랫폼 필터 토글 이벤트
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => {
+          b.className = "filter-btn px-3 py-1.5 rounded-lg bg-slate-100 text-slate-600 hover:bg-slate-200 transition-colors";
+        });
+        btn.className = "filter-btn active px-3 py-1.5 rounded-lg bg-slate-900 text-white transition-colors";
+        activePlatform = btn.dataset.platform;
+        render();
+      });
+    });
+  </script>
+</body>
+</html>
