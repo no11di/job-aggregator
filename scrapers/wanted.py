@@ -1,5 +1,5 @@
 from typing import List, Dict
-import requests
+from curl_cffi import requests  # 💡 툴킷 변경 (TLS 지문 우회)
 from models import JobItem
 from scrapers.base import BaseScraper
 
@@ -15,10 +15,6 @@ class WantedScraper(BaseScraper):
         "accept": "application/json, text/plain, */*",
         "accept-language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
         "referer": "https://www.wanted.co.kr/wdlist/518/676",
-        "user-agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-            " (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-        ),
         "wanted-user-agent": "user-web",
         "wanted-user-country": "KR",
         "wanted-user-language": "ko",
@@ -30,22 +26,25 @@ class WantedScraper(BaseScraper):
     limit = 50  # 1회 요청당 공고 수
 
     while True:
-      params = [
-          ("job_group_id", "518"),
-          ("job_ids", "676"),
-          ("country", "kr"),
-          ("job_sort", "job.latest_order"),
-          ("years", "-1"),
-          ("locations", "seoul.all"),
-          ("locations", "incheon.all"),
-          ("locations", "gyeonggi.all"),
-          ("limit", str(limit)),
-          ("offset", str(offset)),
-      ]
+      params = {
+          "job_group_id": "518",
+          "job_ids": "676",
+          "country": "kr",
+          "job_sort": "job.latest_order",
+          "years": "-1",
+          "locations": ["seoul.all", "incheon.all", "gyeonggi.all"],
+          "limit": str(limit),
+          "offset": str(offset),
+      }
 
       try:
+        # 💡 impersonate="chrome"을 주면 크롬 브라우저의 TLS 지문과 헤더를 그대로 흉내 냄
         res = requests.get(
-            self.api_url, headers=self.headers, params=params, timeout=10
+            self.api_url,
+            headers=self.headers,
+            params=params,
+            impersonate="chrome",
+            timeout=10,
         )
         res.raise_for_status()
         res_data = res.json()
@@ -55,7 +54,6 @@ class WantedScraper(BaseScraper):
 
       items = res_data.get("data", [])
       if not isinstance(items, list) or not items:
-        # 더 이상 불러올 공고가 없으면 스크롤 종료
         break
 
       for item in items:
@@ -87,7 +85,6 @@ class WantedScraper(BaseScraper):
             deadline=deadline,
         )
 
-      # 다음 스크롤 오프셋으로 이동
       offset += limit
       self.sleep()
 
