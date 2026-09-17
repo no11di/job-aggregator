@@ -12,7 +12,7 @@ from telegram_notifier import TelegramNotifier
 
 
 def load_existing_wanted_jobs() -> list:
-  """기존 jobs.json에서 wanted 공고만 복원하여 가져옵니다."""
+  """기존 jobs.json에서 wanted 공고만 안전하게 복원하여 가져옵니다."""
   jobs_file = "data/jobs.json"
   if not os.path.exists(jobs_file):
     return []
@@ -21,12 +21,19 @@ def load_existing_wanted_jobs() -> list:
     with open(jobs_file, "r", encoding="utf-8") as f:
       items = json.load(f)
 
+    if not isinstance(items, list):
+      return []
+
     wanted_jobs = []
     for item in items:
+      # dict 타입이 아닌 경우(문자열 등) 건너뛰어 파싱 에러 방지
+      if not isinstance(item, dict):
+        continue
+
       if item.get("platform") == "wanted":
         wanted_jobs.append(
             JobItem(
-                platform=item.get("platform", "wanted"),
+                platform="wanted",
                 post_id=str(item.get("post_id", "")),
                 company_raw=item.get("company_raw", ""),
                 company_clean=item.get("company_clean", ""),
@@ -67,7 +74,7 @@ def run_scrape():
     except Exception as e:
       print(f"[{scraper.platform_name}] 오류 발생: {e}")
 
-  # 💡 원티드 수집이 0건일 경우 기존 jobs.json 데이터 유지 (Fallback)
+  # 원티드 수집이 0건일 경우 기존 jobs.json 데이터 유지 (Fallback)
   if wanted_collected_count == 0:
     fallback_wanted = load_existing_wanted_jobs()
     if fallback_wanted:
