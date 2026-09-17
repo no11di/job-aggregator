@@ -2,10 +2,10 @@ name: Scrape Jobs and Deploy Dashboard
 
 on:
   schedule:
-    # 1) 한국시간 11:02 (UTC 02:02) -> 수집 및 배포
-    - cron: '2 2 * * *'
-    # 2) 한국시간 11:07 (UTC 02:07) -> 텔레그램 알림 발송
-    - cron: '7 2 * * *'
+    # 1) 한국시간 11:15 (UTC 02:15) -> 수집 및 대시보드 갱신
+    - cron: '15 2 * * *'
+    # 2) 한국시간 11:20 (UTC 02:20) -> 텔레그램 알림 발송
+    - cron: '20 2 * * *'
   workflow_dispatch:
     inputs:
       action_type:
@@ -56,7 +56,7 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "action_type=${{ inputs.action_type }}" >> $GITHUB_OUTPUT
-          elif [ "${{ github.event.schedule }}" = "7 2 * * *" ]; then
+          elif [ "${{ github.event.schedule }}" = "20 2 * * *" ]; then
             echo "action_type=notify" >> $GITHUB_OUTPUT
           else
             echo "action_type=scrape" >> $GITHUB_OUTPUT
