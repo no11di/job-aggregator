@@ -7,15 +7,10 @@ on:
     # - 스크랩: 아침 09:00 (UTC 00:00), 밤 21:00 (UTC 12:00)
     # - 알림:   아침 09:05 (UTC 00:05), 밤 21:05 (UTC 12:05)
     # ----------------------------------------------------
-    # [운영용 주석 - 테스트 완료 후 아래 4줄의 주석을 풀고 테스트용을 주석 처리하세요]
-    # - cron: '0 0 * * *'    # 운영: 아침 09:00 스크랩
-    # - cron: '5 0 * * *'    # 운영: 아침 09:05 알림
-    # - cron: '0 12 * * *'   # 운영: 밤 21:00 스크랩
-    # - cron: '5 12 * * *'   # 운영: 밤 21:05 알림
-
-    # [테스트용 스케줄 (현재 12:15 이후 -> 12:30 스크랩, 12:35 알림)]
-    - cron: '30 3 * * *'     # 테스트: KST 12:30 (UTC 03:30)
-    - cron: '35 3 * * *'     # 테스트: KST 12:35 (UTC 03:35)
+    - cron: '0 0 * * *'    # 아침 09:00 수집 및 대시보드 갱신
+    - cron: '5 0 * * *'    # 아침 09:05 텔레그램 알림 발송
+    - cron: '0 12 * * *'   # 밤 21:00 수집 및 대시보드 갱신
+    - cron: '5 12 * * *'   # 밤 21:05 텔레그램 알림 발송
 
   workflow_dispatch:
     inputs:
@@ -65,14 +60,14 @@ jobs:
           pip install -r requirements.txt
 
       # ----------------------------------------------------
-      # 실행 모드 판별: 매시 35분/5분 트리거는 notify, 그 외는 scrape
+      # 실행 모드 판별: 매시 5분 트리거는 notify, 정각(0분)은 scrape
       # ----------------------------------------------------
       - name: Determine Action Type
         id: mode
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "action_type=${{ inputs.action_type }}" >> $GITHUB_OUTPUT
-          elif [[ "${{ github.event.schedule }}" =~ ^35\  ]] || [[ "${{ github.event.schedule }}" =~ ^5\  ]]; then
+          elif [[ "${{ github.event.schedule }}" =~ ^5\  ]]; then
             echo "action_type=notify" >> $GITHUB_OUTPUT
           else
             echo "action_type=scrape" >> $GITHUB_OUTPUT
