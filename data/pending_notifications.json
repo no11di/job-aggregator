@@ -98,6 +98,51 @@
       "title": "솔루션 QA",
       "link": "https://www.jumpit.co.kr/position/55062795",
       "deadline": "2026-10-16"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55065909",
+      "company_raw": "퍼솔코리아(유)",
+      "company_clean": "퍼솔코리아",
+      "title": "[외국계 해상운송기업] Database & Data Services Engineer 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55065909&location=ts&searchType=search&paid_fl=n&search_uuid=d4ead8e6-0d9c-42d8-a42f-cf2031eb07a5",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55066016",
+      "company_raw": "(주)비트컴퓨터",
+      "company_clean": "비트컴퓨터",
+      "title": "클라우드 EMR CLEMR 도입·교육 매니저 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55066016&location=ts&searchType=search&paid_fl=n&search_uuid=49742248-d2f9-412f-8648-3b2fd1f24467",
+      "deadline": "~ 10/17(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55065955",
+      "company_raw": "하비카디오(주)",
+      "company_clean": "하비카디오",
+      "title": "하비카디오(주)와 함께 AI의료기기 SW개발을 해요",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55065955&location=ts&searchType=search&paid_fl=n&search_uuid=40568754-09da-4fff-b2f2-ddbc10afcd7f",
+      "deadline": "~ 10/17(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55065861",
+      "company_raw": "(주)에스엠솔루션즈",
+      "company_clean": "에스엠솔루션즈",
+      "title": "시스템 SW 보안 분석(경력)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55065861&location=ts&searchType=search&paid_fl=n&search_uuid=40568754-09da-4fff-b2f2-ddbc10afcd7f",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55064116",
+      "company_raw": "(주)에리",
+      "company_clean": "에리",
+      "title": "(주)에리 인공지능(AI) 비전 및 AI솔루션 운영 엔지니어 경력 채용 공고입니다",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55064116&location=ts&searchType=search&paid_fl=n&search_uuid=40568754-09da-4fff-b2f2-ddbc10afcd7f",
+      "deadline": "~ 10/11(일)"
     }
   ]
 }
