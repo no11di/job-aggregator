@@ -2,7 +2,10 @@
   "jobs": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
       "platform": "saramin",
       "post_id": "55056505",
       "company_raw": "(주)사람인에이치에스",
@@ -30,6 +33,9 @@
       "deadline": "~ 09/30(수)"
     },
     {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "platform": "jobkorea",
       "post_id": "49959275",
