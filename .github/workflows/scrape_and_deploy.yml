@@ -13,9 +13,9 @@ on:
     # - cron: '0 12 * * *'   # 운영: 밤 21:00 스크랩
     # - cron: '5 12 * * *'   # 운영: 밤 21:05 알림
 
-    # [12시 테스트용 스케줄 (KST 12:00 / 12:05 -> UTC 03:00 / 03:05)]
-    - cron: '0 3 * * *'      # 테스트: 12:00 스크랩
-    - cron: '5 3 * * *'      # 테스트: 12:05 알림
+    # [테스트용 스케줄 (현재 12:15 이후 -> 12:30 스크랩, 12:35 알림)]
+    - cron: '30 3 * * *'     # 테스트: KST 12:30 (UTC 03:30)
+    - cron: '35 3 * * *'     # 테스트: KST 12:35 (UTC 03:35)
 
   workflow_dispatch:
     inputs:
@@ -43,6 +43,11 @@ jobs:
     outputs:
       action_type: ${{ steps.mode.outputs.action_type }}
     steps:
+      - name: Debug Context
+        run: |
+          echo "Triggered Event: ${{ github.event_name }}"
+          echo "Schedule: ${{ github.event.schedule }}"
+
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
@@ -60,14 +65,14 @@ jobs:
           pip install -r requirements.txt
 
       # ----------------------------------------------------
-      # 실행 모드 판별: 매시 5분 트리거는 notify, 그 외는 scrape
+      # 실행 모드 판별: 매시 35분/5분 트리거는 notify, 그 외는 scrape
       # ----------------------------------------------------
       - name: Determine Action Type
         id: mode
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "action_type=${{ inputs.action_type }}" >> $GITHUB_OUTPUT
-          elif [[ "${{ github.event.schedule }}" =~ ^5\  ]]; then
+          elif [[ "${{ github.event.schedule }}" =~ ^35\  ]] || [[ "${{ github.event.schedule }}" =~ ^5\  ]]; then
             echo "action_type=notify" >> $GITHUB_OUTPUT
           else
             echo "action_type=scrape" >> $GITHUB_OUTPUT
