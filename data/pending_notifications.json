@@ -1,3 +1,103 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55063538",
+      "company_raw": "(주)글로벌머니익스프레스",
+      "company_clean": "글로벌머니익스프레스",
+      "title": "[Card] 서버개발자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55063538&location=ts&searchType=search&paid_fl=n&search_uuid=e0e2a5ac-766a-48e2-8149-7a964971b948",
+      "deadline": "~ 10/17(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55062811",
+      "company_raw": "(주)포멀웍스",
+      "company_clean": "포멀웍스",
+      "title": "[신입/경력] 원자력발전소 임베디드 C 소프트웨어 검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55062811&location=ts&searchType=search&paid_fl=n&search_uuid=1d0be388-c583-4977-94e8-6d1fb4957b75",
+      "deadline": "~ 10/17(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55062445",
+      "company_raw": "(주)온택트헬스",
+      "company_clean": "온택트헬스",
+      "title": "심장초음파 품질관리(소노그래퍼 QA) 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55062445&location=ts&searchType=search&paid_fl=n&search_uuid=1d0be388-c583-4977-94e8-6d1fb4957b75",
+      "deadline": "~ 11/16(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55064604",
+      "company_raw": "(주)HR컨설팅그룹",
+      "company_clean": "HR컨설팅그룹",
+      "title": "[대기업 계열사] IT전문회사 / IT 품질관리(대리~과장급)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55064604&location=ts&searchType=search&paid_fl=n&search_uuid=1787f8c6-8a83-4649-bdd9-b540dc1da5fe",
+      "deadline": "~ 10/02(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55062795",
+      "company_raw": "(주)클로봇",
+      "company_clean": "클로봇",
+      "title": "솔루션 QA",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55062795&location=ts&searchType=search&paid_fl=n&search_uuid=1787f8c6-8a83-4649-bdd9-b540dc1da5fe",
+      "deadline": "~ 10/16(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50008946",
+      "company_raw": "㈜이글루코퍼레이션",
+      "company_clean": "㈜이글루코퍼레이션",
+      "title": "[연구개발본부] 자동차S/W 검증 담당자 (계약직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50008946?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/31(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50009793",
+      "company_raw": "㈜코리아인",
+      "company_clean": "㈜코리아인",
+      "title": "[성남/복지우수] 모바일/PC 게임 QA 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50009793?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~09/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50009086",
+      "company_raw": "㈜세나테크놀로지",
+      "company_clean": "㈜세나테크놀로지",
+      "title": "F/W, 모바일앱 테스트 (신입-5년 미만)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50009086?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/17(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119253845",
+      "company_raw": "㈜그린피플",
+      "company_clean": "㈜그린피플",
+      "title": "[대규모 채용/부발] 하이닉스 반도체 성능 검사 및 테스트 업무 사원",
+      "link": "https://www.albamon.com/jobs/detail/119253845?sc=612",
+      "deadline": "~10/07(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285017",
+      "company_raw": "㈜카카오게임즈",
+      "company_clean": "㈜카카오게임즈",
+      "title": "[경력] FunQA 담당자 영입",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285017&sc=612",
+      "deadline": "~10/01(목)"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55062795",
+      "company_raw": "클로봇",
+      "company_clean": "클로봇",
+      "title": "솔루션 QA",
+      "link": "https://www.jumpit.co.kr/position/55062795",
+      "deadline": "2026-10-16"
+    }
+  ]
 }
