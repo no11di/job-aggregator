@@ -1,3 +1,61 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+<<<<<<< Updated upstream
+=======
+      "platform": "saramin",
+      "post_id": "55056505",
+      "company_raw": "(주)사람인에이치에스",
+      "company_clean": "사람인에이치에스",
+      "title": "[대기업 IT/정규직] 공공 SI 프로젝트 품질관리(QA·PMO) 경력직",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55056505&location=ts&searchType=search&paid_fl=n&search_uuid=f890024a-2842-4ba7-876e-d2a87f4501ae",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "54713196",
+      "company_raw": "(주)피벗크리에이티브",
+      "company_clean": "피벗크리에이티브",
+      "title": "(상시)웹/앱 서비스 구축 및 운영 PM/PL 4년이상 10년이하 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54713196&location=ts&searchType=search&paid_fl=n&search_uuid=f890024a-2842-4ba7-876e-d2a87f4501ae",
+      "deadline": "~ 10/10(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "54679437",
+      "company_raw": "넥스트증권(주)",
+      "company_clean": "넥스트증권",
+      "title": "PostgreSQL DBA",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54679437&location=ts&searchType=search&paid_fl=n&search_uuid=f890024a-2842-4ba7-876e-d2a87f4501ae",
+      "deadline": "~ 09/30(수)"
+    },
+    {
+>>>>>>> Stashed changes
+      "platform": "jobkorea",
+      "post_id": "49959275",
+      "company_raw": "㈜맨파워코리아",
+      "company_clean": "㈜맨파워코리아",
+      "title": "[강남구청]미국계 패션브랜드 랄프로렌 IT Business Analyst(6M)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49959275?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/09(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50007826",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50007826?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/17(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50006715",
+      "company_raw": "㈜소와소",
+      "company_clean": "㈜소와소",
+      "title": "공공 정보화구축사업 사업관리, 품질관리, TA 모십니다.",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50006715?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~09/30(수)"
+    }
+  ]
 }
