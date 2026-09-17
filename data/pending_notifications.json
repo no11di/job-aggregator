@@ -1,3 +1,31 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "jobkorea",
+      "post_id": "49959275",
+      "company_raw": "㈜맨파워코리아",
+      "company_clean": "㈜맨파워코리아",
+      "title": "[강남구청]미국계 패션브랜드 랄프로렌 IT Business Analyst(6M)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49959275?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/09(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50007826",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50007826?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/17(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50006715",
+      "company_raw": "㈜소와소",
+      "company_clean": "㈜소와소",
+      "title": "공공 정보화구축사업 사업관리, 품질관리, TA 모십니다.",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50006715?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~09/30(수)"
+    }
+  ]
 }

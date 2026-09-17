@@ -1,4211 +1,7 @@
 {
-  "total_companies": 498,
-  "total_jobs": 714,
+  "total_companies": 312,
+  "total_jobs": 421,
   "data": [
-    {
-      "company_name": "포인트모바일",
-      "company_raw": "(주)포인트모바일",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55024548",
-          "title": "(주)포인트모바일 DQA팀 SQA TEST 엔지니어 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55024548&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/14(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54865481",
-          "title": "DQA팀 HW / 기구 신뢰성 테스트 engineer 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54865481&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/26(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "㈜와이드넷엔지니어링",
-      "company_raw": "㈜와이드넷엔지니어링",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54895388",
-          "title": "[IT/경력] 소프트웨어 테스트엔지니어(QA) 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54895388&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49822359",
-          "title": "[IT/신입] 이동통신 망 테스트 채용",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49822359?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "모레마감",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49674122",
-          "title": "[IT/경력] 소프트웨어 테스트엔지니어(QA) 채용",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49674122?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~09/27(일)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49673498",
-          "title": "[IT/신입] 소프트웨어 테스트엔지니어(QA) 채용",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49673498?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~09/27(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "사람인",
-      "company_raw": "(주)사람인",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54958719",
-          "title": "[사람인] 플랫폼 QA엔지니어(육아휴직 대체)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54958719&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/27(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "지에스아이오토모티브",
-      "company_raw": "(주)지에스아이오토모티브",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54956887",
-          "title": "[정규직] Python / APP / Web SW 품질검증(SQA) 담당자",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54956887&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 11/06(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "인젠트",
-      "company_raw": "(주)인젠트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54812947",
-          "title": "SQA Engineer 경력직 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54812947&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/19(토)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54812947",
-          "title": "SQA Engineer 경력직 채용",
-          "link": "https://www.jumpit.co.kr/position/54812947",
-          "deadline": "2026-09-19",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "알피니언메디칼시스템",
-      "company_raw": "알피니언메디칼시스템",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54810153",
-          "title": "[일진그룹] 초음파 진단기 SQA 사원급",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54810153&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "터닝포인트에이치알",
-      "company_raw": "(주)터닝포인트에이치알",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55051970",
-          "title": "그룹사 대기업, IT계열사, SI 프로젝트 AA",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55051970&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55051951",
-          "title": "그룹사 대기업, IT계열사, SI 프로젝트 TA",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55051951&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55051910",
-          "title": "그룹사 대기업, IT계열사, SI 프로젝트 DA",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55051910&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55051888",
-          "title": "그룹사 대기업, IT계열사, SI 프로젝트 사업관리",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55051888&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55051870",
-          "title": "그룹사 대기업, IT계열사, SI 프로젝트 품질관리",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55051870&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "티니어",
-      "company_raw": "(주)티니어",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54893917",
-          "title": "[글로벌 앱 플랫폼] QA (2년 이상)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54893917&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "제니엘",
-      "company_raw": "(주)제니엘",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55009581",
-          "title": "기술영업 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55009581&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/13(화)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55009589",
-          "title": "IT영업 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55009589&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/13(화)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55009599",
-          "title": "전자제품 유지보수 B2B영업 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55009599&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/13(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "미리디",
-      "company_raw": "(주)미리디",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54810137",
-          "title": "[커머스 플랫폼] QA 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54810137&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/20(화)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54865061",
-          "title": "[미리캔버스] QA 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54865061&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/26(월)",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "336669",
-          "title": "[미리캔버스] QA 엔지니어 (계약직)",
-          "link": "https://career.rememberapp.co.kr/job/posting/336669",
-          "deadline": "2026-10-27",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "256105",
-          "title": "[커머스 플랫폼] QA 엔지니어",
-          "link": "https://career.rememberapp.co.kr/job/posting/256105",
-          "deadline": "2026-10-23",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "헬로에이치알",
-      "company_raw": "(주)헬로에이치알",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54928691",
-          "title": "분야 1위 기업 개발 QA (모바일 기기) 팀장급 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54928691&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "㈜알티캐스트",
-      "company_raw": "㈜알티캐스트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55027844",
-          "title": "품질검증 STB/APP/WEB/서버 QA 신입/경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55027844&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 11/13(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "멘토스",
-      "company_raw": "(주)멘토스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54996313",
-          "title": "[서울/경기]소프트웨어 테스트 엔지니어 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54996313&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/10(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "프라이빗에이아이",
-      "company_raw": "프라이빗에이아이(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54979027",
-          "title": "제품 QA 경력자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54979027&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/07(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "로킷헬스케어",
-      "company_raw": "(주)로킷헬스케어",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54667352",
-          "title": "[코스닥상장사]의료기기 개발품질관리 및 문서화 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54667352&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54505738",
-          "title": "[코스닥상장사] 로킷헬스케어 F/W 개발 및 테스트 담당자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54505738&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에스티에이테스팅컨설팅",
-      "company_raw": "(주)에스티에이테스팅컨설팅",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54976835",
-          "title": "[ISTQB 교육/자격시험 지원]SW테스트 엔지니어  모집 [경력자]",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54976835&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 11/07(토)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54876320",
-          "title": "[ISTQB 교육/자격시험 지원]SW테스트 엔지니어 경력자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54876320&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/27(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "글로벌머니익스프레스",
-      "company_raw": "(주)글로벌머니익스프레스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54964458",
-          "title": "[Card] 서버개발자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54964458&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/07(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54964439",
-          "title": "[Remittance] QA 리드 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54964439&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/07(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이치엔엘",
-      "company_raw": "주식회사에이치엔엘",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54854989",
-          "title": "주식회사에이치엔엘 E-Commerce SW테스트 엔지니어 채용 공고",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54854989&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/25(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "제스큐",
-      "company_raw": "(주)제스큐",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54960872",
-          "title": "[보라매역] S/W QA 엔지니어 채용 (프리랜서)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54960872&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 11/06(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54957645",
-          "title": "[판교] SW QA / 테스터 정규직 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54957645&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 11/06(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54699284",
-          "title": "QA·테스터 정규직 채용 (Web, Mobile App)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54699284&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54912068",
-          "title": "[상암] QA·테스터 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54912068&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 10/31(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "와이즈와이어즈",
-      "company_raw": "와이즈와이어즈(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54958499",
-          "title": "[와이즈와이어즈] 시험 인증 테스트 엔지니어 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54958499&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/21(월)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54958489",
-          "title": "[와이즈와이어즈] 금융 SW테스트엔지니어 경력직 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54958489&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/21(월)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54958477",
-          "title": "[와이즈와이어즈]증권사 경력 및 퇴직(예정)자 채용 (SW 테스터)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54958477&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/21(월)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54958465",
-          "title": "[와이즈와이어즈] 금융/이커머스 SW테스트엔지니어 경력직 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54958465&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/21(월)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54958451",
-          "title": "[와이즈와이어즈]SW테스트엔지니어(SQA) 신입/경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54958451&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/21(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "델타엑스",
-      "company_raw": "(주)델타엑스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54923836",
-          "title": "[사업본부] PM/영업/SW품질 AI분야 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54923836&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/02(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54923684",
-          "title": "[사업본부] 인증/영업/PM/품질/생산기술 ESS분야 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54923684&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/02(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "쓰리아이",
-      "company_raw": "(주)쓰리아이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54575020",
-          "title": "QA Manager",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54575020&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엠클라우독",
-      "company_raw": "(주)엠클라우독",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54913698",
-          "title": "SW품질보증 엔지니어 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54913698&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "유비온",
-      "company_raw": "(주)유비온",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54876766",
-          "title": "(주)유비온 플랫폼엔지니어링팀 신규 운영자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54876766&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/27(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "이노에이엑스",
-      "company_raw": "(주)이노에이엑스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54855035",
-          "title": "AX Center PM/AI 시스템개발 경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54855035&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "위펀",
-      "company_raw": "(주)위펀",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54830921",
-          "title": "AI 서비스 QA 엔지니어 (테스트자동화/품질관리)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54830921&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55003405",
-          "title": "DevOps 리더 (Operations&Security)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55003405&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54832627",
-          "title": "[CEO Staff] 풀스택 개발자 (JavaScript/TypeScript)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54832627&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54830256",
-          "title": "프론트엔드 개발자 (React)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54830256&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54814455",
-          "title": "백엔드 개발자 (경력 5년 이상)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54814455&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54830151",
-          "title": "시니어 백엔드 개발자 (경력 8년 이상)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54830151&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "340261",
-          "title": "DevOps 리더 (Operations&Security)",
-          "link": "https://career.rememberapp.co.kr/job/posting/340261",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "336683",
-          "title": "B2B 플랫폼 서비스기획자 / PO (Product Owner)",
-          "link": "https://career.rememberapp.co.kr/job/posting/336683",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "336694",
-          "title": "시니어 백엔드 개발자 (경력 8년 이상)",
-          "link": "https://career.rememberapp.co.kr/job/posting/336694",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "336695",
-          "title": "프론트엔드 개발자 (React)",
-          "link": "https://career.rememberapp.co.kr/job/posting/336695",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "336696",
-          "title": "AI 서비스 QA 엔지니어 (테스트자동화/품질관리)",
-          "link": "https://career.rememberapp.co.kr/job/posting/336696",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "336693",
-          "title": "백엔드 개발자 (경력 5년 이상)",
-          "link": "https://career.rememberapp.co.kr/job/posting/336693",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "336682",
-          "title": "Fullstack Engineer(JS/TS,CEO Staff)",
-          "link": "https://career.rememberapp.co.kr/job/posting/336682",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "리드워크",
-      "company_raw": "(주)리드워크",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54795910",
-          "title": "[리드워크/정규직] QA 엔지니어 채용 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54795910&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/19(토)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55002948",
-          "title": "[리드워크/정규직] 임상시험 솔루션 QA 엔지니어 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002948&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/10(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이에프아이",
-      "company_raw": "(주)에이에프아이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54810591",
-          "title": "(주)에이에프아이에서 QA 엔지니어를 찾고 있어요",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54810591&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "어니컴",
-      "company_raw": "어니컴(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54977977",
-          "title": "[판교] 자동화 테스트 엔지니어 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54977977&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 11/07(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "슈어소프트테크",
-      "company_raw": "슈어소프트테크(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54781863",
-          "title": "2026 하반기 신입/경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54781863&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/18(일)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55053541",
-          "title": "[슈어소프트테크] 실차 적합성 검증 모빌리티솔루션실 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55053541&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/16(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54894488",
-          "title": "[모빌리티SW전략2팀] SW검증 채용 정규직/계약직",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54894488&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "비컴솔루션",
-      "company_raw": "비컴솔루션(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54905919",
-          "title": "2026년 비컴솔루션(주) SQA(이천) 운영 부문 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54905919&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에스이에스",
-      "company_raw": "(주)에스이에스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54939199",
-          "title": "[판교] 프린터(HW) 동작시험 및 테스트 엔지니어 (영어가능자)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54939199&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/29(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "아이앤씨테크놀로지",
-      "company_raw": "(주)아이앤씨테크놀로지",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55053566",
-          "title": "SW 엔지니어 채용 (NB-IoT / Kepco)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55053566&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/16(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "모디엠",
-      "company_raw": "(주)모디엠",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55044006",
-          "title": "(주)모디엠 [남양주/다산동] 개발 내비게이션 SW테스트 채용[QA]",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55044006&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/15(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이치알비즈코리아",
-      "company_raw": "(주)에이치알비즈코리아",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55040782",
-          "title": "개발QA 담당/ 모바일 RPG/세계적인 게임사/판교 근무",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55040782&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55040674",
-          "title": "FQA 담당/모바일 RPG/세계적인 게임사/판교",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55040674&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "파크시스템스",
-      "company_raw": "파크시스템스(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54976394",
-          "title": "R&D부문 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54976394&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54976560",
-          "title": "운영관리부문 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54976560&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "메리티움",
-      "company_raw": "메리티움(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55032032",
-          "title": "[화성/임베디드] QA엔지니어 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55032032&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 10/14(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54973752",
-          "title": "[서초] SQA 테스트 엔지니어 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54973752&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/08(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "비비파트너스",
-      "company_raw": "(주)비비파트너스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54986650",
-          "title": "반도체 직접회로 1위 기업 메모리 모듈 품질관리 및 기술지원",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54986650&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/22(화)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55043948",
-          "title": "HW 보안 솔루션 전문사에서 SoC 반도체 칩 개발 팀장 및 팀원",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55043948&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/28(월)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55043920",
-          "title": "보안 솔루션 회사에서 안드로이드 IOS용 인증AGENT개발",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55043920&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/28(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "위키에이드",
-      "company_raw": "위키에이드",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54977402",
-          "title": "[판교/코스닥] 통신장비 시스템 검증",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54977402&location=ts&searchType=search&paid_fl=n&search_uuid=564491b5-46c4-4405-915a-8de189beed55",
-          "deadline": "~ 09/23(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "네이버제트",
-      "company_raw": "네이버제트(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54959314",
-          "title": "[NAVER Z] 제페토 챗봇 QA 담당 (계약직)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54959314&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "큐드",
-      "company_raw": "(주)큐드",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54958913",
-          "title": "[의왕] 차량용 SW 개발 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54958913&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/07(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54772191",
-          "title": "[평촌] SW테스트엔지니어(QA) 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54772191&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/17(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "모토닉스",
-      "company_raw": "(주)모토닉스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54896392",
-          "title": "[자동차전장] 신뢰성 시험 부문 채용모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54896392&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "우리산업",
-      "company_raw": "우리산업(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54852712",
-          "title": "우리산업(주)  용인연구소 S/W 경력직 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54852712&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "다산네트웍솔루션즈",
-      "company_raw": "(주)다산네트웍솔루션즈",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54843758",
-          "title": "네트워크 장비 검증 엔지니어 경력직 채용 (과천)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54843758&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/24(목)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54895177",
-          "title": "[다산네트웍솔루션즈] 네트워크 기술지원 엔지니어 채용 (경력)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54895177&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/21(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "파인서비스",
-      "company_raw": "(주)파인서비스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54771832",
-          "title": "[AS 엔지니어] 부문 경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54771832&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "오늘마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "큐그릿",
-      "company_raw": "(주)큐그릿",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54651046",
-          "title": "커머스 플랫폼 QA/테스트 엔지니어 채용 (경력 1~5년)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54651046&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/03(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "두원전자",
-      "company_raw": "(주)두원전자",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54907548",
-          "title": "각 부문별 신입 및 경력모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54907548&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 11/30(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "인피닉",
-      "company_raw": "(주)인피닉",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55050100",
-          "title": "[마곡] SW 테스트 엔지니어(QA) 신입사원 채용(운전/출장가능자)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050100&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "내일마감",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55024857",
-          "title": "[가산] SW 테스트 엔지니어 (QA) 신입 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55024857&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54991892",
-          "title": "[마곡] SW 테스트 엔지니어(QA) 경력사원 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54991892&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54945550",
-          "title": "[수원] SW 테스트 엔지니어 (QA) 신입 및 경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54945550&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/04(일)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49902975",
-          "title": "(주) 인피닉 AI 품질관리 담당자 채용",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49902975?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~10/01(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "콜로세움코퍼레이션",
-      "company_raw": "(주)콜로세움코퍼레이션",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55040503",
-          "title": "QA Engineer (5년이상)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55040503&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/14(수)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49994765",
-          "title": "QA Engineer (5년 이상)",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49994765?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~10/15(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "위즈코리아",
-      "company_raw": "(주)위즈코리아",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54898973",
-          "title": "㈜위즈코리아 '26년 하반기 정기 채용 신입/경력 사원 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54898973&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/31(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엔젤로보틱스",
-      "company_raw": "(주)엔젤로보틱스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54909577",
-          "title": "2026 엔젤로보틱스 각 분야 채용 공고",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54909577&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54909722",
-          "title": "2026 엔젤로보틱스 대전연구소 연구원 채용 (전문연구요원-병역특례 가능)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54909722&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "337661",
-          "title": "[엔젤로보틱스] Software Quality Assurance (SW QA)",
-          "link": "https://career.rememberapp.co.kr/job/posting/337661",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "337666",
-          "title": "[엔젤로보틱스] Medical Device SW Quality Engineer",
-          "link": "https://career.rememberapp.co.kr/job/posting/337666",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "웨어밸리",
-      "company_raw": "(주)웨어밸리",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54828739",
-          "title": "각 부문별 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54828739&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "미소",
-      "company_raw": "유한회사 미소",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55015238",
-          "title": "[O2O홈서비스 플랫폼 miso] Software QA Engineer",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55015238&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/11(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "비아이매트릭스",
-      "company_raw": "(주)비아이매트릭스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54883796",
-          "title": "[코스닥기업] AX 프로젝트 담당자",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54883796&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "해커스교육그룹",
-      "company_raw": "해커스교육그룹",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54325136",
-          "title": "2026년 해커스 교육그룹 [신입/경력] 각 부문별 채용공고",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54325136&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "플래티어",
-      "company_raw": "(주)플래티어",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54770914",
-          "title": "(주)플래티어 AI CX사업부문 직군별 경력직 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54770914&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/17(토)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55011605",
-          "title": "[AI CX사업부문] QA 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55011605&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/11(일)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "55011605",
-          "title": "[AI CX사업부문] QA 엔지니어",
-          "link": "https://www.jumpit.co.kr/position/55011605",
-          "deadline": "2026-10-11",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "326743",
-          "title": "[AI CX사업부문] QA 엔지니어",
-          "link": "https://career.rememberapp.co.kr/job/posting/326743",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "한국이에이피협회",
-      "company_raw": "(사)한국이에이피협회",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55054122",
-          "title": "[IT기획팀] 팀원(개발자) 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55054122&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 11/15(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "펨트론",
-      "company_raw": "(주)펨트론",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55053604",
-          "title": "[펨트론] SWQA 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55053604&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/30(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "프로보티브",
-      "company_raw": "(주)프로보티브",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55052011",
-          "title": "AI·엔지니어링 총괄(Head of AI & Engineering)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55052011&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 11/15(일)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55051764",
-          "title": "개발팀장 (Tech Lead)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55051764&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 11/15(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "DK메디칼솔루션",
-      "company_raw": "DK메디칼솔루션(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55051665",
-          "title": "DK메디칼솔루션 서울본사 X RAY 기술직 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55051665&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/16(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "토모도모",
-      "company_raw": "토모도모(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54958274",
-          "title": "올리브영 글로벌 프로젝트 초/중급 테스터 5명 채용(1년,시청역)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54958274&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/07(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "뷰런테크놀로지",
-      "company_raw": "(주)뷰런테크놀로지",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55050134",
-          "title": "[Vueron] Field Engineer(Smart Infra) 신입 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55050134&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/16(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "자이크론",
-      "company_raw": "(주)자이크론",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54499078",
-          "title": "[경력사원] PCB CAM S/W 테스터 정규직 모집합니다",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54499078&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "HR컨설팅",
-      "company_raw": "HR컨설팅(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55049590",
-          "title": "대기업 계열IT사 Tech QAO 경력 만 7년 이상 15년이하",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55049590&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/01(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "빅인사이트",
-      "company_raw": "(주)빅인사이트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55049038",
-          "title": "운영담당자(Operations) 신입 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55049038&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 11/15(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "윙소프트",
-      "company_raw": "(주)윙소프트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54766674",
-          "title": "[경력]온라인 시스템 및 서비스 기획자 PA QA 모집 5년",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54766674&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "씨브이네트",
-      "company_raw": "(주)씨브이네트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55009114",
-          "title": "[삼성 계열사 씨브이네트] 제품 품질관리 (육휴 대체 계약직)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55009114&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 11/10(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "큐피스트",
-      "company_raw": "(주)큐피스트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "51290978",
-          "title": "QA 엔지니어 (주니어)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=51290978&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "피쓰리코리아",
-      "company_raw": "피쓰리코리아(유)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55042207",
-          "title": "차량 소프트웨어 QA Test Engineer (경력)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55042207&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49995479",
-          "title": "차량 소프트웨어 QA Test Engineer (경력)",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49995479?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~09/25(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "잡앤피플코리아",
-      "company_raw": "(주)잡앤피플코리아",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55041745",
-          "title": "[구로/연3,800] 유명 게임 대기업 보안 모니터링 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55041745&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "284951",
-          "title": "[구로/3천중후반] 유명 게임 대기업 보안 모니터링 담당자 채용",
-          "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=284951&sc=612",
-          "deadline": "~09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "284948",
-          "title": "[구로/3600] 유명게임 대기업 보안 솔루션 QA 및 보안 검수 담당",
-          "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=284948&sc=612",
-          "deadline": "~09/26(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이스올루션글로벌",
-      "company_raw": "에이스올루션글로벌 주식회사",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54913323",
-          "title": "Android / Wearable QA 및 테스트 엔지니어 (재택근무)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54913323&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/01(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "아데코코리아",
-      "company_raw": "(주)아데코코리아",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55039775",
-          "title": "[역삼/EA Korea] FC Online 중국 서비스 운영 담당자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55039775&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에스알포스트",
-      "company_raw": "(주)에스알포스트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55038913",
-          "title": "공공 SM 프로젝트 사업관리 지원",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55038913&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 11/14(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "보나네트웍스",
-      "company_raw": "보나네트웍스 주식회사",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55038468",
-          "title": "[3개월] 단순 태그 생산/검수/포장 단기계약직",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55038468&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/15(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엠이에이엔",
-      "company_raw": "(주)엠이에이엔",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55033953",
-          "title": "(주)엠이에이엔에서  중계 인프라 야간 OP를 찾고 있어요",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55033953&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/14(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "노버스메이",
-      "company_raw": "(주)노버스메이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55033000",
-          "title": "[노버스메이] 서비스 운영 및 기술지원 채용공고",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55033000&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/14(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54685000",
-          "title": "[노버스메이] PC-OFF 솔루션 기술지원 담당자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54685000&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/06(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "미스터픽",
-      "company_raw": "(주)미스터픽",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54621415",
-          "title": "[첫차]와 함께 할 프로덕트 매니저(PM)를 찾습니다.",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54621415&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/11(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "비트컴퓨터",
-      "company_raw": "(주)비트컴퓨터",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54894928",
-          "title": "클라우드 EMR CLEMR 도입·교육 매니저 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54894928&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54919896",
-          "title": "의원 EMR 납품/교육 및 기술지원 담당자모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54919896&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/02(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "데브시스터즈",
-      "company_raw": "데브시스터즈(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55030500",
-          "title": "[쿠키런: 크럼블] QA (1년 계약직)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55030500&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/14(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엠서클",
-      "company_raw": "(주)엠서클",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55030134",
-          "title": "[엠서클] 웰체크 서비스 기획자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55030134&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/07(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "알체라",
-      "company_raw": "(주)알체라",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55028314",
-          "title": "인공지능 학습용 데이터 품질 컨설턴트 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55028314&location=ts&searchType=search&paid_fl=n&search_uuid=4578aeb0-a269-473b-97e1-e8bf3fb8af6e",
-          "deadline": "~ 10/14(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엔피코어",
-      "company_raw": "(주)엔피코어",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55028190",
-          "title": "(주)엔피코어 보안 솔루션 QA 담당자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55028190&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "티벨",
-      "company_raw": "(주)티벨",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55027479",
-          "title": "[경력] (주)티벨 SW 테스터 경력직 우대 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55027479&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/14(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "구루멘토링",
-      "company_raw": "구루멘토링(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55021965",
-          "title": "지능형 영상감시시스템 구축 기술인력 모집(AI 기술 경험 우대)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55021965&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/13(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "트랜스코스모스코리아",
-      "company_raw": "(주)트랜스코스모스코리아",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54997294",
-          "title": "[주5일/강동] 신성통상 자사몰 웹·모바일 QA 담당자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54997294&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이치알포유",
-      "company_raw": "에이치알포유(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55019229",
-          "title": "[코스피 상장 IT서비스 중견기업] 증권사 IT 품질관리(3~12년)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55019229&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "내일마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "호전실업",
-      "company_raw": "호전실업(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55000502",
-          "title": "기계장치 개발자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55000502&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54920751",
-          "title": "전기전자장치 개발자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54920751&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/01(목)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54920751",
-          "title": "전기전자장치 개발자 채용",
-          "link": "https://www.jumpit.co.kr/position/54920751",
-          "deadline": "2026-10-01",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "55000502",
-          "title": "기계장치 개발자 채용",
-          "link": "https://www.jumpit.co.kr/position/55000502",
-          "deadline": "2026-10-09",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "스콘에이아이",
-      "company_raw": "스콘에이아이(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54731093",
-          "title": "AI 통역 서비스 현장/온라인 운영 담당",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54731093&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "스콥정보통신",
-      "company_raw": "스콥정보통신(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55012955",
-          "title": "스콥정보통신(주) QA 담당자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55012955&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "온택트헬스",
-      "company_raw": "(주)온택트헬스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54985288",
-          "title": "의료기기 인허가 QMS 담당자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54985288&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 11/08(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "㈜화인폰",
-      "company_raw": "㈜화인폰",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55011696",
-          "title": "Factory SW 양산 디버깅 엔지니어 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55011696&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/11(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "굿커리어",
-      "company_raw": "굿커리어",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55011270",
-          "title": "의료기기 QA,QMS/4등급/12~16년/바이오헬스케어기업",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55011270&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/26(토)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54999702",
-          "title": "소프트웨어 QC /전자의료기기/2~5년/헬스케어스타트업",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54999702&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/23(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54999689",
-          "title": "정보보안/GDPR, HIPAA/국제인증필수/3~6년/헬스케어스타트업",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54999689&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/23(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "마플코퍼레이션",
-      "company_raw": "(주)마플코퍼레이션",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55010772",
-          "title": "QA 엔지니어 [씨미 글로벌] 포지션 (계약직)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55010772&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/11(일)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49972652",
-          "title": "QA 엔지니어 [씨미 글로벌] 포지션 (계약직)",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49972652?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~10/11(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "아이씨알",
-      "company_raw": "(주)아이씨알",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55007576",
-          "title": "사이버보안테스트(산업기기,무선,의료기기 등) 신입 및 경력채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55007576&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/11(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "노츠",
-      "company_raw": "노츠(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55007499",
-          "title": "[노츠] Web/App 소프트웨어 테스트 엔지니어 모집 (성수/강남)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55007499&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55041976",
-          "title": "[노츠] 자동화 테스트 엔지니어 모집 (판교)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55041976&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55031370",
-          "title": "[노츠] 자동차 전장 SW 테스트 엔지니어 모집 (제 2판교)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55031370&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55001629",
-          "title": "[노츠] 텔레매틱스 SW 테스트 엔지니어 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55001629&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "쿠팡",
-      "company_raw": "쿠팡(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55005782",
-          "title": "[쿠팡] 카탈로그 품질 검수 및 운영 프로세스 개선 (2년 이상)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55005782&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/10(토)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54908364",
-          "title": "[쿠팡] 카탈로그 품질 검수 담당자 (주니어)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54908364&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 10/01(목)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54883209",
-          "title": "[쿠팡] 시니어 운영 프로세스 개선 분석가 (Catalog Ops)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54883209&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "341254",
-          "title": "[쿠팡] 커머스 라이브/콘텐츠 품질관리팀 매니저(Live Quality Assurance)",
-          "link": "https://career.rememberapp.co.kr/job/posting/341254",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "339418",
-          "title": "[쿠팡] Senior QA Engineer (Advertiser Platform)",
-          "link": "https://career.rememberapp.co.kr/job/posting/339418",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "331164",
-          "title": "[Coupang Pay] Software Development Engineer in Test (계약직)",
-          "link": "https://career.rememberapp.co.kr/job/posting/331164",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "262489",
-          "title": "[쿠팡] 판매자 어뷰징 관리 담당자",
-          "link": "https://career.rememberapp.co.kr/job/posting/262489",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "폴리인스퍼레이션",
-      "company_raw": "(주)폴리인스퍼레이션",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54961520",
-          "title": "[Poly Inspiration] AI Product Planner 포지션 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54961520&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/21(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "크립토랩",
-      "company_raw": "(주)크립토랩",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55002597",
-          "title": "정보보안 담당자",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002597&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "디마코코리아",
-      "company_raw": "(주)디마코코리아",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54990925",
-          "title": "[디마코코리아] 인플루언서 캠페인 운영자 경력 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54990925&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54587633",
-          "title": "[디마코코리아] 플랫폼 운영/기획 신입, 경력 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54587633&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/26(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "커리어라이즈",
-      "company_raw": "(주)커리어라이즈",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54990038",
-          "title": "[초우량 반도체 기업] QA Engineer",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54990038&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/24(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "폼즈",
-      "company_raw": "(주)폼즈",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54988734",
-          "title": "[사업확대] 품질관리팀 QC 경력직 실무담당자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54988734&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "모비소프트",
-      "company_raw": "(주)모비소프트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54986191",
-          "title": "[주4.5일근무] 서비스 데이터 운영 담당자",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54986191&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "테스트코윈",
-      "company_raw": "테스트코윈",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54979685",
-          "title": "(App/Web) 테스트엔지니어 SQA 테스트 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54979685&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "내일마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "인라이플",
-      "company_raw": "(주)인라이플",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54979467",
-          "title": "[주4.5일근무] 테스트 및 운영 담당자",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54979467&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/08(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "맨토스파워",
-      "company_raw": "(주)맨토스파워",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54975586",
-          "title": "[대기업]  CISO(정보보호 총괄 임원) 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54975586&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "㈜대우루컴즈",
-      "company_raw": "㈜대우루컴즈",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54843549",
-          "title": "제품 개발 모집 (경력)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54843549&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "헥토큐앤엠",
-      "company_raw": "(주)헥토큐앤엠",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54970636",
-          "title": "[헥토큐앤엠] 서비스모니터링 테스트, 관제 담당자 채용(계약직)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54970636&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/08(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "포인트아이",
-      "company_raw": "포인트아이(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54927117",
-          "title": "[신입] 포인트아이 기술팀 함께 성장할 엔지니어 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54927117&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 11/02(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "씨메스로보틱스",
-      "company_raw": "씨메스로보틱스(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54943841",
-          "title": "시스템 엔지니어링",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943841&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/03(토)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54912559",
-          "title": "S/W PM",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54912559&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54912478",
-          "title": "제품화 기획 및 PM",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54912478&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54912572",
-          "title": "Physical AI 기획 및 PM",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54912572&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "340501",
-          "title": "Vision Field Application Engineer",
-          "link": "https://career.rememberapp.co.kr/job/posting/340501",
-          "deadline": "2026-10-09",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "티오더스테이",
-      "company_raw": "(주)티오더스테이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54942467",
-          "title": "(주)티오더스테이 호텔 서비스 플랫폼 운영팀(CS/설치)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54942467&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 11/03(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "폴리엇",
-      "company_raw": "(주)폴리엇",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54940361",
-          "title": "[QA] 글로벌 차량 관련 소프트웨어 테스트 엔지니어 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54940361&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/04(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "스냅컴퍼니",
-      "company_raw": "(주)스냅컴퍼니",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54934626",
-          "title": "[스냅컴퍼니] AI 서비스 QA 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54934626&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54605292",
-          "title": "[스냅컴퍼니] 웹솔루션 QA 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54605292&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "와이즈스톤티",
-      "company_raw": "(주)와이즈스톤티",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54647211",
-          "title": "[와이즈스톤티] E-commerce소프트웨어 QA 테스터 경력 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54647211&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/03(토)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54597646",
-          "title": "[와이즈스톤티] 모바일 금융 App 서비스 QA 테스터 경력(판교)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54597646&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "스파크플러스",
-      "company_raw": "주식회사 스파크플러스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54932029",
-          "title": "[스파크플러스] QA Specialist(계약직)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54932029&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "비즈비",
-      "company_raw": "(주)비즈비",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54927006",
-          "title": "bizbee ERP 구축 개발 컨설턴트 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54927006&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/03(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "지비소프트",
-      "company_raw": "(주)지비소프트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54638093",
-          "title": "[지비소프트] QA엔지니어(경력) 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54638093&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/02(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "헬스허브",
-      "company_raw": "(주)헬스허브",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54642857",
-          "title": "(주)헬스허브 RA · QA 담당자 (인허가 및 품질보증)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54642857&location=ts&searchType=search&paid_fl=n&search_uuid=d523a9b5-88f3-483d-8f6b-f7c852d7f660",
-          "deadline": "~ 10/02(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "씨드로닉스",
-      "company_raw": "씨드로닉스(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54535393",
-          "title": "AI 학습데이터 매니저 - 해양 Radar 가공 검수/운영",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54535393&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54535423",
-          "title": "AI 학습데이터 매니저 - Camera 가공 검수/운영",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54535423&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이스휴먼파워",
-      "company_raw": "에이스휴먼파워(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54922427",
-          "title": "[육아휴직대체/월400만] 대한항공C&D  IT운영 담당자 경력직채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54922427&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "오늘마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "템프인",
-      "company_raw": "템프인(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54920105",
-          "title": "[강남구청/연봉협의]교육기관 웹서비스기획 경력직",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54920105&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 10/02(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "피트릭스",
-      "company_raw": "(주)피트릭스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54892590",
-          "title": "[현대자동차 사내벤처 ㈜피트릭스] 기술지원 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54892590&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엠알씨앤에스",
-      "company_raw": "엠알씨앤에스주식회사",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54910589",
-          "title": "프로그램 유지운영 및 상품관리하실 분을 모집 합니다.",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54910589&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 10/01(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "컴즈",
-      "company_raw": "컴즈(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54907136",
-          "title": "S/W QA & Test Engineer (신입/경력) 모집합니다.",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54907136&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 10/02(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "매드업",
-      "company_raw": "매드업",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54906896",
-          "title": "[제품 본부] 데이터 오퍼레이션 매니저 - 3년 이상 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54906896&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49895336",
-          "title": "[제품 본부] 데이터 오퍼레이션 매니저 - 3년 이상 채용",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49895336?rPageCode=SL&logpath=21&sn=6&sc=612",
-          "deadline": "~09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "나인닷츠컨설팅",
-      "company_raw": "(주)나인닷츠컨설팅",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54897787",
-          "title": "AI Agent Engineer (M365 & Automation) 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54897787&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54897780",
-          "title": "Microsoft 365 서비스 개발 및 시스템 운영 전문가 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54897780&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54616455",
-          "title": "[9 Dots Consulting] ERP 물류 컨설턴트 유경험자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54616455&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54616429",
-          "title": "[9 Dots Consulting] ERP 회계 컨설턴트 유경험자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54616429&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "큐앤피플",
-      "company_raw": "(주)큐앤피플",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54845014",
-          "title": "(주)큐앤피플 전장 SW 개발 운영 경력 채용 공고",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54845014&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/24(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "마크애니",
-      "company_raw": "(주)마크애니",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54893239",
-          "title": "[경력] 솔루션 QC 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54893239&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "이너버스",
-      "company_raw": "(주)이너버스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54871745",
-          "title": "백엔드 개발자 (주니어)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54871745&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54871749",
-          "title": "백엔드 개발자 (시니어)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54871749&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54871744",
-          "title": "백엔드 개발자 (신입)",
-          "link": "https://www.jumpit.co.kr/position/54871744",
-          "deadline": "2026-09-25",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54871745",
-          "title": "백엔드 개발자 (주니어)",
-          "link": "https://www.jumpit.co.kr/position/54871745",
-          "deadline": "2026-09-25",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54871749",
-          "title": "백엔드 개발자 (시니어)",
-          "link": "https://www.jumpit.co.kr/position/54871749",
-          "deadline": "2026-09-25",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "넷마블",
-      "company_raw": "넷마블(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54867719",
-          "title": "AI 엔지니어(VLM 기반 게임 에이전트)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54867719&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54867784",
-          "title": "AI 엔지니어(음성 에이전트) 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54867784&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54866590",
-          "title": "AI 연구 및 서비스 개발",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54866590&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "클라우드네트웍스",
-      "company_raw": "(주)클라우드네트웍스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54701348",
-          "title": "[클라우드네트웍스] AI 솔루션 엔지니어 모집 (경력)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54701348&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "아이티레이",
-      "company_raw": "(주)아이티레이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54880739",
-          "title": "[아이티레이]솔루션(SW) 기술지원 엔지니어 채용[경력]",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54880739&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "위베어소프트",
-      "company_raw": "(주)위베어소프트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54871925",
-          "title": "프로덕트 엔지니어 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54871925&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/23(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "비스캣",
-      "company_raw": "비스캣(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54868749",
-          "title": "로봇 소프트웨어 플랫폼 개발자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54868749&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "블룸에이아이",
-      "company_raw": "(주)블룸에이아이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54868660",
-          "title": "[블룸에이아이] QA담당자 채용 (3년~8년)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54868660&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 10/26(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "피플앤드테크놀러지",
-      "company_raw": "(주)피플앤드테크놀러지",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54855971",
-          "title": "[피플앤드테크놀러지] 글로벌 기술 엔지니어(프리세일즈) 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54855971&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 10/25(일)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49781503",
-          "title": "[피플앤드테크놀러지] R&D본부 펌웨어개발자",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49781503?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~10/12(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "와이케이기획",
-      "company_raw": "와이케이기획(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54830255",
-          "title": "[YK기획] 개발자 채용 (Software Engineer)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54830255&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/23(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "아이이에이",
-      "company_raw": "(주)아이이에이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54864922",
-          "title": "[경력 3년 이하] S/W 테스트엔지니어(QA) 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54864922&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/26(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "아이티나래",
-      "company_raw": "(주)아이티나래",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54830390",
-          "title": "[상시 모집]IT Help Desk 담당자 모집(신입/경력)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54830390&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "텔코웨어",
-      "company_raw": "텔코웨어(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54823527",
-          "title": "기술지원 경력사원 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54823527&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/22(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "테크랩스",
-      "company_raw": "(주)테크랩스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54542303",
-          "title": "QA 매니저",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54542303&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "체스트넛",
-      "company_raw": "(주)체스트넛",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54831530",
-          "title": "사업관리, PMO, PM, 제안발표",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54831530&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "씨앤디팩토리",
-      "company_raw": "(주)씨앤디팩토리",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54826991",
-          "title": "QA담당자 경력(3년-8년) 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54826991&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/23(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "아정네트웍스",
-      "company_raw": "(주)아정네트웍스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54798892",
-          "title": "[아정당] QA Engineer (서울)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54798892&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 11/17(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "제이엘케이",
-      "company_raw": "(주)제이엘케이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54812598",
-          "title": "[제이엘케이] 소프트웨어 엔지니어(Backend & QA 자동화)담당자",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54812598&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "332512",
-          "title": "[제이엘케이] QA Engineer (Automation & Process) 담당자",
-          "link": "https://career.rememberapp.co.kr/job/posting/332512",
-          "deadline": "2026-09-30",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "335555",
-          "title": "[제이엘케이] 소프트웨어 엔지니어(Backend & QA 자동화)담당자",
-          "link": "https://career.rememberapp.co.kr/job/posting/335555",
-          "deadline": "2026-09-30",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "효림엑스이",
-      "company_raw": "(주)효림엑스이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54807824",
-          "title": "[효림그룹] 효림엑스이 연구직 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54807824&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 10/20(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "다인정보기술",
-      "company_raw": "(주)다인정보기술",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54806078",
-          "title": "다인정보기술 소프트웨어 개발자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54806078&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "맨파워그룹코리아",
-      "company_raw": "(주)맨파워그룹코리아",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54770275",
-          "title": "[종각역] 글로벌 자산운용 기업 'B'사 Associate (12M/연장)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54770275&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "오늘마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "피벗크리에이티브",
-      "company_raw": "(주)피벗크리에이티브",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54767669",
-          "title": "기획팀 경력 1년이상 4년미만 채용 - 대기업 사이트 기획전 운영",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54767669&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "오늘마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "포멀웍스",
-      "company_raw": "(주)포멀웍스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54505869",
-          "title": "[신입/경력] 원자력발전소 임베디드 C 소프트웨어 검증",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54505869&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "내일마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "코어라인소프트",
-      "company_raw": "(주)코어라인소프트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54786453",
-          "title": "[코어라인소프트] 의료영상 SW테스트 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54786453&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "휴로틱스",
-      "company_raw": "(주)휴로틱스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54767483",
-          "title": "[H-Care] 로봇 신뢰성 검증 (SQA 엔지니어)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54767483&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "오늘마감",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49798312",
-          "title": "[H-Care] 로봇 신뢰성 검증 (QA 엔지니어)",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49798312?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "오늘마감",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "298251",
-          "title": "[웨어러블로봇] 미래전략_로봇 신뢰성 검증 (QA 엔지니어)",
-          "link": "https://career.rememberapp.co.kr/job/posting/298251",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "펀진",
-      "company_raw": "(주)펀진",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54673365",
-          "title": "프로젝트 관리 및 기술문서 작성/인증 담당자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54673365&location=ts&searchType=search&paid_fl=n&search_uuid=193e5c6b-42b0-405a-8f60-700d2088dff6",
-          "deadline": "~ 10/05(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "위시켓",
-      "company_raw": "(주)위시켓",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54656774",
-          "title": "AIDP FDE(Forward Deployed Engineer) (3~12년)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54656774&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "티맵모빌리티",
-      "company_raw": "티맵모빌리티(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54654827",
-          "title": "[티맵모빌리티] AUTO QE (리더)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54654827&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54654808",
-          "title": "[티맵모빌리티] QA Automation Engineer",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54654808&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "335168",
-          "title": "AUTO QE (리더)",
-          "link": "https://career.rememberapp.co.kr/job/posting/335168",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "331437",
-          "title": "QA Automation Engineer",
-          "link": "https://career.rememberapp.co.kr/job/posting/331437",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "성주컴텍",
-      "company_raw": "(주)성주컴텍",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54502719",
-          "title": "(주)성주컴텍 로봇제품 엔지니어 업무 담당자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54502719&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "수산아이앤티",
-      "company_raw": "(주)수산아이앤티",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "53930400",
-          "title": "[수산그룹]수산INT 개발직군 채용(백엔드/서비스기획/QA엔지니어 등)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53930400&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "스페클립스",
-      "company_raw": "스페클립스(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55042633",
-          "title": "2026년 스페클립스(주) 신입 및 경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55042633&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/15(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "비씨젠",
-      "company_raw": "(주)비씨젠",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54637395",
-          "title": "회계/금형개발/품질/생산관리/해외주재원 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54637395&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이에스엠케이",
-      "company_raw": "에이에스엠케이(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55028625",
-          "title": "ASM Software QA 1명 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55028625&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/14(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "부길",
-      "company_raw": "(주)부길",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54899683",
-          "title": "[분당] 스마트폰 S/W QA/테스터 (중급/초급) 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54899683&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엑시나",
-      "company_raw": "엑시나(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54825020",
-          "title": "엑시나(주) Software Quality Assurance(SQA) 경력 채용 공고",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54825020&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "로봇앤드디자인",
-      "company_raw": "(주)로봇앤드디자인",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54810167",
-          "title": "'26년 하반기 각 부문 정규직 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54810167&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "플렉스시스템",
-      "company_raw": "(주)플렉스시스템",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55037054",
-          "title": "2026년 ㈜플렉스시스템 부문별 인재 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55037054&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 11/14(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "동아엘텍",
-      "company_raw": "(주)동아엘텍",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54910971",
-          "title": "HW·기구설계·생산·국내/해외영업·품질관리·영업지원·재무",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54910971&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "오늘마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이블리",
-      "company_raw": "(주)에이블리",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54914750",
-          "title": "회로설계/Artwork/품질팀(QA)/기술영업/영업지원/어플리케이션/소프트웨어/CS 부문별 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54914750&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "카카오뱅크",
-      "company_raw": "(주)카카오뱅크",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55013733",
-          "title": "SM 사업 관리 및 유지보수 담당자 (계약직)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55013733&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "오늘마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "티맥스티베로",
-      "company_raw": "(주)티맥스티베로",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55055809",
-          "title": "[경력 무관] 품질관리 담당자(QA)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55055809&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 11/15(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "뱀부스",
-      "company_raw": "뱀부스(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55053334",
-          "title": "[단기 3~4개월] 데이터 매핑·검수 업무 담당자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55053334&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/16(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "우리엔",
-      "company_raw": "(주)우리엔",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55051428",
-          "title": "[중견 계열사] QA 엔지니어(계약직)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55051428&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/16(금)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49849316",
-          "title": "[중견 계열사] QA 엔지니어(계약직 1년)",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49849316?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~09/24(목)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "55051428",
-          "title": "[중견 계열사] QA 엔지니어(계약직)",
-          "link": "https://www.jumpit.co.kr/position/55051428",
-          "deadline": "2026-10-16",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엔큐리티",
-      "company_raw": "엔큐리티(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54975425",
-          "title": "[분당/사세확장] 웹방화벽 기술지원 엔지니어 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54975425&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "케이와이씨지KYCG",
-      "company_raw": "(주) 케이와이씨지(KYCG)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55044219",
-          "title": "SW (소프트웨어) 검증 팀장  /  헬스케어 기업",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55044219&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54961267",
-          "title": "소프트웨어 QC 담당자 (SQC)  /  헬스케어 기업",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54961267&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/22(화)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "HR컨설팅그룹",
-      "company_raw": "(주)HR컨설팅그룹",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55038313",
-          "title": "[코스닥 상장 디지털헬스케어기업] SW검증 팀장",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55038313&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/15(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "디지트론",
-      "company_raw": "(주)디지트론",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54534335",
-          "title": "연구부문(H/W설계,기구설계,RF설계),생산부문(생산관리팀,생산기술팀,생산팀,구미연구소),품질보증팀 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54534335&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "하이큐시스템",
-      "company_raw": "(주)하이큐시스템",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54943797",
-          "title": "전산(OA)장비 서비스 납품/설치 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943797&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "카카오스타일",
-      "company_raw": "(주)카카오스타일",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55007246",
-          "title": "프론트엔드 개발자 (지그재그 서비스)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55007246&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "세이프월드엔지니어링",
-      "company_raw": "(주)세이프월드엔지니어링",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54630432",
-          "title": "[경력] OT / 임베디드 사이버 보안 인증·평가 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54630432&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "인텔리안테크놀로지스",
-      "company_raw": "(주)인텔리안테크놀로지스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55002685",
-          "title": "안테나측청 담당(경력11~20년/평택연구소)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002685&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "55002617",
-          "title": "안테나측청 담당(경력1~10년/평택연구소)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55002617&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "55002617",
-          "title": "안테나측청 담당(경력1~10년/평택연구소)",
-          "link": "https://www.jumpit.co.kr/position/55002617",
-          "deadline": "2026-10-09",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "55002685",
-          "title": "안테나측청 담당(경력11~20년/평택연구소)",
-          "link": "https://www.jumpit.co.kr/position/55002685",
-          "deadline": "2026-10-09",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "보스반도체",
-      "company_raw": "(주)보스반도체",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54987953",
-          "title": "SOC Field Application Engineer",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54987953&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54987953",
-          "title": "SOC Field Application Engineer",
-          "link": "https://www.jumpit.co.kr/position/54987953",
-          "deadline": "2026-10-09",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "모베이스오토테크",
-      "company_raw": "모베이스오토테크(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54859229",
-          "title": "모베이스오토테크 품질팀 품질관리자(신입, 경력)(2명)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54859229&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/25(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "포비즈코리아",
-      "company_raw": "(주)포비즈코리아",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54876553",
-          "title": "[이커머스플랫폼] QA 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54876553&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/27(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "와이씨앤",
-      "company_raw": "(주)와이씨앤",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55000609",
-          "title": "회로 및 기구 설계 개발자 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55000609&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/10(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "구름",
-      "company_raw": "(주)구름",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54998003",
-          "title": "[구름] 소프트웨어 엔지니어 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54998003&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/10(토)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54944028",
-          "title": "[구름] 퀄리티 엔지니어 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54944028&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/04(일)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49963513",
-          "title": "[구름] 퀄리티 엔지니어 모집",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49963513?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~10/10(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "메가존",
-      "company_raw": "메가존(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54997904",
-          "title": "[메가존] [MZD] 프로젝트 투입 경력직 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54997904&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "하마랩",
-      "company_raw": "하마랩(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54964007",
-          "title": "QA Lead / 테스트 매니저 (경력)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54964007&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/07(수)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54964007",
-          "title": "QA Lead / 테스트 매니저 (경력)",
-          "link": "https://www.jumpit.co.kr/position/54964007",
-          "deadline": "2026-10-07",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "태경식품",
-      "company_raw": "(주)태경식품",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54945693",
-          "title": "태경식품 IT 운영 및 기획 경력 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54945693&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "슈프리마",
-      "company_raw": "(주)슈프리마",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54923508",
-          "title": "[슈프리마] SW Quality Engineer",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54923508&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 11/01(일)",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "314356",
-          "title": "[슈프리마] SW Quality Engineer",
-          "link": "https://career.rememberapp.co.kr/job/posting/314356",
-          "deadline": "2026-11-30",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "비렉스테크",
-      "company_raw": "비렉스테크(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54972487",
-          "title": "[코웨이 자회사]비렉스테크 품질관리 팀원 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54972487&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "두루에너아이",
-      "company_raw": "두루에너아이(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54971680",
-          "title": "제어기 S/W 검증 및 현장 시험 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54971680&location=ts&searchType=search&paid_fl=n&search_uuid=498d7f12-9bcf-4564-a845-ef266e2d3664",
-          "deadline": "~ 10/08(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "원텍",
-      "company_raw": "원텍 (주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54960091",
-          "title": "[코스닥상장사] 원텍(주)  Firmware 엔지니어 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54960091&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "디퍼런트에이치알",
-      "company_raw": "디퍼런트에이치알",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54954763",
-          "title": "소프트웨어 QC 담당자 (SQC)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54954763&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/21(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "미르기술",
-      "company_raw": "(주)미르기술",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54944915",
-          "title": "(주)미르기술 S/W QA 엔지니어(품질검증 전문가) 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54944915&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/04(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "지오시스템리서치",
-      "company_raw": "(주)지오시스템리서치",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54943907",
-          "title": "융합정보 기반 Agentic AI 기술개발 담당자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943907&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/20(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엔피어",
-      "company_raw": "주식회사엔피어",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54939910",
-          "title": "(주)엔피어 SW 테스트 엔지니어 신입 및 경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54939910&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/04(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에스더블유엠",
-      "company_raw": "(주)에스더블유엠",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54923370",
-          "title": "[SWM] Web 개발 PL/PM · Web 설계 및 기획 담당자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54923370&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54783528",
-          "title": "[SWM] 자율주행 데이터 엔지니어 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54783528&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54779980",
-          "title": "[SWM] 스마트사업부 안드로이드 App 및 Framework 개발자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54779980&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "332068",
-          "title": "[SWM] 자율주행 TPM 경력직 모집",
-          "link": "https://career.rememberapp.co.kr/job/posting/332068",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "비츠로일렉트릭",
-      "company_raw": "(주)비츠로일렉트릭",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54908590",
-          "title": "시스템(영업/개발/연구/기술), 전력기기 국내영업(호남/영남), 해외영업 부문별 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54908590&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "세미파이브",
-      "company_raw": "(주)세미파이브",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54894244",
-          "title": "SoC Verification Engineer",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54894244&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/29(화)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54894244",
-          "title": "SoC Verification Engineer",
-          "link": "https://www.jumpit.co.kr/position/54894244",
-          "deadline": "2026-09-29",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "메디칼파크",
-      "company_raw": "(주)메디칼파크",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54909711",
-          "title": "메디칼파크 SW test Engineer  채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54909711&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/01(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "와이오즈",
-      "company_raw": "(주)와이오즈",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54897808",
-          "title": "[기획팀] 요구사항 분석을 통한 프로젝트 진행 및 유지보수",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54897808&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/30(수)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "썬더소프트코리아",
-      "company_raw": "(주)썬더소프트코리아",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54879785",
-          "title": "[Thundersoft Korea] 카메라 데이터 수집 담당자 모집(계약직)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54879785&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/27(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "디노",
-      "company_raw": "(주)디노",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54786812",
-          "title": "서버 개발자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54786812&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/18(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "와따에이아이",
-      "company_raw": "(주)와따에이아이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54858983",
-          "title": "IOT 전장 설계/개발 주니어 엔지니어[판교]",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54858983&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/24(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "오피씨소프트",
-      "company_raw": "(주)오피씨소프트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54568512",
-          "title": "[OPCsoft] 기술지원부 정규직 신입사원 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54568512&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "NC",
-      "company_raw": "NC",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54851193",
-          "title": "[리니지 클래식] 클라이언트 프로그래머 모집",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54851193&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/26(토)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49953900",
-          "title": "[NC][Project NL] 차세대 리니지 프로젝트 서버 프로그래머 모집",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49953900?rPageCode=SL&logpath=21&sn=6&sc=612",
-          "deadline": "~11/06(금)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49844398",
-          "title": "[NC][단기계약직] 권역별 가이드 검증 담당자 모집",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49844398?rPageCode=SL&logpath=21&sn=6&sc=612",
-          "deadline": "내일마감",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49758398",
-          "title": "[NC][리니지 클래식] 서버 프로그래머 모집",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49758398?rPageCode=SL&logpath=21&sn=6&sc=612",
-          "deadline": "~09/23(수)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49718989",
-          "title": "[NC][Project JSY] AAA콘솔 액션RPG 프로젝트 배경 에셋 모델러 모집",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49718989?rPageCode=SL&logpath=21&sn=6&sc=612",
-          "deadline": "~10/03(토)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49718734",
-          "title": "[NC][Project NL] 차세대 리니지 프로젝트 클라이언트 프로그래머 모집",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49718734?rPageCode=SL&logpath=21&sn=6&sc=612",
-          "deadline": "~10/02(금)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49665434",
-          "title": "[NC][리니지 클래식] 클라이언트 프로그래머 모집",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49665434?rPageCode=SL&logpath=21&sn=6&sc=612",
-          "deadline": "~09/26(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "클로봇",
-      "company_raw": "(주)클로봇",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54828219",
-          "title": "솔루션 QA",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54828219&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/22(화)",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49841847",
-          "title": "[클로봇] 솔루션 QA 담당자",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49841847?rPageCode=SL&logpath=21&sn=6&sc=612",
-          "deadline": "~10/23(금)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54828219",
-          "title": "솔루션 QA",
-          "link": "https://www.jumpit.co.kr/position/54828219",
-          "deadline": "2026-09-22",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "290890",
-          "title": "솔루션 QA 담당자",
-          "link": "https://career.rememberapp.co.kr/job/posting/290890",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "엔베이스코리아",
-      "company_raw": "엔베이스코리아(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54824634",
-          "title": "트립톡 기술지원(CX) 담당자(팀장급)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54824634&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/23(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "메가존클라우드",
-      "company_raw": "메가존클라우드(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54699814",
-          "title": "Snowflake 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54699814&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "오토소프트",
-      "company_raw": "(주)오토소프트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54787131",
-          "title": "자율주행용 ADAS 데이터 레이블링",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54787131&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/18(일)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54783008",
-          "title": "차량용 AVN 기능 검증 및 업데이트 업무 대응 인원 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54783008&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/18(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이아이딥",
-      "company_raw": "(주)에이아이딥",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54764616",
-          "title": "(주)에이아이딥 솔루션 엔지니어 경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54764616&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "오늘마감",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "티엔에이치",
-      "company_raw": "티엔에이치(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54595510",
-          "title": "티엔에이치(주)에서 CRM QA 담당자를 찾고 있어요",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54595510&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/25(금)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "인텔릭스",
-      "company_raw": "인텔릭스(주)",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54711985",
-          "title": "원자력 EN 분야 업무 프로세스 및 소프트웨어 개발 경력자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54711985&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이플러스소프트",
-      "company_raw": "(주)에이플러스소프트",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54709536",
-          "title": "IBM watsonx on OpenShift 플랫폼 운영 관리 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54709536&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "티엘아이",
-      "company_raw": "(주)티엘아이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54703088",
-          "title": "[자율출퇴근] 반도체 Test 전문 엔지니어 (경력 10년 이상)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54703088&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/09(금)",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "332936",
-          "title": "반도체 Test 전문 엔지니어 (경력 10년 이상)",
-          "link": "https://career.rememberapp.co.kr/job/posting/332936",
-          "deadline": "상시채용",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "328028",
-          "title": "QA Engineer",
-          "link": "https://career.rememberapp.co.kr/job/posting/328028",
-          "deadline": "상시채용",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에스엠솔루션즈",
-      "company_raw": "(주)에스엠솔루션즈",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54499417",
-          "title": "보안 솔루션 엔지니어",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54499417&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "뷰웍스",
-      "company_raw": "(주)뷰웍스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54681826",
-          "title": "[뷰웍스] 바이오분야 FW개발 직무 경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54681826&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "채용시",
-          "is_new": false
-        },
-        {
-          "platform": "jobkorea",
-          "post_id": "49937026",
-          "title": "2027 뷰웍스 대졸 신입사원 공개채용",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49937026?rPageCode=SL&logpath=21&sn=6&sc=612",
-          "deadline": "~09/21(월)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "디오아이",
-      "company_raw": "(주)디오아이",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54670632",
-          "title": "㈜디오아이 AI 에이전트 활용  개발자 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54670632&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "채용시",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "어니스트비전",
-      "company_raw": "어니스트비전",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "55013797",
-          "title": "QC 및 A/S",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55013797&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/11(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "도터",
-      "company_raw": "(주)도터",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54990412",
-          "title": "(주)도터 의료기기  QA 정규직(인천 송도)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54990412&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 11/08(일)",
-          "is_new": false
-        },
-        {
-          "platform": "remember",
-          "post_id": "339313",
-          "title": "[도터] 의료기기 QA 팀장",
-          "link": "https://career.rememberapp.co.kr/job/posting/339313",
-          "deadline": "2026-09-30",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "제이앤피메디",
-      "company_raw": "(주)제이앤피메디",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54943490",
-          "title": "[JNPMEDI] CSV Specialist 모집 (인천/송도)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54943490&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/04(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "셀바이오휴먼텍",
-      "company_raw": "(주)셀바이오휴먼텍",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54785411",
-          "title": "(주)셀바이오휴먼텍 각 부문 신입/경력 공개채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54785411&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/18(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "씨어스",
-      "company_raw": "(주)씨어스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54926730",
-          "title": "Data Engineer 경력 채용",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54926730&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 10/03(토)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "페이타랩",
-      "company_raw": "(주)페이타랩",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54827607",
-          "title": "QA Engineer (경력 7~10년)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54827607&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/22(화)",
-          "is_new": false
-        },
-        {
-          "platform": "saramin",
-          "post_id": "54827647",
-          "title": "QA Engineer (경력 3~6년)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54827647&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/22(화)",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54827647",
-          "title": "QA Engineer (경력 3~6년)",
-          "link": "https://www.jumpit.co.kr/position/54827647",
-          "deadline": "2026-09-22",
-          "is_new": false
-        },
-        {
-          "platform": "jumpit",
-          "post_id": "54827607",
-          "title": "QA Engineer (경력 7~10년)",
-          "link": "https://www.jumpit.co.kr/position/54827607",
-          "deadline": "2026-09-22",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "에이아이웍스",
-      "company_raw": "(주)에이아이웍스",
-      "postings": [
-        {
-          "platform": "saramin",
-          "post_id": "54595977",
-          "title": "임베디드 SW QA Engineer (차량용전장 임베디드)",
-          "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54595977&location=ts&searchType=search&paid_fl=n&search_uuid=3c22a2d0-8c0a-49f9-9e62-cd3ff5f73480",
-          "deadline": "~ 09/27(일)",
-          "is_new": false
-        }
-      ]
-    },
     {
       "company_name": "㈜비씨엠",
       "company_raw": "㈜비씨엠",
@@ -4268,6 +64,20 @@
           "title": "[AI CX사업부문] QA 엔지니어",
           "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49983275?rPageCode=SL&logpath=21&sn=6&sc=611",
           "deadline": "~10/14(수)",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "뷰웍스",
+      "company_raw": "뷰웍스",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49937026",
+          "title": "2027 뷰웍스 대졸 신입사원 공개채용",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49937026?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "~09/21(월)",
           "is_new": false
         }
       ]
@@ -4393,6 +203,20 @@
       ]
     },
     {
+      "company_name": "콜로세움코퍼레이션",
+      "company_raw": "콜로세움코퍼레이션",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49994765",
+          "title": "QA Engineer (5년 이상)",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49994765?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~10/15(목)",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "㈜티니어",
       "company_raw": "㈜티니어",
       "postings": [
@@ -4446,6 +270,28 @@
           "title": "S/W 테스트엔지니어 신입",
           "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49864201?rPageCode=SL&logpath=21&sn=6&sc=611",
           "deadline": "~09/26(토)",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "우리엔",
+      "company_raw": "우리엔",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49849316",
+          "title": "[중견 계열사] QA 엔지니어(계약직 1년)",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49849316?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~09/24(목)",
+          "is_new": false
+        },
+        {
+          "platform": "jumpit",
+          "post_id": "55051428",
+          "title": "[중견 계열사] QA 엔지니어(계약직)",
+          "link": "https://www.jumpit.co.kr/position/55051428",
+          "deadline": "2026-10-16",
           "is_new": false
         }
       ]
@@ -4533,6 +379,20 @@
           "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49895112?rPageCode=SL&logpath=21&sn=6&sc=612",
           "deadline": "~09/30(수)",
           "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "㈜맨파워코리아",
+      "company_raw": "㈜맨파워코리아",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49959275",
+          "title": "[강남구청]미국계 패션브랜드 랄프로렌 IT Business Analyst(6M)",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49959275?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~10/09(금)",
+          "is_new": true
         }
       ]
     },
@@ -4770,6 +630,60 @@
           "title": "[삼성 계열사 씨브이네트] 제품 품질관리 담당자 (육아휴직 대체 계약직)",
           "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49971632?rPageCode=SL&logpath=21&sn=6&sc=611",
           "deadline": "~11/10(화)",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "NC",
+      "company_raw": "NC",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49953900",
+          "title": "[NC][Project NL] 차세대 리니지 프로젝트 서버 프로그래머 모집",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49953900?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "~11/06(금)",
+          "is_new": false
+        },
+        {
+          "platform": "jobkorea",
+          "post_id": "49844398",
+          "title": "[NC][단기계약직] 권역별 가이드 검증 담당자 모집",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49844398?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "내일마감",
+          "is_new": false
+        },
+        {
+          "platform": "jobkorea",
+          "post_id": "49758398",
+          "title": "[NC][리니지 클래식] 서버 프로그래머 모집",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49758398?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "~09/23(수)",
+          "is_new": false
+        },
+        {
+          "platform": "jobkorea",
+          "post_id": "49718989",
+          "title": "[NC][Project JSY] AAA콘솔 액션RPG 프로젝트 배경 에셋 모델러 모집",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49718989?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "~10/03(토)",
+          "is_new": false
+        },
+        {
+          "platform": "jobkorea",
+          "post_id": "49718734",
+          "title": "[NC][Project NL] 차세대 리니지 프로젝트 클라이언트 프로그래머 모집",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49718734?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "~10/02(금)",
+          "is_new": false
+        },
+        {
+          "platform": "jobkorea",
+          "post_id": "49665434",
+          "title": "[NC][리니지 클래식] 클라이언트 프로그래머 모집",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49665434?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "~09/26(토)",
           "is_new": false
         }
       ]
@@ -5181,6 +1095,34 @@
       ]
     },
     {
+      "company_name": "씨엔케어㈜",
+      "company_raw": "씨엔케어㈜",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "50007826",
+          "title": "화장품(젤네일) 품질보증 QA,QC 모집",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50007826?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~10/17(토)",
+          "is_new": true
+        }
+      ]
+    },
+    {
+      "company_name": "㈜소와소",
+      "company_raw": "㈜소와소",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "50006715",
+          "title": "공공 정보화구축사업 사업관리, 품질관리, TA 모십니다.",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50006715?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~09/30(수)",
+          "is_new": true
+        }
+      ]
+    },
+    {
       "company_name": "㈜한컴즈",
       "company_raw": "㈜한컴즈",
       "postings": [
@@ -5331,20 +1273,6 @@
       ]
     },
     {
-      "company_name": "씨엔케어㈜",
-      "company_raw": "씨엔케어㈜",
-      "postings": [
-        {
-          "platform": "jobkorea",
-          "post_id": "49991818",
-          "title": "화장품(젤네일) 품질보증 QA,QC 모집",
-          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49991818?rPageCode=SL&logpath=21&sn=6&sc=611",
-          "deadline": "~10/15(목)",
-          "is_new": false
-        }
-      ]
-    },
-    {
       "company_name": "㈜모디엠",
       "company_raw": "㈜모디엠",
       "postings": [
@@ -5354,6 +1282,20 @@
           "title": "[QA] (주)모디엠 신규 개발 내비게이션 SW Test 채용(남양주/다산동)",
           "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49997479?rPageCode=SL&logpath=21&sn=6&sc=611",
           "deadline": "~10/15(목)",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "피쓰리코리아",
+      "company_raw": "피쓰리코리아 유한회사",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49995479",
+          "title": "차량 소프트웨어 QA Test Engineer (경력)",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49995479?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~09/25(금)",
           "is_new": false
         }
       ]
@@ -5569,6 +1511,20 @@
       ]
     },
     {
+      "company_name": "마플코퍼레이션",
+      "company_raw": "주식회사 마플코퍼레이션",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49972652",
+          "title": "QA 엔지니어 [씨미 글로벌] 포지션 (계약직)",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49972652?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~10/11(일)",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "㈜트루엔",
       "company_raw": "㈜트루엔",
       "postings": [
@@ -5727,6 +1683,20 @@
           "post_id": "49961863",
           "title": "[서울/경기] 소프트웨어 테스트 엔지니어 모집(정규직)",
           "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49961863?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~10/10(토)",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "구름",
+      "company_raw": "구름",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49963513",
+          "title": "[구름] 퀄리티 엔지니어 모집",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49963513?rPageCode=SL&logpath=21&sn=6&sc=611",
           "deadline": "~10/10(토)",
           "is_new": false
         }
@@ -6195,6 +2165,20 @@
       ]
     },
     {
+      "company_name": "매드업",
+      "company_raw": "매드업",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49895336",
+          "title": "[제품 본부] 데이터 오퍼레이션 매니저 - 3년 이상 채용",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49895336?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "~09/30(수)",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "㈜콤위즈",
       "company_raw": "㈜콤위즈",
       "postings": [
@@ -6204,6 +2188,20 @@
           "title": "SK브로드밴드 N/W 품질검증 경력직 채용",
           "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49899263?rPageCode=SL&logpath=21&sn=6&sc=611",
           "deadline": "내일마감",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "인피닉",
+      "company_raw": "인피닉",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49902975",
+          "title": "(주) 인피닉 AI 품질관리 담당자 채용",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49902975?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~10/01(목)",
           "is_new": false
         }
       ]
@@ -6589,6 +2587,36 @@
       ]
     },
     {
+      "company_name": "클로봇",
+      "company_raw": "클로봇",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49841847",
+          "title": "[클로봇] 솔루션 QA 담당자",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49841847?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "~10/23(금)",
+          "is_new": false
+        },
+        {
+          "platform": "jumpit",
+          "post_id": "54828219",
+          "title": "솔루션 QA",
+          "link": "https://www.jumpit.co.kr/position/54828219",
+          "deadline": "2026-09-22",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "290890",
+          "title": "솔루션 QA 담당자",
+          "link": "https://career.rememberapp.co.kr/job/posting/290890",
+          "deadline": "상시채용",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "㈜글루가",
       "company_raw": "㈜글루가",
       "postings": [
@@ -6787,6 +2815,20 @@
           "post_id": "49820120",
           "title": "[아정당] QA Engineer (서울)",
           "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49820120?rPageCode=SL&logpath=21&sn=6&sc=612",
+          "deadline": "모레마감",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "㈜와이드넷엔지니어링",
+      "company_raw": "㈜와이드넷엔지니어링",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49822359",
+          "title": "[IT/신입] 이동통신 망 테스트 채용",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49822359?rPageCode=SL&logpath=21&sn=6&sc=611",
           "deadline": "모레마감",
           "is_new": false
         }
@@ -7111,6 +3153,20 @@
       ]
     },
     {
+      "company_name": "피플앤드테크놀러지",
+      "company_raw": "피플앤드테크놀러지",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49781503",
+          "title": "[피플앤드테크놀러지] R&D본부 펌웨어개발자",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49781503?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "~10/12(월)",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "㈜로보톰 Rovothome",
       "company_raw": "㈜로보톰 (Rovothome",
       "postings": [
@@ -7162,6 +3218,28 @@
           "title": "프로젝트 관리 및 기술문서 작성/인증 담당자 모집",
           "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49732923?rPageCode=SL&logpath=21&sn=6&sc=611",
           "deadline": "~10/05(월)",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "휴로틱스",
+      "company_raw": "휴로틱스",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "49798312",
+          "title": "[H-Care] 로봇 신뢰성 검증 (QA 엔지니어)",
+          "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49798312?rPageCode=SL&logpath=21&sn=6&sc=611",
+          "deadline": "오늘마감",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "298251",
+          "title": "[웨어러블로봇] 미래전략_로봇 신뢰성 검증 (QA 엔지니어)",
+          "link": "https://career.rememberapp.co.kr/job/posting/298251",
+          "deadline": "상시채용",
           "is_new": false
         }
       ]
@@ -7411,6 +3489,20 @@
       ]
     },
     {
+      "company_name": "데이터리움",
+      "company_raw": "데이터리움 주식회사",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "119118233",
+          "title": "글로벌 플랫폼 AI 데이터 QA/검수 담당자 모집 (6개월 이상 장기)",
+          "link": "https://www.albamon.com/jobs/detail/119118233?sc=612",
+          "deadline": "~10/01(목)",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "리페어센터김포공항/합정역/부평/청라/송도/운서 셔틀",
       "company_raw": "(리페어센터)김포공항/합정역/부평/청라/송도/운서 셔틀",
       "postings": [
@@ -7428,20 +3520,6 @@
           "title": "영종도/주5일/스마트기기 회로도 분석 및 수리 가능 직원모집/9to6",
           "link": "https://www.albamon.com/jobs/detail/119186297?sc=612",
           "deadline": "~10/04(일)",
-          "is_new": false
-        }
-      ]
-    },
-    {
-      "company_name": "데이터리움",
-      "company_raw": "데이터리움 주식회사",
-      "postings": [
-        {
-          "platform": "jobkorea",
-          "post_id": "119118233",
-          "title": "글로벌 플랫폼 AI 데이터 QA/검수 담당자 모집 (6개월 이상 장기)",
-          "link": "https://www.albamon.com/jobs/detail/119118233?sc=612",
-          "deadline": "~10/01(목)",
           "is_new": false
         }
       ]
@@ -7596,6 +3674,28 @@
           "title": "[구로/대기업] 게임 보안솔루션 QA 및 보안 검수",
           "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=284933&sc=612",
           "deadline": "상시채용",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "잡앤피플코리아",
+      "company_raw": "잡앤피플코리아",
+      "postings": [
+        {
+          "platform": "jobkorea",
+          "post_id": "284951",
+          "title": "[구로/3천중후반] 유명 게임 대기업 보안 모니터링 담당자 채용",
+          "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=284951&sc=612",
+          "deadline": "~09/30(수)",
+          "is_new": false
+        },
+        {
+          "platform": "jobkorea",
+          "post_id": "284948",
+          "title": "[구로/3600] 유명게임 대기업 보안 솔루션 QA 및 보안 검수 담당",
+          "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=284948&sc=612",
+          "deadline": "~09/26(토)",
           "is_new": false
         }
       ]
@@ -8061,6 +4161,138 @@
       ]
     },
     {
+      "company_name": "이너버스",
+      "company_raw": "이너버스",
+      "postings": [
+        {
+          "platform": "jumpit",
+          "post_id": "54871744",
+          "title": "백엔드 개발자 (신입)",
+          "link": "https://www.jumpit.co.kr/position/54871744",
+          "deadline": "2026-09-25",
+          "is_new": false
+        },
+        {
+          "platform": "jumpit",
+          "post_id": "54871745",
+          "title": "백엔드 개발자 (주니어)",
+          "link": "https://www.jumpit.co.kr/position/54871745",
+          "deadline": "2026-09-25",
+          "is_new": false
+        },
+        {
+          "platform": "jumpit",
+          "post_id": "54871749",
+          "title": "백엔드 개발자 (시니어)",
+          "link": "https://www.jumpit.co.kr/position/54871749",
+          "deadline": "2026-09-25",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "인젠트",
+      "company_raw": "인젠트",
+      "postings": [
+        {
+          "platform": "jumpit",
+          "post_id": "54812947",
+          "title": "SQA Engineer 경력직 채용",
+          "link": "https://www.jumpit.co.kr/position/54812947",
+          "deadline": "2026-09-19",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "페이타랩",
+      "company_raw": "페이타랩",
+      "postings": [
+        {
+          "platform": "jumpit",
+          "post_id": "54827647",
+          "title": "QA Engineer (경력 3~6년)",
+          "link": "https://www.jumpit.co.kr/position/54827647",
+          "deadline": "2026-09-22",
+          "is_new": false
+        },
+        {
+          "platform": "jumpit",
+          "post_id": "54827607",
+          "title": "QA Engineer (경력 7~10년)",
+          "link": "https://www.jumpit.co.kr/position/54827607",
+          "deadline": "2026-09-22",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "플래티어",
+      "company_raw": "플래티어",
+      "postings": [
+        {
+          "platform": "jumpit",
+          "post_id": "55011605",
+          "title": "[AI CX사업부문] QA 엔지니어",
+          "link": "https://www.jumpit.co.kr/position/55011605",
+          "deadline": "2026-10-11",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "326743",
+          "title": "[AI CX사업부문] QA 엔지니어",
+          "link": "https://career.rememberapp.co.kr/job/posting/326743",
+          "deadline": "상시채용",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "호전실업",
+      "company_raw": "호전실업",
+      "postings": [
+        {
+          "platform": "jumpit",
+          "post_id": "54920751",
+          "title": "전기전자장치 개발자 채용",
+          "link": "https://www.jumpit.co.kr/position/54920751",
+          "deadline": "2026-10-01",
+          "is_new": false
+        },
+        {
+          "platform": "jumpit",
+          "post_id": "55000502",
+          "title": "기계장치 개발자 채용",
+          "link": "https://www.jumpit.co.kr/position/55000502",
+          "deadline": "2026-10-09",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "인텔리안테크놀로지스",
+      "company_raw": "인텔리안테크놀로지스",
+      "postings": [
+        {
+          "platform": "jumpit",
+          "post_id": "55002617",
+          "title": "안테나측청 담당(경력1~10년/평택연구소)",
+          "link": "https://www.jumpit.co.kr/position/55002617",
+          "deadline": "2026-10-09",
+          "is_new": false
+        },
+        {
+          "platform": "jumpit",
+          "post_id": "55002685",
+          "title": "안테나측청 담당(경력11~20년/평택연구소)",
+          "link": "https://www.jumpit.co.kr/position/55002685",
+          "deadline": "2026-10-09",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "프라이빗테크놀로지",
       "company_raw": "프라이빗테크놀로지",
       "postings": [
@@ -8070,6 +4302,48 @@
           "title": "제품 QA 경력자 채용",
           "link": "https://www.jumpit.co.kr/position/54979027",
           "deadline": "2026-10-07",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "하마랩",
+      "company_raw": "하마랩",
+      "postings": [
+        {
+          "platform": "jumpit",
+          "post_id": "54964007",
+          "title": "QA Lead / 테스트 매니저 (경력)",
+          "link": "https://www.jumpit.co.kr/position/54964007",
+          "deadline": "2026-10-07",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "보스반도체",
+      "company_raw": "보스반도체",
+      "postings": [
+        {
+          "platform": "jumpit",
+          "post_id": "54987953",
+          "title": "SOC Field Application Engineer",
+          "link": "https://www.jumpit.co.kr/position/54987953",
+          "deadline": "2026-10-09",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "세미파이브",
+      "company_raw": "세미파이브",
+      "postings": [
+        {
+          "platform": "jumpit",
+          "post_id": "54894244",
+          "title": "SoC Verification Engineer",
+          "link": "https://www.jumpit.co.kr/position/54894244",
+          "deadline": "2026-09-29",
           "is_new": false
         }
       ]
@@ -8173,6 +4447,44 @@
       ]
     },
     {
+      "company_name": "쿠팡",
+      "company_raw": "쿠팡(주)",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "341254",
+          "title": "[쿠팡] 커머스 라이브/콘텐츠 품질관리팀 매니저(Live Quality Assurance)",
+          "link": "https://career.rememberapp.co.kr/job/posting/341254",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "339418",
+          "title": "[쿠팡] Senior QA Engineer (Advertiser Platform)",
+          "link": "https://career.rememberapp.co.kr/job/posting/339418",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "331164",
+          "title": "[Coupang Pay] Software Development Engineer in Test (계약직)",
+          "link": "https://career.rememberapp.co.kr/job/posting/331164",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "262489",
+          "title": "[쿠팡] 판매자 어뷰징 관리 담당자",
+          "link": "https://career.rememberapp.co.kr/job/posting/262489",
+          "deadline": "상시채용",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "스펙터",
       "company_raw": "(주)스펙터",
       "postings": [
@@ -8182,6 +4494,82 @@
           "title": "QA Manager",
           "link": "https://career.rememberapp.co.kr/job/posting/339970",
           "deadline": "상시채용",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "위펀",
+      "company_raw": "(주)위펀",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "340261",
+          "title": "DevOps 리더 (Operations&Security)",
+          "link": "https://career.rememberapp.co.kr/job/posting/340261",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "336683",
+          "title": "B2B 플랫폼 서비스기획자 / PO (Product Owner)",
+          "link": "https://career.rememberapp.co.kr/job/posting/336683",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "336694",
+          "title": "시니어 백엔드 개발자 (경력 8년 이상)",
+          "link": "https://career.rememberapp.co.kr/job/posting/336694",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "336695",
+          "title": "프론트엔드 개발자 (React)",
+          "link": "https://career.rememberapp.co.kr/job/posting/336695",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "336696",
+          "title": "AI 서비스 QA 엔지니어 (테스트자동화/품질관리)",
+          "link": "https://career.rememberapp.co.kr/job/posting/336696",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "336693",
+          "title": "백엔드 개발자 (경력 5년 이상)",
+          "link": "https://career.rememberapp.co.kr/job/posting/336693",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "336682",
+          "title": "Fullstack Engineer(JS/TS,CEO Staff)",
+          "link": "https://career.rememberapp.co.kr/job/posting/336682",
+          "deadline": "상시채용",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "씨메스로보틱스",
+      "company_raw": "씨메스로보틱스(주)",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "340501",
+          "title": "Vision Field Application Engineer",
+          "link": "https://career.rememberapp.co.kr/job/posting/340501",
+          "deadline": "2026-10-09",
           "is_new": false
         }
       ]
@@ -8265,6 +4653,20 @@
       ]
     },
     {
+      "company_name": "도터",
+      "company_raw": "(주)도터",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "339313",
+          "title": "[도터] 의료기기 QA 팀장",
+          "link": "https://career.rememberapp.co.kr/job/posting/339313",
+          "deadline": "2026-09-30",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "맨파워써치",
       "company_raw": "(주)맨파워써치",
       "postings": [
@@ -8302,6 +4704,28 @@
           "title": "[퍼비스] AI 프로덕트 엔지니어",
           "link": "https://career.rememberapp.co.kr/job/posting/338969",
           "deadline": "상시채용",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "제이엘케이",
+      "company_raw": "(주)제이엘케이",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "332512",
+          "title": "[제이엘케이] QA Engineer (Automation & Process) 담당자",
+          "link": "https://career.rememberapp.co.kr/job/posting/332512",
+          "deadline": "2026-09-30",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "335555",
+          "title": "[제이엘케이] 소프트웨어 엔지니어(Backend & QA 자동화)담당자",
+          "link": "https://career.rememberapp.co.kr/job/posting/335555",
+          "deadline": "2026-09-30",
           "is_new": false
         }
       ]
@@ -8349,6 +4773,20 @@
       ]
     },
     {
+      "company_name": "슈프리마",
+      "company_raw": "(주)슈프리마",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "314356",
+          "title": "[슈프리마] SW Quality Engineer",
+          "link": "https://career.rememberapp.co.kr/job/posting/314356",
+          "deadline": "2026-11-30",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "비트센싱",
       "company_raw": "(주)비트센싱",
       "postings": [
@@ -8358,6 +4796,28 @@
           "title": "[비트센싱] 자율주행 이미징 레이더 테스트 엔지니어",
           "link": "https://career.rememberapp.co.kr/job/posting/337588",
           "deadline": "2026-09-30",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "엔젤로보틱스",
+      "company_raw": "(주)엔젤로보틱스",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "337661",
+          "title": "[엔젤로보틱스] Software Quality Assurance (SW QA)",
+          "link": "https://career.rememberapp.co.kr/job/posting/337661",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "337666",
+          "title": "[엔젤로보틱스] Medical Device SW Quality Engineer",
+          "link": "https://career.rememberapp.co.kr/job/posting/337666",
+          "deadline": "상시채용",
           "is_new": false
         }
       ]
@@ -8377,6 +4837,28 @@
       ]
     },
     {
+      "company_name": "미리디",
+      "company_raw": "(주)미리디",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "336669",
+          "title": "[미리캔버스] QA 엔지니어 (계약직)",
+          "link": "https://career.rememberapp.co.kr/job/posting/336669",
+          "deadline": "2026-10-27",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "256105",
+          "title": "[커머스 플랫폼] QA 엔지니어",
+          "link": "https://career.rememberapp.co.kr/job/posting/256105",
+          "deadline": "2026-10-23",
+          "is_new": false
+        }
+      ]
+    },
+    {
       "company_name": "뤼튼테크놀로지스",
       "company_raw": "(주)뤼튼테크놀로지스",
       "postings": [
@@ -8385,6 +4867,28 @@
           "post_id": "336043",
           "title": "QA Manager",
           "link": "https://career.rememberapp.co.kr/job/posting/336043",
+          "deadline": "상시채용",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "티맵모빌리티",
+      "company_raw": "티맵모빌리티(주)",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "335168",
+          "title": "AUTO QE (리더)",
+          "link": "https://career.rememberapp.co.kr/job/posting/335168",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "331437",
+          "title": "QA Automation Engineer",
+          "link": "https://career.rememberapp.co.kr/job/posting/331437",
           "deadline": "상시채용",
           "is_new": false
         }
@@ -8456,6 +4960,42 @@
           "title": "[FADU] SSD Project Qual Manager",
           "link": "https://career.rememberapp.co.kr/job/posting/333105",
           "deadline": "2026-09-21",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "티엘아이",
+      "company_raw": "(주)티엘아이",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "332936",
+          "title": "반도체 Test 전문 엔지니어 (경력 10년 이상)",
+          "link": "https://career.rememberapp.co.kr/job/posting/332936",
+          "deadline": "상시채용",
+          "is_new": false
+        },
+        {
+          "platform": "remember",
+          "post_id": "328028",
+          "title": "QA Engineer",
+          "link": "https://career.rememberapp.co.kr/job/posting/328028",
+          "deadline": "상시채용",
+          "is_new": false
+        }
+      ]
+    },
+    {
+      "company_name": "에스더블유엠",
+      "company_raw": "(주)에스더블유엠",
+      "postings": [
+        {
+          "platform": "remember",
+          "post_id": "332068",
+          "title": "[SWM] 자율주행 TPM 경력직 모집",
+          "link": "https://career.rememberapp.co.kr/job/posting/332068",
+          "deadline": "상시채용",
           "is_new": false
         }
       ]
