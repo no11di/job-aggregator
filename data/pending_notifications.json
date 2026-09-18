@@ -1,1 +1,139 @@
-{"jobs": []}
+{
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "54975751",
+      "company_raw": "메리티움(주)",
+      "company_clean": "메리티움",
+      "title": "[판교/QA] 메리티움 엔지니어 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54975751&location=ts&searchType=search&paid_fl=n&search_uuid=25e35abb-341f-4295-a307-0eb08a1739c6",
+      "deadline": "~ 10/08(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55075064",
+      "company_raw": "HR컨설팅(주)",
+      "company_clean": "HR컨설팅",
+      "title": "대기업 계열IT사 DevSecOps Engineer 7년이상",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55075064&location=ts&searchType=search&paid_fl=n&search_uuid=62bf08c6-1983-4251-8b5a-0af52c001eda",
+      "deadline": "~ 10/03(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55074670",
+      "company_raw": "(주)핀다",
+      "company_clean": "핀다",
+      "title": "QA 엔지니어",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55074670&location=ts&searchType=search&paid_fl=n&search_uuid=62bf08c6-1983-4251-8b5a-0af52c001eda",
+      "deadline": "~ 10/17(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55074624",
+      "company_raw": "겜마콘코리아(유)",
+      "company_clean": "겜마콘코리아",
+      "title": "[현대모비스 협력업체] 차량 디지털키 SW QA 인원 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55074624&location=ts&searchType=search&paid_fl=n&search_uuid=300f4ac7-7ee1-4e89-840c-6364c0c1a24b",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50019667",
+      "company_raw": "㈜펄어비스",
+      "company_clean": "㈜펄어비스",
+      "title": "[펄어비스] [인턴십] QA Beginner 인턴십 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50019667?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~09/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50020263",
+      "company_raw": "㈜에치에프알",
+      "company_clean": "㈜에치에프알",
+      "title": "[HFR] 5G 특화망 RAN / O-RAN 검증 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50020263?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50020123",
+      "company_raw": "㈜아베크디자인",
+      "company_clean": "㈜아베크디자인",
+      "title": "AI 설계팀 채용공고",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50020123?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/19(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50019514",
+      "company_raw": "㈜인터페이스정보기술",
+      "company_clean": "㈜인터페이스정보기술",
+      "title": "연구소 실험 결과물 전산 입력 사무직원 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50019514?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50020330",
+      "company_raw": "청년취업사관학교",
+      "company_clean": "청년취업사관학교",
+      "title": "[노츠]자동화 테스트 엔지니어",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50020330?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/17(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50019976",
+      "company_raw": "㈜아이엔에쓰",
+      "company_clean": "㈜아이엔에쓰",
+      "title": "[(주)아이엔에쓰] LG CNS 프로젝트 Excel 및 능숙자 모집(3개월 단기)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50019976?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50018604",
+      "company_raw": "겜마콘코리아(유)",
+      "company_clean": "겜마콘코리아",
+      "title": "[현대모비스 협력업체] 차량 디지털키 SW QA 인원 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50018604?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50019841",
+      "company_raw": "㈜와이즈스톤",
+      "company_clean": "㈜와이즈스톤",
+      "title": "[와이즈스톤] 서버 개발자 채용(주35시간)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50019841?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119276374",
+      "company_raw": "㈜에스이에스",
+      "company_clean": "㈜에스이에스",
+      "title": "[성남/판교] 프린터 품질테스트 (중식제공,통근버스운행)-남,여",
+      "link": "https://www.albamon.com/jobs/detail/119276374?sc=612",
+      "deadline": "~09/28(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285074",
+      "company_raw": "㈜펄어비스",
+      "company_clean": "㈜펄어비스",
+      "title": "[펄어비스] [인턴십] QA Beginner 인턴십 모집",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285074&sc=612",
+      "deadline": "~09/23(수)"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55074670",
+      "company_raw": "핀다",
+      "company_clean": "핀다",
+      "title": "QA 엔지니어",
+      "link": "https://www.jumpit.co.kr/position/55074670",
+      "deadline": "2026-10-17"
+    }
+  ]
+}
