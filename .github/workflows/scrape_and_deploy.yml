@@ -3,14 +3,14 @@ name: Scrape Jobs and Deploy Dashboard
 on:
   schedule:
     # ----------------------------------------------------
-    # [운영 스케줄 (KST 기준)]
-    # - 스크랩: 아침 09:00 (UTC 00:00), 밤 21:00 (UTC 12:00)
-    # - 알림:   아침 09:05 (UTC 00:05), 밤 21:05 (UTC 12:05)
+    # KST 기준 (Asia/Seoul)
+    # - 아침: 09:47 스크랩 / 09:52 텔레그램 알림
+    # - 밤:   21:47 스크랩 / 21:52 텔레그램 알림
     # ----------------------------------------------------
-    - cron: '0 0 * * *'    # 아침 09:00 수집 및 대시보드 갱신
-    - cron: '5 0 * * *'    # 아침 09:05 텔레그램 알림 발송
-    - cron: '0 12 * * *'   # 밤 21:00 수집 및 대시보드 갱신
-    - cron: '5 12 * * *'   # 밤 21:05 텔레그램 알림 발송
+    - cron: '47 9,21 * * *'
+      timezone: 'Asia/Seoul'
+    - cron: '52 9,21 * * *'
+      timezone: 'Asia/Seoul'
 
   workflow_dispatch:
     inputs:
@@ -60,14 +60,14 @@ jobs:
           pip install -r requirements.txt
 
       # ----------------------------------------------------
-      # 실행 모드 판별: 매시 5분 트리거는 notify, 정각(0분)은 scrape
+      # 실행 모드 판별: 매시 52분 트리거는 notify, 그 외(47분)는 scrape
       # ----------------------------------------------------
       - name: Determine Action Type
         id: mode
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "action_type=${{ inputs.action_type }}" >> $GITHUB_OUTPUT
-          elif [[ "${{ github.event.schedule }}" =~ ^5\  ]]; then
+          elif [[ "${{ github.event.schedule }}" =~ ^52\  ]]; then
             echo "action_type=notify" >> $GITHUB_OUTPUT
           else
             echo "action_type=scrape" >> $GITHUB_OUTPUT
