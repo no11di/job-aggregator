@@ -1,17 +1,6 @@
 name: Scrape Jobs and Deploy Dashboard
 
 on:
-  schedule:
-    # ----------------------------------------------------
-    # KST 기준 (Asia/Seoul)
-    # - 아침: 09:47 스크랩 / 09:52 텔레그램 알림
-    # - 밤:   21:47 스크랩 / 21:52 텔레그램 알림
-    # ----------------------------------------------------
-    - cron: '47 9,21 * * *'
-      timezone: 'Asia/Seoul'
-    - cron: '52 9,21 * * *'
-      timezone: 'Asia/Seoul'
-
   workflow_dispatch:
     inputs:
       action_type:
@@ -41,7 +30,7 @@ jobs:
       - name: Debug Context
         run: |
           echo "Triggered Event: ${{ github.event_name }}"
-          echo "Schedule: ${{ github.event.schedule }}"
+          echo "Action Type: ${{ inputs.action_type }}"
 
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -59,19 +48,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # ----------------------------------------------------
-      # 실행 모드 판별: 매시 52분 트리거는 notify, 그 외(47분)는 scrape
-      # ----------------------------------------------------
       - name: Determine Action Type
         id: mode
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "action_type=${{ inputs.action_type }}" >> $GITHUB_OUTPUT
-          elif [[ "${{ github.event.schedule }}" =~ ^52\  ]]; then
-            echo "action_type=notify" >> $GITHUB_OUTPUT
-          else
-            echo "action_type=scrape" >> $GITHUB_OUTPUT
-          fi
+          echo "action_type=${{ inputs.action_type }}" >> $GITHUB_OUTPUT
 
       # ----------------------------------------------------
       # 모드 1: 수집 및 대시보드 갱신
