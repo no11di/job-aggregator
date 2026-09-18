@@ -143,6 +143,150 @@
       "title": "(주)에리 인공지능(AI) 비전 및 AI솔루션 운영 엔지니어 경력 채용 공고입니다",
       "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55064116&location=ts&searchType=search&paid_fl=n&search_uuid=40568754-09da-4fff-b2f2-ddbc10afcd7f",
       "deadline": "~ 10/11(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55062316",
+      "company_raw": "(주)세나테크놀로지",
+      "company_clean": "세나테크놀로지",
+      "title": "F/W, Mobile App 테스트",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55062316&location=ts&searchType=search&paid_fl=n&search_uuid=7add8b9a-7ccf-4ea7-bf40-79b19b474fd0",
+      "deadline": "~ 10/17(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55070996",
+      "company_raw": "(주)인피닉",
+      "company_clean": "인피닉",
+      "title": "[수원] SW 테스트 엔지니어 (QA) 신입 및 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55070996&location=ts&searchType=search&paid_fl=n&search_uuid=461298db-6233-4896-8720-be2313153b31",
+      "deadline": "~ 10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50015184",
+      "company_raw": "핀다",
+      "company_clean": "핀다",
+      "title": "QA 엔지니어",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50015184?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50013196",
+      "company_raw": "용컴에스넷㈜",
+      "company_clean": "용컴에스넷㈜",
+      "title": "[중구] 럭셔리 브랜드 QA test 프로젝트",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50013196?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/17(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50013106",
+      "company_raw": "동호에이치알㈜",
+      "company_clean": "동호에이치알㈜",
+      "title": "[여의도/대기업] 현대카드  Premium마케팅팀 시스템개발 테스트및 운영",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50013106?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/17(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "49983017",
+      "company_raw": "㈜인사이드잡",
+      "company_clean": "㈜인사이드잡",
+      "title": "[3개월단기/단순업무] 미래에셋생명 신계약 언더라이팅 차세대 테스터 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49983017?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/14(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "49983064",
+      "company_raw": "㈜인사이드잡",
+      "company_clean": "㈜인사이드잡",
+      "title": "[3개월단기] 미래에셋생명 보험료납입 수금방법변경 / 차세대 테스터 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49983064?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/14(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "49074852",
+      "company_raw": "㈜안랩",
+      "company_clean": "㈜안랩",
+      "title": "[안랩] 2026년 연구소 상시채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49074852?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/31(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50016109",
+      "company_raw": "㈜유니씨앤씨",
+      "company_clean": "㈜유니씨앤씨",
+      "title": "[삼성전자 온라인 공식파트너사] AMD 채용 [경력 2년이상]",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50016109?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/31(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50016061",
+      "company_raw": "㈜유니씨앤씨",
+      "company_clean": "㈜유니씨앤씨",
+      "title": "[삼성전자 온라인 공식파트너사] 온라인MD 채용 [경력 2년이상]",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50016061?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/31(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50013392",
+      "company_raw": "㈜씨앤디팩토리",
+      "company_clean": "㈜씨앤디팩토리",
+      "title": "QA담당자 경력(3년-8년) 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50013392?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/17(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50012732",
+      "company_raw": "㈜디와이즈",
+      "company_clean": "㈜디와이즈",
+      "title": "공공기관 PMO 프로젝트",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50012732?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/17(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50012477",
+      "company_raw": "텔코웨어㈜",
+      "company_clean": "텔코웨어㈜",
+      "title": "[텔코웨어] 기술지원 신입사원 채용공고",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50012477?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/16(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50012251",
+      "company_raw": "㈜더테스트",
+      "company_clean": "㈜더테스트",
+      "title": "[더테스트/경기] 임베디드 SW테스트 엔지니어 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50012251?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/17(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50013121",
+      "company_raw": "㈜대원씨앤씨",
+      "company_clean": "㈜대원씨앤씨",
+      "title": "금융권 테스트 자동화 PoC구축 경험자 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50013121?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/17(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285042",
+      "company_raw": "㈜룡게임",
+      "company_clean": "㈜룡게임",
+      "title": "방치형 RPG QA,운영 담당자 모집",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285042&sc=612",
+      "deadline": "상시채용"
     }
   ]
 }
