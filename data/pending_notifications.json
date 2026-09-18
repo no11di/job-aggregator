@@ -287,6 +287,87 @@
       "title": "방치형 RPG QA,운영 담당자 모집",
       "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285042&sc=612",
       "deadline": "상시채용"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55073649",
+      "company_raw": "프라이빗에이아이(주)",
+      "company_clean": "프라이빗에이아이",
+      "title": "보안인증·평가 담당자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55073649&location=ts&searchType=search&paid_fl=n&search_uuid=ee1398b5-8504-41ac-9a11-902e241bf743",
+      "deadline": "~ 10/17(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55072849",
+      "company_raw": "(주)에스이에스",
+      "company_clean": "에스이에스",
+      "title": "[판교] 프린터(HW) 동작시험 및 테스트 엔지니어",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55072849&location=ts&searchType=search&paid_fl=n&search_uuid=ee1398b5-8504-41ac-9a11-902e241bf743",
+      "deadline": "~ 10/03(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55073381",
+      "company_raw": "센서텍(주)",
+      "company_clean": "센서텍",
+      "title": "전장 H/W 개발 경력직  모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55073381&location=ts&searchType=search&paid_fl=n&search_uuid=65a244f0-b5a4-4159-8ed1-a526b1ed65c0",
+      "deadline": "~ 10/18(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "54933846",
+      "company_raw": "(주)키스템프그룹",
+      "company_clean": "키스템프그룹",
+      "title": "[최대 연5,300만/당산역] 삼성SDS자회사 서버운영담당자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54933846&location=ts&searchType=search&paid_fl=n&search_uuid=65a244f0-b5a4-4159-8ed1-a526b1ed65c0",
+      "deadline": "~ 09/28(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55066335",
+      "company_raw": "(주)안랩",
+      "company_clean": "안랩",
+      "title": "[안랩] 2026 연구소 집중 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55066335&location=ts&searchType=search&paid_fl=n&search_uuid=0ba0b637-16cb-42c6-bf21-0e09fcf5c961",
+      "deadline": "~ 10/25(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55072692",
+      "company_raw": "(주)엘시에스",
+      "company_clean": "엘시에스",
+      "title": "앱기반 Full Stack 개발자",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55072692&location=ts&searchType=search&paid_fl=n&search_uuid=0ba0b637-16cb-42c6-bf21-0e09fcf5c961",
+      "deadline": "~ 10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "49960535",
+      "company_raw": "㈜휴온스글로벌",
+      "company_clean": "㈜휴온스글로벌",
+      "title": "휴온스그룹 2026년 10월 각 부문 신입 및 경력직 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49960535?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~09/27(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50016271",
+      "company_raw": "㈜키스템프",
+      "company_clean": "㈜키스템프",
+      "title": "[최대 연5,300만/당산역] 삼성SDS자회사 서버운영담당자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50016271?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/01(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50017455",
+      "company_raw": "㈜상상유니버스",
+      "company_clean": "㈜상상유니버스",
+      "title": "웹마스터 : 웹사이트 운영관리 및 고객관리 프리렌서 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50017455?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/18(일)"
     }
   ]
 }
