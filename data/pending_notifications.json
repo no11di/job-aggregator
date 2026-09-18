@@ -1,3 +1,31 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55076893",
+      "company_raw": "(주)더테스트",
+      "company_clean": "더테스트",
+      "title": "[더테스트/경기] 임베디드 SW테스트 엔지니어 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55076893&location=ts&searchType=search&paid_fl=n&search_uuid=cc326cc7-2c82-4301-a2c1-0549817d93d7",
+      "deadline": "~ 10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50021103",
+      "company_raw": "㈜인피닉",
+      "company_clean": "㈜인피닉",
+      "title": "[수원]SW 테스트 엔지니어(QA) 신입 및 경력 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50021103?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119278087",
+      "company_raw": "(리페어센터)김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "company_clean": "리페어센터김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "title": "영종도/주5일/전자회로 이해 및 관련 수리 경험자/9to6/셔틀운행",
+      "link": "https://www.albamon.com/jobs/detail/119278087?sc=612",
+      "deadline": "~10/08(목)"
+    }
+  ]
 }
