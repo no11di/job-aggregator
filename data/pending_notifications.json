@@ -1070,6 +1070,51 @@
       "title": "QA 플랫폼 개발자",
       "link": "https://www.wanted.co.kr/wd/286650",
       "deadline": "상시채용"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55077872",
+      "company_raw": "(주)부길",
+      "company_clean": "부길",
+      "title": "[분당] 시니어 케어 서비스 S/W QA/테스터 (중급/초급) 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077872&location=ts&searchType=search&paid_fl=n&search_uuid=7ca6032d-bfbb-466f-b04e-b359102423d8",
+      "deadline": "~ 10/18(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55077754",
+      "company_raw": "(주)부길",
+      "company_clean": "부길",
+      "title": "[분당] 스마트폰 필드테스트 엔지니어 (중급/초급) 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077754&location=ts&searchType=search&paid_fl=n&search_uuid=7ca6032d-bfbb-466f-b04e-b359102423d8",
+      "deadline": "~ 10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50021479",
+      "company_raw": "(재)여성기업종합지원센터",
+      "company_clean": "여성기업종합지원센터",
+      "title": "[㈜아울소싸이어티] 서비스ㆍ운영기획 PM (K-패션 글로벌 B2B플랫폼/경력 5년 이상)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50021479?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~10/31(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50021939",
+      "company_raw": "컴즈㈜",
+      "company_clean": "컴즈㈜",
+      "title": "외국어 사이트 번역 검수 아르바이트 [ 독일어, 프랑스어 ] 각 1명",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50021939?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/07(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285105",
+      "company_raw": "민트로켓",
+      "company_clean": "민트로켓",
+      "title": "[민트로켓] 게임플레이 QA 채용 [계약직]",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285105&sc=612",
+      "deadline": "상시채용"
     }
   ]
 }
