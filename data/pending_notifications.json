@@ -1,3 +1,40 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55081754",
+      "company_raw": "에이치알포유(주)",
+      "company_clean": "에이치알포유",
+      "title": "[코스피 상장 IT서비스 중견기업] 증권사 IT 품질관리(3~12년)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55081754&location=ts&searchType=search&paid_fl=n&search_uuid=a85cb12f-4ecc-400e-bf87-5688b1b0ec86",
+      "deadline": "~ 10/02(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55082269",
+      "company_raw": "테스트코윈",
+      "company_clean": "테스트코윈",
+      "title": "(금융) 은행 단말기(계정계) 테스트엔지니어 SQA 테스트 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55082269&location=ts&searchType=search&paid_fl=n&search_uuid=6a5d0440-573e-460d-876b-b7b8c6d685ff",
+      "deadline": "~ 10/30(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55080720",
+      "company_raw": "주식회사뎁팀",
+      "company_clean": "뎁팀",
+      "title": "고객사 프로젝트와 자사 서비스 개발·운영할 개발자(재택)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55080720&location=ts&searchType=search&paid_fl=n&search_uuid=3e4cd8a4-40f4-41a8-b5a0-b88139bae146",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50023575",
+      "company_raw": "㈜테스트코윈(testcowin",
+      "company_clean": "㈜테스트코윈testcowin",
+      "title": "(금융) 은행 단말기(계정계) 테스트 검증  QA 인재 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50023575?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~09/30(수)"
+    }
+  ]
 }
