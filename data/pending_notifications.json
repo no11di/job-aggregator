@@ -1,22 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "jobkorea",
-      "post_id": "49783660",
-      "company_raw": "에이스휴먼파워㈜",
-      "company_clean": "에이스휴먼파워㈜",
-      "title": "[풀재택/월275만/화상면접] 쿠팡 AI컨텐츠 품질 평가자 채용",
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/49783660?rPageCode=SL&logpath=21&sn=6&sc=611",
-      "deadline": "~10/13(화)"
-    },
-    {
-      "platform": "jobkorea",
-      "post_id": "50018510",
-      "company_raw": "㈜싸이웰시스템",
-      "company_clean": "㈜싸이웰시스템",
-      "title": "[싸이웰] AI사업팀 개발자 채용 (신입 / 경력)",
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50018510?rPageCode=SL&logpath=21&sn=6&sc=611",
-      "deadline": "~10/02(금)"
-    }
-  ]
+  "jobs": []
 }
