@@ -1,3 +1,49 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55083805",
+      "company_raw": "이노아이(주)",
+      "company_clean": "이노아이",
+      "title": "[판교] 이커머스 플랫폼 테스트엔지니어",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55083805&location=ts&searchType=search&paid_fl=n&search_uuid=587f3270-2e14-40bb-9f7a-fa1acd702006",
+      "deadline": "~ 10/20(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50024156",
+      "company_raw": "이노아이㈜",
+      "company_clean": "이노아이㈜",
+      "title": "[판교] 이커머스 플랫폼 테스트 엔지니어 경력직",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50024156?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/20(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50024087",
+      "company_raw": "Fount",
+      "company_clean": "Fount",
+      "title": "[금융/SI/여의도] QA/프로그램 테스터",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50024087?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/20(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119192857",
+      "company_raw": "스마트폰 리페어센터",
+      "company_clean": "스마트폰 리페어센터",
+      "title": "[주5일] 스마트기기 리페어센터 엔지니어 채용/회로도 판독/셔틀/점심제공",
+      "link": "https://www.albamon.com/jobs/detail/119192857?sc=612",
+      "deadline": "~10/04(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119170924",
+      "company_raw": "(리페어센터)김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "company_clean": "리페어센터김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "title": "영종도/주5일/스마트기기 회로도 분석 및 수리 가능 직원모집/9to6",
+      "link": "https://www.albamon.com/jobs/detail/119170924?sc=612",
+      "deadline": "~10/03(토)"
+    }
+  ]
 }
