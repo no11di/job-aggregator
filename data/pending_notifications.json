@@ -1,3 +1,256 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55095515",
+      "company_raw": "(주)금호에이치티",
+      "company_clean": "금호에이치티",
+      "title": "자동차 전장제어기 시스템 설계 연구원(경력) 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55095515&location=ts&searchType=search&paid_fl=n&search_uuid=cfa59393-4a87-498b-86fd-45104a9744fd",
+      "deadline": "~ 10/21(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50025203",
+      "company_raw": "㈜보콜",
+      "company_clean": "㈜보콜",
+      "title": "[(주)보콜] 품질QC / QA 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50025203?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50025865",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 시험 인증 테스트 엔지니어 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50025865?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/05(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50025859",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 증권사 경력 및 퇴직(예정)자 채용 (SW 테스터)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50025859?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/05(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50026457",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 금융 SW테스트엔지니어 경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50026457?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/05(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50025876",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 금융/이커머스 SW테스트엔지니어 경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50025876?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/05(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50026466",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 글로벌 eCommerce QA 차장급 자동화 시니어 개발자 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50026466?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/05(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50025872",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 소프트웨어테스트엔지니어(SQA) 신입/경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50025872?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/05(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50034027",
+      "company_raw": "주식회사스마일게이트",
+      "company_clean": "스마일게이트",
+      "title": "[스마일게이트] [D&I] 게임 접근성 테스터(장애인 채용/인턴)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50034027?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~09/30(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50032490",
+      "company_raw": "넥스트증권㈜",
+      "company_clean": "넥스트증권㈜",
+      "title": "QA Engineer",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50032490?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50031556",
+      "company_raw": "㈜컴투스",
+      "company_clean": "㈜컴투스",
+      "title": "[컴투스] 2026 모바일 QA 담당자 (계약직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50031556?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50025863",
+      "company_raw": "엠씨넥스",
+      "company_clean": "엠씨넥스",
+      "title": "㈜엠씨넥스 시스템사업실(HW) 경력 직원 모집의 건",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50025863?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~09/30(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50030359",
+      "company_raw": "슈어소프트테크㈜",
+      "company_clean": "슈어소프트테크㈜",
+      "title": "[슈어소프트테크] 2026년 하반기 신입/경력 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50030359?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/22(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50034417",
+      "company_raw": "㈜마스오토",
+      "company_clean": "㈜마스오토",
+      "title": "자율주행 트럭 필드 엔지니어 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50034417?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/21(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50032675",
+      "company_raw": "㈜서북",
+      "company_clean": "㈜서북",
+      "title": "[서북/포토이즘] QA 담당자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50032675?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50031923",
+      "company_raw": "㈜에이에프아이",
+      "company_clean": "㈜에이에프아이",
+      "title": "(경력)QA 엔지니어 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50031923?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~10/21(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50034251",
+      "company_raw": "㈜파란샘",
+      "company_clean": "㈜파란샘",
+      "title": "공공 SI 프로젝트 QC·품질관리 담당자",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50034251?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/21(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50030568",
+      "company_raw": "스카이랩스",
+      "company_clean": "스카이랩스",
+      "title": "SW 검증 팀장",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50030568?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50028368",
+      "company_raw": "㈜티니어",
+      "company_clean": "㈜티니어",
+      "title": "[글로벌 앱 플랫폼] QA (2년 이상)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50028368?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/21(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50026257",
+      "company_raw": "㈜엠씨테크",
+      "company_clean": "㈜엠씨테크",
+      "title": "QA/테스터 신입 및 경력 정규직 사원 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50026257?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/21(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50034035",
+      "company_raw": "주식회사스마일게이트",
+      "company_clean": "스마일게이트",
+      "title": "[스마일게이트] [지원] 게임 접근성 패널 채용(장애인/1일 아르바이트)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50034035?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~10/21(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119327620",
+      "company_raw": "(리페어센터)김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "company_clean": "리페어센터김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "title": "영종도/주5일/전자회로 이해 및 관련 수리 경험자/9to6/셔틀운행",
+      "link": "https://www.albamon.com/jobs/detail/119327620?sc=612",
+      "deadline": "~10/11(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119297377",
+      "company_raw": "LG유플러스",
+      "company_clean": "LG유플러스",
+      "title": "[월 16일 근무] 서버/시스템 관제, 모니터링 정규직 채용 (강남)",
+      "link": "https://www.albamon.com/jobs/detail/119297377?sc=612",
+      "deadline": "~10/11(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285175",
+      "company_raw": "㈜그린맨파워",
+      "company_clean": "㈜그린맨파워",
+      "title": "[판교/ 복지우수] 코스닥 상장 유명중견 게임사 PC,모바일 게임QA",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285175&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285146",
+      "company_raw": "주식회사 컴투스",
+      "company_clean": "컴투스",
+      "title": "[컴투스] [서머너즈워] QA 담당자 (계약직)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285146&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285143",
+      "company_raw": "주식회사 컴투스",
+      "company_clean": "컴투스",
+      "title": "[컴투스] [컴투스프로야구 시리즈] QA 담당자 (계약직)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285143&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285127",
+      "company_raw": "㈜게임덱스",
+      "company_clean": "㈜게임덱스",
+      "title": "[QA] 게임 테스트 2개월 단기 계약 모집",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285127&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285126",
+      "company_raw": "코리아인",
+      "company_clean": "코리아인",
+      "title": "[판교 / 인기 게임사] 게임QA 모집 (신입O)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285126&sc=612",
+      "deadline": "~09/29(화)"
+    }
+  ]
 }
