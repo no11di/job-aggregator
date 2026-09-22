@@ -1,3 +1,175 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55109040",
+      "company_raw": "주식회사엠유",
+      "company_clean": "엠유",
+      "title": "차세대 이커머스 QA 프리랜서 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55109040&location=ts&searchType=search&paid_fl=n&search_uuid=77c1be22-670f-46ae-b1e3-e3cb674b493c",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55092270",
+      "company_raw": "(주)키움예스저축은행",
+      "company_clean": "키움예스저축은행",
+      "title": "키움YES저축은행 모바일뱅킹 서비스 개발 및 운영 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55092270&location=ts&searchType=search&paid_fl=n&search_uuid=77c1be22-670f-46ae-b1e3-e3cb674b493c",
+      "deadline": "~ 10/11(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50040495",
+      "company_raw": "광동제약㈜",
+      "company_clean": "광동제약㈜",
+      "title": "[광동제약] 품질관리1팀(QC) 신입 및 경력직원 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50040495?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~09/28(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50037763",
+      "company_raw": "㈜동양건설산업",
+      "company_clean": "㈜동양건설산업",
+      "title": "[라인그룹] 앱 개발자 경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50037763?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~10/11(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50042838",
+      "company_raw": "쥬베뉴㈜",
+      "company_clean": "쥬베뉴㈜",
+      "title": "병원시술의료기기 RA&QA 경력직 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50042838?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/23(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50042507",
+      "company_raw": "㈜컴스페이스컨설팅",
+      "company_clean": "㈜컴스페이스컨설팅",
+      "title": "SI 구축 사업관리",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50042507?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/22(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50042503",
+      "company_raw": "㈜쓰리아이",
+      "company_clean": "㈜쓰리아이",
+      "title": "QA Engineer Manager",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50042503?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/22(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50042430",
+      "company_raw": "㈜팬딩",
+      "company_clean": "㈜팬딩",
+      "title": "QA 엔지니어",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50042430?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/21(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119341809",
+      "company_raw": "주식회사 데일리워크",
+      "company_clean": "데일리워크",
+      "title": "[게임업계 경력자 채용] 게임 QA 테스터 담당자 모집",
+      "link": "https://www.albamon.com/jobs/detail/119341809?sc=612",
+      "deadline": "~10/09(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119331548",
+      "company_raw": "LG유플러스",
+      "company_clean": "LG유플러스",
+      "title": "[강남/월 16일 근무] 서버/시스템 관제, 모니터링 정규직 채용",
+      "link": "https://www.albamon.com/jobs/detail/119331548?sc=612",
+      "deadline": "~10/13(화)"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "388652",
+      "company_raw": "에스케이그룹 (SK)",
+      "company_clean": "에스케이그룹 SK",
+      "title": "[SK signet] 전기차 충전기 SW/FW 검증 및 시험 자동화 엔지니어",
+      "link": "https://www.wanted.co.kr/wd/388652",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "388627",
+      "company_raw": "엔에이치엔커머스(nhn커머스)",
+      "company_clean": "엔에이치엔커머스nhn커머스",
+      "title": "QA 담당자",
+      "link": "https://www.wanted.co.kr/wd/388627",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "388598",
+      "company_raw": "엠지알브이",
+      "company_clean": "엠지알브이",
+      "title": "S/W QA 담당자",
+      "link": "https://www.wanted.co.kr/wd/388598",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "388522",
+      "company_raw": "아우토크립트",
+      "company_clean": "아우토크립트",
+      "title": "자동차 사이버보안 테스트 엔지니어",
+      "link": "https://www.wanted.co.kr/wd/388522",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "388515",
+      "company_raw": "아우토크립트",
+      "company_clean": "아우토크립트",
+      "title": "자동차 사이버보안 테스트 툴 필드 엔지니어",
+      "link": "https://www.wanted.co.kr/wd/388515",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "388357",
+      "company_raw": "마키나락스",
+      "company_clean": "마키나락스",
+      "title": "[QA] QA Engineer",
+      "link": "https://www.wanted.co.kr/wd/388357",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "388294",
+      "company_raw": "클로봇",
+      "company_clean": "클로봇",
+      "title": "시스템 연동 플랫폼 아키텍트",
+      "link": "https://www.wanted.co.kr/wd/388294",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "388288",
+      "company_raw": "유진로봇",
+      "company_clean": "유진로봇",
+      "title": "[자율주행솔루션사업부] FAE(기술지원 엔지니어)",
+      "link": "https://www.wanted.co.kr/wd/388288",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "remember",
+      "post_id": "342885",
+      "company_raw": "(주)윌로그",
+      "company_clean": "윌로그",
+      "title": "품질보증(SW QA) 담당자",
+      "link": "https://career.rememberapp.co.kr/job/posting/342885",
+      "deadline": "상시채용"
+    }
+  ]
 }
