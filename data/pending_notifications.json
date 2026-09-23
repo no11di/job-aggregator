@@ -1,3 +1,22 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "54958202",
+      "company_raw": "(주)글로벌모터서비스",
+      "company_clean": "글로벌모터서비스",
+      "title": "[남양주 / 영어필수] 수입차 신입 Test Engineer 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54958202&location=ts&searchType=search&paid_fl=n&search_uuid=fdce90a4-3a68-4f7d-ae9f-593fce52a463",
+      "deadline": "~ 10/07(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55102683",
+      "company_raw": "(주)현대케피코",
+      "company_clean": "현대케피코",
+      "title": "[현대케피코] 2026년 하반기 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55102683&location=ts&searchType=search&paid_fl=n&search_uuid=ac295cc3-eef2-45cd-88cd-a8d12f2b6586",
+      "deadline": "~ 10/11(일)"
+    }
+  ]
 }
