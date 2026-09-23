@@ -1,3 +1,355 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55111127",
+      "company_raw": "(주)엑스큐어넷",
+      "company_clean": "엑스큐어넷",
+      "title": "보안솔루션 품질검증(QA) 및 자동화 개발 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55111127&location=ts&searchType=search&paid_fl=n&search_uuid=934bf4f5-decd-40da-9418-75a435d054c8",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55116627",
+      "company_raw": "위키에이드",
+      "company_clean": "위키에이드",
+      "title": "[판교/코스닥] 통신장비 시스템 검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55116627&location=ts&searchType=search&paid_fl=n&search_uuid=934bf4f5-decd-40da-9418-75a435d054c8",
+      "deadline": "~ 10/08(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55115329",
+      "company_raw": "(주)투모어스텝스",
+      "company_clean": "투모어스텝스",
+      "title": "[Two More Steps] IT 기획자 경력직 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115329&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55113316",
+      "company_raw": "삼성물산 (주)",
+      "company_clean": "삼성물산",
+      "title": "[삼성물산 건설부문] 커뮤니티 솔루션 PM(하드웨어/모바일 연동)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55113316&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55113053",
+      "company_raw": "(주)큐게임즈",
+      "company_clean": "큐게임즈",
+      "title": "[㈜큐게임즈] 게임 QA 담당자(경력 3년이상) 정규직 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55113053&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55110156",
+      "company_raw": "(주)팬딩",
+      "company_clean": "팬딩",
+      "title": "QA 엔지니어",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55110156&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 10/22(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55111250",
+      "company_raw": "컴즈(주)",
+      "company_clean": "컴즈",
+      "title": "금융(은행) 시스템 개발자 모집합니다.",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55111250&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55110903",
+      "company_raw": "씨드로닉스(주)",
+      "company_clean": "씨드로닉스",
+      "title": "AI 학습데이터 매니저 - Camera 가공 검수/운영",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55110903&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 11/22(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55110892",
+      "company_raw": "씨드로닉스(주)",
+      "company_clean": "씨드로닉스",
+      "title": "AI 학습데이터 매니저 - 해양 Radar 가공 검수/운영",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55110892&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 11/22(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55110636",
+      "company_raw": "노츠(주)",
+      "company_clean": "노츠",
+      "title": "[노츠] Web/App 소프트웨어 테스트 엔지니어 모집 (성수/강남)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55110636&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 09/30(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55109937",
+      "company_raw": "(주)휴먼코아",
+      "company_clean": "휴먼코아",
+      "title": "[재택근무 l 유망 스타트업] 제품 운영 지원 매니저 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55109937&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 09/30(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55109800",
+      "company_raw": "(주)휴먼코아",
+      "company_clean": "휴먼코아",
+      "title": "[재택근무 l 유망 스타트업] QA 매니저 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55109800&location=ts&searchType=search&paid_fl=n&search_uuid=ef6b8bf4-4980-43cb-ba24-7e260450fb06",
+      "deadline": "~ 10/08(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55116714",
+      "company_raw": "(주)큐그릿",
+      "company_clean": "큐그릿",
+      "title": "단기 프로젝트 플랫폼 QA 인재 모집 (10월16일부터 11월2일)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55116714&location=ts&searchType=search&paid_fl=n&search_uuid=8a3b3d89-fb35-4222-8038-a820be7ef609",
+      "deadline": "~ 10/11(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55113383",
+      "company_raw": "(주)디알젬",
+      "company_clean": "디알젬",
+      "title": "본사 각 부문별 채용(연구소,해외영업,경영지원)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55113383&location=ts&searchType=search&paid_fl=n&search_uuid=8a3b3d89-fb35-4222-8038-a820be7ef609",
+      "deadline": "~ 10/20(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55115674",
+      "company_raw": "(주)포비즈코리아",
+      "company_clean": "포비즈코리아",
+      "title": "[이커머스플랫폼] QA 엔지니어",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55115674&location=ts&searchType=search&paid_fl=n&search_uuid=8a3b3d89-fb35-4222-8038-a820be7ef609",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55114674",
+      "company_raw": "에스케이바이오팜(주)",
+      "company_clean": "에스케이바이오팜",
+      "title": "[SK바이오팜] AI Research Engineer 구성원 영입",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55114674&location=ts&searchType=search&paid_fl=n&search_uuid=8a3b3d89-fb35-4222-8038-a820be7ef609",
+      "deadline": "~ 10/11(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55072188",
+      "company_raw": "에스케이바이오팜(주)",
+      "company_clean": "에스케이바이오팜",
+      "title": "[SK바이오팜] 각 부문 구성원 영입",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55072188&location=ts&searchType=search&paid_fl=n&search_uuid=8a3b3d89-fb35-4222-8038-a820be7ef609",
+      "deadline": "~ 10/05(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55111478",
+      "company_raw": "(주) 케이와이씨지(KYCG)",
+      "company_clean": "케이와이씨지KYCG",
+      "title": "SW (소프트웨어) 검증 팀장  /  헬스케어 기업",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55111478&location=ts&searchType=search&paid_fl=n&search_uuid=8a3b3d89-fb35-4222-8038-a820be7ef609",
+      "deadline": "~ 10/08(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55111416",
+      "company_raw": "(주) 케이와이씨지(KYCG)",
+      "company_clean": "케이와이씨지KYCG",
+      "title": "소프트웨어 QC 담당자 (SQC)  /  헬스케어 기업",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55111416&location=ts&searchType=search&paid_fl=n&search_uuid=8a3b3d89-fb35-4222-8038-a820be7ef609",
+      "deadline": "~ 10/08(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55110619",
+      "company_raw": "노츠(주)",
+      "company_clean": "노츠",
+      "title": "[노츠] 자동차 전장 SW 테스트 엔지니어 모집 (제 2판교)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55110619&location=ts&searchType=search&paid_fl=n&search_uuid=8a3b3d89-fb35-4222-8038-a820be7ef609",
+      "deadline": "~ 09/30(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55110592",
+      "company_raw": "노츠(주)",
+      "company_clean": "노츠",
+      "title": "[노츠] 텔레매틱스 SW 테스트 엔지니어 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55110592&location=ts&searchType=search&paid_fl=n&search_uuid=8a3b3d89-fb35-4222-8038-a820be7ef609",
+      "deadline": "~ 09/30(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50047826",
+      "company_raw": "㈜컴투스",
+      "company_clean": "㈜컴투스",
+      "title": "[컴투스] 운영툴/확률형 아이템 QA 담당자 (계약직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50047826?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~10/23(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50046436",
+      "company_raw": "㈜케이티클라우드",
+      "company_clean": "㈜케이티클라우드",
+      "title": "[kt cloud] 경력직(계약직) 채용 (QA, 세무)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50046436?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~10/11(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50049534",
+      "company_raw": "㈜마스오토",
+      "company_clean": "㈜마스오토",
+      "title": "[미국/텍사스] 자율주행 필드 엔지니어 채용(시민권, 영주권, OPT, H1B 등)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50049534?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/23(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50049070",
+      "company_raw": "㈜포비즈코리아",
+      "company_clean": "㈜포비즈코리아",
+      "title": "[이커머스플랫폼] QA 엔지니어",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50049070?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~10/23(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50048960",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50048960?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/23(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50046570",
+      "company_raw": "엔에이치엔에이스",
+      "company_clean": "엔에이치엔에이스",
+      "title": "모빌리티 서비스 운영 및 기획 담당자",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50046570?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50046542",
+      "company_raw": "큐게임즈",
+      "company_clean": "큐게임즈",
+      "title": "[㈜큐게임즈] QA 경력(3년 이상) 정규직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50046542?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/23(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50044860",
+      "company_raw": "㈜엑스큐어넷",
+      "company_clean": "㈜엑스큐어넷",
+      "title": "보안솔루션 품질검증(QA) 및 자동화 개발 경력 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50044860?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/22(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50050077",
+      "company_raw": "㈜큐그릿",
+      "company_clean": "㈜큐그릿",
+      "title": "단기 프로젝트 플랫폼 QA 인재 모집 (10월16일부터 11월2일)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50050077?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/11(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50050030",
+      "company_raw": "이비웨어㈜",
+      "company_clean": "이비웨어㈜",
+      "title": "[이비웨어(주)] QA 인력 구인(중급)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50050030?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/09(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50050017",
+      "company_raw": "이비웨어㈜",
+      "company_clean": "이비웨어㈜",
+      "title": "[이비웨어(주)] QA 인력 구인(초급, 중급)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50050017?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/09(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50046371",
+      "company_raw": "㈜아이이에이",
+      "company_clean": "㈜아이이에이",
+      "title": "운영 프로젝트 품질관리담당자",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50046371?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/23(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119366126",
+      "company_raw": "(리페어센터)김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "company_clean": "리페어센터김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "title": "실내근무/영종도/주5일/전자기기 기능사 엔지니어 모집/9to6/셔틀운행",
+      "link": "https://www.albamon.com/jobs/detail/119366126?sc=612",
+      "deadline": "~10/13(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285238",
+      "company_raw": "주식회사 컴투스",
+      "company_clean": "컴투스",
+      "title": "[컴투스] 운영툴/확률형 아이템 QA 담당자 (계약직)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285238&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285237",
+      "company_raw": "㈜이안게임즈",
+      "company_clean": "㈜이안게임즈",
+      "title": "[이안게임즈] 개발 QA 담당 모집(계약직)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285237&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55110156",
+      "company_raw": "팬딩",
+      "company_clean": "팬딩",
+      "title": "QA 엔지니어",
+      "link": "https://www.jumpit.co.kr/position/55110156",
+      "deadline": "2026-10-22"
+    },
+    {
+      "platform": "remember",
+      "post_id": "343016",
+      "company_raw": "(주)파두",
+      "company_clean": "파두",
+      "title": "[FADU] SSD Project Qual Manager",
+      "link": "https://career.rememberapp.co.kr/job/posting/343016",
+      "deadline": "2026-10-31"
+    },
+    {
+      "platform": "remember",
+      "post_id": "342996",
+      "company_raw": "(주)뉴빌리티",
+      "company_clean": "뉴빌리티",
+      "title": "[Robot] QA Team Leader",
+      "link": "https://career.rememberapp.co.kr/job/posting/342996",
+      "deadline": "2026-10-23"
+    }
+  ]
 }
