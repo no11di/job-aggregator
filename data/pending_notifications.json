@@ -1,3 +1,22 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55120700",
+      "company_raw": "반석써치(주)",
+      "company_clean": "반석써치",
+      "title": "[상장 X-ray 의료기]  시스템검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55120700&location=ts&searchType=search&paid_fl=n&search_uuid=ea0fff17-bdc6-4ecf-a7d5-d3f0f454ce19",
+      "deadline": "~ 10/10(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55104758",
+      "company_raw": "(주)와따에이아이",
+      "company_clean": "와따에이아이",
+      "title": "IOT 전장 설계/개발 주니어 엔지니어[판교]",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55104758&location=ts&searchType=search&paid_fl=n&search_uuid=fe7796de-8ac9-4f5e-92c8-049f2a15c070",
+      "deadline": "~ 10/24(토)"
+    }
+  ]
 }
