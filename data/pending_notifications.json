@@ -1,31 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55077482",
-      "company_raw": "넷마블(주)",
-      "company_clean": "넷마블",
-      "title": "AI 엔지니어(음성 에이전트) 모집",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077482&location=ts&searchType=search&paid_fl=n&search_uuid=4b12799e-9a34-480f-87d4-2dc6991f5bc4",
-      "deadline": "~ 10/25(일)"
-    },
-    {
-      "platform": "saramin",
-      "post_id": "55077471",
-      "company_raw": "넷마블(주)",
-      "company_clean": "넷마블",
-      "title": "AI 엔지니어(VLM 기반 게임 에이전트)",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077471&location=ts&searchType=search&paid_fl=n&search_uuid=136c3736-268f-47c3-938d-12e966ecb0f6",
-      "deadline": "~ 10/25(일)"
-    },
-    {
-      "platform": "saramin",
-      "post_id": "55077412",
-      "company_raw": "넷마블(주)",
-      "company_clean": "넷마블",
-      "title": "AI 연구 및 서비스 개발",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55077412&location=ts&searchType=search&paid_fl=n&search_uuid=136c3736-268f-47c3-938d-12e966ecb0f6",
-      "deadline": "~ 10/25(일)"
-    }
-  ]
+  "jobs": []
 }
