@@ -1,22 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55122146",
-      "company_raw": "잡원티드[JOBWANTED]",
-      "company_clean": "잡원티드JOBWANTED",
-      "title": "한국어 게임 현지화 품질검수(LQA) 담당자 모집[재택근무]",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55122146&location=ts&searchType=search&paid_fl=n&search_uuid=d54966f7-7204-4874-b9f8-9daaa4060b09",
-      "deadline": "채용시"
-    },
-    {
-      "platform": "jobkorea",
-      "post_id": "50052684",
-      "company_raw": "㈜이종",
-      "company_clean": "㈜이종",
-      "title": "자동차 제어기 개발(C 중급) 및 SW 검증 인재 모집(C/C++코드기반)",
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50052684?rPageCode=SL&logpath=21&sn=6&sc=611",
-      "deadline": "~10/26(월)"
-    }
-  ]
+  "jobs": []
 }
