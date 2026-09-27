@@ -1,3 +1,22 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55123090",
+      "company_raw": "(주)와이브레인",
+      "company_clean": "와이브레인",
+      "title": "SW QA 시니어 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55123090&location=ts&searchType=search&paid_fl=n&search_uuid=471d1097-1f4c-4dd0-95fd-c73b82231fb0",
+      "deadline": "~ 11/26(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55122703",
+      "company_raw": "(주)에스이에스",
+      "company_clean": "에스이에스",
+      "title": "[판교] 프린터 동작시험 및 품질 검증 업무",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55122703&location=ts&searchType=search&paid_fl=n&search_uuid=471d1097-1f4c-4dd0-95fd-c73b82231fb0",
+      "deadline": "~ 10/02(금)"
+    }
+  ]
 }
