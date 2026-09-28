@@ -1,3 +1,13 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55136693",
+      "company_raw": "(주)키다리스튜디오",
+      "company_clean": "키다리스튜디오",
+      "title": "[다우키움 계열사] 챗봇 플랫폼 운영 담당 (3년 이상)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55136693&location=ts&searchType=search&paid_fl=n&search_uuid=f8258d0d-be49-47bc-b269-bae7916d1982",
+      "deadline": "~ 10/28(수)"
+    }
+  ]
 }
