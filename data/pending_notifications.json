@@ -1,3 +1,58 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "54170492",
+      "company_raw": "토스뱅크(주)",
+      "company_clean": "토스뱅크",
+      "title": "QA Manager",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54170492&location=ts&searchType=search&paid_fl=n&search_uuid=a70071a1-6746-4d52-8225-126cd9a9ed30",
+      "deadline": "~ 10/15(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55113294",
+      "company_raw": "해커스교육그룹",
+      "company_clean": "해커스교육그룹",
+      "title": "2026년 해커스 교육그룹 [신입/경력] 각 부문별 채용공고",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55113294&location=ts&searchType=search&paid_fl=n&search_uuid=a70071a1-6746-4d52-8225-126cd9a9ed30",
+      "deadline": "~ 12/31(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55157669",
+      "company_raw": "(주)비상교육",
+      "company_clean": "비상교육",
+      "title": "비상교육 개발직무 인재 영입",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55157669&location=ts&searchType=search&paid_fl=n&search_uuid=aa504280-aab2-44a2-84b4-70257d0ed816",
+      "deadline": "~ 10/11(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55144125",
+      "company_raw": "엔큐리티(주)",
+      "company_clean": "엔큐리티",
+      "title": "[분당/사세확장] 웹방화벽 기술지원 엔지니어 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55144125&location=ts&searchType=search&paid_fl=n&search_uuid=aa504280-aab2-44a2-84b4-70257d0ed816",
+      "deadline": "~ 10/31(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55132456",
+      "company_raw": "(주)디지트론",
+      "company_clean": "디지트론",
+      "title": "연구부문(H/W설계), 생산부문(생산관리팀,생산기술팀,생산팀,구미연구소), 품질보증팀 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55132456&location=ts&searchType=search&paid_fl=n&search_uuid=aa504280-aab2-44a2-84b4-70257d0ed816",
+      "deadline": "~ 11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50083102",
+      "company_raw": "제일약품㈜",
+      "company_clean": "제일약품㈜",
+      "title": "[제일약품 그룹] 부문별 인재모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50083102?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~10/11(일)"
+    }
+  ]
 }
