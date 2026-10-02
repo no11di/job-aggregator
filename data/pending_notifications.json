@@ -1,3 +1,40 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55191301",
+      "company_raw": "호전실업(주)",
+      "company_clean": "호전실업",
+      "title": "웹/앱 풀스택 개발자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55191301&location=ts&searchType=search&paid_fl=n&search_uuid=dc45e3de-aca8-4123-a5b0-01042b76f0e7",
+      "deadline": "~ 11/01(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55173770",
+      "company_raw": "명화공업(주)",
+      "company_clean": "명화공업",
+      "title": "2026년 본사 및 관계사 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55173770&location=ts&searchType=search&paid_fl=n&search_uuid=dc45e3de-aca8-4123-a5b0-01042b76f0e7",
+      "deadline": "~ 10/11(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55193322",
+      "company_raw": "(주)부길",
+      "company_clean": "부길",
+      "title": "[분당] 스마트폰 S/W QA/테스터 (중급/초급) 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55193322&location=ts&searchType=search&paid_fl=n&search_uuid=d154941f-f45f-4f57-a5d5-f96e26ade07b",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55191301",
+      "company_raw": "호전실업",
+      "company_clean": "호전실업",
+      "title": "웹/앱 풀스택 개발자 채용",
+      "link": "https://www.jumpit.co.kr/position/55191301",
+      "deadline": "2026-11-01"
+    }
+  ]
 }
