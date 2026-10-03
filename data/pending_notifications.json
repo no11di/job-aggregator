@@ -1,3 +1,31 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55200278",
+      "company_raw": "HR컨설팅(주)",
+      "company_clean": "HR컨설팅",
+      "title": "대기업 계열IT사 DevSecOps Engineer 7년이상",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55200278&location=ts&searchType=search&paid_fl=n&search_uuid=6741de39-e18c-4b51-8feb-1558f5f1cd83",
+      "deadline": "~ 10/19(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55185411",
+      "company_raw": "(주)씨어스",
+      "company_clean": "씨어스",
+      "title": "Data Engineer 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55185411&location=ts&searchType=search&paid_fl=n&search_uuid=8e69b14c-8d8a-45b2-b43c-6411da56e568",
+      "deadline": "~ 11/02(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119488270",
+      "company_raw": "PC,모바일 RPG 게임 고객센터-트랜스코스모스",
+      "company_clean": "PC,모바일 RPG 게임 고객센터-트랜스코스모스",
+      "title": "[평일근무] RPG 게임 고객센터 이용문의 상담 TPQO",
+      "link": "https://www.albamon.com/jobs/detail/119488270?sc=612",
+      "deadline": "~10/08(목)"
+    }
+  ]
 }
