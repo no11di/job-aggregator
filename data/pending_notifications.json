@@ -1,3 +1,13 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "jobkorea",
+      "post_id": "50034176",
+      "company_raw": "㈜쿡앱스",
+      "company_clean": "㈜쿡앱스",
+      "title": "[쿡앱스] 모바일 게임 QA 프리랜서 (재택근무)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50034176?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/20(금)"
+    }
+  ]
 }
