@@ -1,3 +1,31 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55201058",
+      "company_raw": "(주)에이치알비즈코리아",
+      "company_clean": "에이치알비즈코리아",
+      "title": "개발QA 담당/ 모바일 RPG/세계적인 게임사/판교 근무",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55201058&location=ts&searchType=search&paid_fl=n&search_uuid=09735b52-f1e4-44b6-b998-7a8e99d40564",
+      "deadline": "~ 10/19(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55201120",
+      "company_raw": "(주)에이치알비즈코리아",
+      "company_clean": "에이치알비즈코리아",
+      "title": "FQA 담당/모바일 RPG/세계적인 게임사/판교",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55201120&location=ts&searchType=search&paid_fl=n&search_uuid=474799be-f7d4-49d2-8f9f-6f456250971c",
+      "deadline": "~ 10/19(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119488269",
+      "company_raw": "PC,모바일 RPG 게임 고객센터-트랜스코스모스",
+      "company_clean": "PC,모바일 RPG 게임 고객센터-트랜스코스모스",
+      "title": "[평일근무] RPG 게임 고객센터 이용문의 상담 TPQO",
+      "link": "https://www.albamon.com/jobs/detail/119488269?sc=612",
+      "deadline": "~10/08(목)"
+    }
+  ]
 }
