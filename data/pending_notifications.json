@@ -1,3 +1,13 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55202616",
+      "company_raw": "HR컨설팅(주)",
+      "company_clean": "HR컨설팅",
+      "title": "[유명기업 관계사] SW QA Engineer (디지털헬스/의료기기)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55202616&location=ts&searchType=search&paid_fl=n&search_uuid=acfcb2f7-292c-4264-9a98-bc7276801fec",
+      "deadline": "~ 10/20(화)"
+    }
+  ]
 }
