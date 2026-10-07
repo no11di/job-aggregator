@@ -1,3 +1,67 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55178438",
+      "company_raw": "프라이빗에이아이(주)",
+      "company_clean": "프라이빗에이아이",
+      "title": "제품 QA 경력자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178438&location=ts&searchType=search&paid_fl=n&search_uuid=c0764810-249f-4afc-acdf-310b65788354",
+      "deadline": "~ 11/06(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55231206",
+      "company_raw": "(주)미코세라믹스",
+      "company_clean": "미코세라믹스",
+      "title": "(주)미코세라믹스 품질보증 담당 신입/경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55231206&location=ts&searchType=search&paid_fl=n&search_uuid=2d4ebcfc-fe79-45f2-9abe-ab004d1f4421",
+      "deadline": "~ 10/25(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55228444",
+      "company_raw": "(주)시스콘로보틱스",
+      "company_clean": "시스콘로보틱스",
+      "title": "개발 TPM",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55228444&location=ts&searchType=search&paid_fl=n&search_uuid=2d4ebcfc-fe79-45f2-9abe-ab004d1f4421",
+      "deadline": "~ 11/06(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55225481",
+      "company_raw": "하마랩(주)",
+      "company_clean": "하마랩",
+      "title": "QA Lead / 테스트 매니저 (경력)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55225481&location=ts&searchType=search&paid_fl=n&search_uuid=2d4ebcfc-fe79-45f2-9abe-ab004d1f4421",
+      "deadline": "~ 11/06(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50128966",
+      "company_raw": "㈜마크노바",
+      "company_clean": "㈜마크노바",
+      "title": "Android & Embedded SW QA 엔지니어 (헬스케어) 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50128966?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/07(월)"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55225481",
+      "company_raw": "하마랩",
+      "company_clean": "하마랩",
+      "title": "QA Lead / 테스트 매니저 (경력)",
+      "link": "https://www.jumpit.co.kr/position/55225481",
+      "deadline": "2026-11-06"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55178438",
+      "company_raw": "프라이빗테크놀로지",
+      "company_clean": "프라이빗테크놀로지",
+      "title": "제품 QA 경력자 채용",
+      "link": "https://www.jumpit.co.kr/position/55178438",
+      "deadline": "2026-11-06"
+    }
+  ]
 }
