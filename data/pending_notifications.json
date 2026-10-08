@@ -1,3 +1,310 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55240576",
+      "company_raw": "위키에이드",
+      "company_clean": "위키에이드",
+      "title": "[판교/코스닥] 통신장비 시스템 검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55240576&location=ts&searchType=search&paid_fl=n&search_uuid=4e0b1f1a-3132-497b-b52b-396114552c54",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55242736",
+      "company_raw": "(주)마케팅",
+      "company_clean": "마케팅",
+      "title": "웹 앱 풀스택 개발자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55242736&location=ts&searchType=search&paid_fl=n&search_uuid=868196ec-f6ee-42e5-8ba2-51d0ecab9e48",
+      "deadline": "~ 11/07(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55239339",
+      "company_raw": "(주)위시켓",
+      "company_clean": "위시켓",
+      "title": "AIDP FDE(Forward Deployed Engineer) (2~10년)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55239339&location=ts&searchType=search&paid_fl=n&search_uuid=868196ec-f6ee-42e5-8ba2-51d0ecab9e48",
+      "deadline": "~ 11/07(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55237428",
+      "company_raw": "굿커리어",
+      "company_clean": "굿커리어",
+      "title": "SW검증 팀장 /전자의료기기/10~15년/헬스케어스타트업",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55237428&location=ts&searchType=search&paid_fl=n&search_uuid=868196ec-f6ee-42e5-8ba2-51d0ecab9e48",
+      "deadline": "~ 10/21(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55237404",
+      "company_raw": "굿커리어",
+      "company_clean": "굿커리어",
+      "title": "소프트웨어 QC /전자의료기기/2~5년/헬스케어스타트업",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55237404&location=ts&searchType=search&paid_fl=n&search_uuid=868196ec-f6ee-42e5-8ba2-51d0ecab9e48",
+      "deadline": "~ 10/21(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55237392",
+      "company_raw": "굿커리어",
+      "company_clean": "굿커리어",
+      "title": "정보보안/GDPR, HIPAA/국제인증업무/3~6년/헬스케어스타트업",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55237392&location=ts&searchType=search&paid_fl=n&search_uuid=868196ec-f6ee-42e5-8ba2-51d0ecab9e48",
+      "deadline": "~ 10/21(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55236700",
+      "company_raw": "(주)와치텍",
+      "company_clean": "와치텍",
+      "title": "(주)와치텍 하반기 인재 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55236700&location=ts&searchType=search&paid_fl=n&search_uuid=868196ec-f6ee-42e5-8ba2-51d0ecab9e48",
+      "deadline": "진행예정"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55236682",
+      "company_raw": "(주)인피닉",
+      "company_clean": "인피닉",
+      "title": "[가산] SW 테스트 엔지니어 (QA) 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55236682&location=ts&searchType=search&paid_fl=n&search_uuid=868196ec-f6ee-42e5-8ba2-51d0ecab9e48",
+      "deadline": "~ 11/07(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55236607",
+      "company_raw": "(주)엠서클",
+      "company_clean": "엠서클",
+      "title": "[엠서클] 웰체크 서비스 기획자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55236607&location=ts&searchType=search&paid_fl=n&search_uuid=868196ec-f6ee-42e5-8ba2-51d0ecab9e48",
+      "deadline": "~ 10/28(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55236364",
+      "company_raw": "와이즈와이어즈(주)",
+      "company_clean": "와이즈와이어즈",
+      "title": "[와이즈와이어즈]  AI 활용 QA 전문인력 경력직 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55236364&location=ts&searchType=search&paid_fl=n&search_uuid=868196ec-f6ee-42e5-8ba2-51d0ecab9e48",
+      "deadline": "~ 10/19(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55233580",
+      "company_raw": "(주)다산네트웍솔루션즈",
+      "company_clean": "다산네트웍솔루션즈",
+      "title": "[다산네트웍솔루션즈] 외주 품질 보증(SQE) 엔지니어 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55233580&location=ts&searchType=search&paid_fl=n&search_uuid=889ebc24-928d-47f4-a454-a65e9ab68c86",
+      "deadline": "~ 11/07(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55233429",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "[S/W QA] / 뇌과학 기반의 헬스케어 혁신기업",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55233429&location=ts&searchType=search&paid_fl=n&search_uuid=889ebc24-928d-47f4-a454-a65e9ab68c86",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50098764",
+      "company_raw": "(주)제일에스티",
+      "company_clean": "제일에스티",
+      "title": "CNC·MCT·범용선반·밀링·품질관리 경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50098764?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/01(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50133978",
+      "company_raw": "㈜지텍에스",
+      "company_clean": "㈜지텍에스",
+      "title": "소프트웨어 테스트 사원 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50133978?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/14(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50131723",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈]  AI 활용 QA 전문인력 경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50131723?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/19(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50131386",
+      "company_raw": "리드커리어㈜",
+      "company_clean": "리드커리어㈜",
+      "title": "[지마켓/성수]  AI Chat 및 배송클레임 도메인 운영 및 QA 지원",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50131386?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50130893",
+      "company_raw": "㈜키스템프",
+      "company_clean": "㈜키스템프",
+      "title": "[영등포/월264만] 한국우편사업진흥원 쇼핑기획팀 웹기획 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50130893?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/15(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50130183",
+      "company_raw": "㈜맨토스파워",
+      "company_clean": "㈜맨토스파워",
+      "title": "[성수역/G마켓] AI Chat 및 배송클레임 운영 및 QA 지원 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50130183?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50135727",
+      "company_raw": "리드커리어㈜",
+      "company_clean": "리드커리어㈜",
+      "title": "[지마켓/성수] AI Chat 및 배송클레임 도메인 운영 및 QA 지원",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50135727?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50137098",
+      "company_raw": "㈜직방",
+      "company_clean": "㈜직방",
+      "title": "QA 포지션 인재풀 등록",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50137098?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/07(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50135557",
+      "company_raw": "㈜에치에프알",
+      "company_clean": "㈜에치에프알",
+      "title": "[HFR] 5G 특화망 RAN / O-RAN 검증 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50135557?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50135549",
+      "company_raw": "㈜플라즈맵",
+      "company_clean": "㈜플라즈맵",
+      "title": "기획인증실(RA) 채용-코스닥 상장사",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50135549?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50133071",
+      "company_raw": "㈜베스트아이씨티",
+      "company_clean": "㈜베스트아이씨티",
+      "title": "(여의도/인덕원) 품질관리, 사업관리 프로젝트 4건 (초-고급)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50133071?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50131971",
+      "company_raw": "㈜인피닉",
+      "company_clean": "㈜인피닉",
+      "title": "[가산] SW 테스트 엔지니어 (QA) 경력사원 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50131971?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50129361",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "씨엔케어(주) 화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50129361?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50131244",
+      "company_raw": "㈜아이디존",
+      "company_clean": "㈜아이디존",
+      "title": "급구 / QA / 삼성생명 AI OCR 로드런너 솔루션(스트레스 테스트)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50131244?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119633095",
+      "company_raw": "FA Engineer / 회로도 판독",
+      "company_clean": "FA Engineer / 회로도 판독",
+      "title": "[직원모집] 스마트기기 리페어센터 / 회로도 판독 / 셔틀버스/ 중식제공",
+      "link": "https://www.albamon.com/jobs/detail/119633095?sc=612",
+      "deadline": "~10/28(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285730",
+      "company_raw": "인플루전",
+      "company_clean": "인플루전",
+      "title": "개발 PM 채용",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285730&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285671",
+      "company_raw": "㈜그린맨파워",
+      "company_clean": "㈜그린맨파워",
+      "title": "[판교/카카오계열사] 게임QA 채용",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285671&sc=612",
+      "deadline": "~10/20(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285656",
+      "company_raw": "스마일게이트",
+      "company_clean": "스마일게이트",
+      "title": "[LOST ARK Mobile] 개발QA 담당 (계약직)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285656&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285646",
+      "company_raw": "㈜스튜디오비사이드",
+      "company_clean": "㈜스튜디오비사이드",
+      "title": "[프로젝트 A] QA 담당자",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285646&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285636",
+      "company_raw": "NC",
+      "company_clean": "NC",
+      "title": "[NC][단기계약직][AION2] 게임 현지화 영어 번역 / 검수 (English Linguist & LQA)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285636&sc=612",
+      "deadline": "~10/31(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285634",
+      "company_raw": "NC",
+      "company_clean": "NC",
+      "title": "[NC][단기계약직][AION2] 게임 현지화 독일어 번역 / 검수 (Deutsch Linguist und LQA)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285634&sc=612",
+      "deadline": "~10/31(토)"
+    },
+    {
+      "platform": "remember",
+      "post_id": "346062",
+      "company_raw": "(주)솔리드뷰",
+      "company_clean": "솔리드뷰",
+      "title": "Field Application Engineer",
+      "link": "https://career.rememberapp.co.kr/job/posting/346062",
+      "deadline": "상시채용"
+    }
+  ]
 }
