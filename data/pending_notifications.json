@@ -1,3 +1,40 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55247379",
+      "company_raw": "HR컨설팅(주)",
+      "company_clean": "HR컨설팅",
+      "title": "[유명기업 관계사] SW QA Engineer (디지털헬스/의료기기)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55247379&location=ts&searchType=search&paid_fl=n&search_uuid=70ea4ddb-1f79-4d4d-9627-545b0891d59a",
+      "deadline": "~ 10/24(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50137847",
+      "company_raw": "(유)미소",
+      "company_clean": "미소",
+      "title": "Software QA Engineer",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50137847?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/07(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50135122",
+      "company_raw": "㈜피엔에이링크",
+      "company_clean": "㈜피엔에이링크",
+      "title": "[QA/큐로드/구의역 인근] 큐로드 QA 직무 채용 안내",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50135122?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50137821",
+      "company_raw": "㈜포인트엑스",
+      "company_clean": "㈜포인트엑스",
+      "title": "금융권 프로젝트 (PMO, QA)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50137821?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    }
+  ]
 }
