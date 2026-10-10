@@ -1,3 +1,40 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55250336",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "보안솔루션사의 반도체 및 SoC칩 관련 하드웨어 보안인증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55250336&location=ts&searchType=search&paid_fl=n&search_uuid=f47bb72a-a6c3-4df8-be1b-1c6f1a7ee915",
+      "deadline": "~ 10/26(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55250371",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "HW 보안 솔루션 전문사에서 아날로그 직접회로 설계 및 검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55250371&location=ts&searchType=search&paid_fl=n&search_uuid=6f879b3f-96b9-4720-82e8-77507d906e10",
+      "deadline": "~ 10/26(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55249785",
+      "company_raw": "에이치알포유(주)",
+      "company_clean": "에이치알포유",
+      "title": "[코스피 상장 IT서비스 중견기업] 증권사 IT 품질관리(3~12년)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55249785&location=ts&searchType=search&paid_fl=n&search_uuid=6f879b3f-96b9-4720-82e8-77507d906e10",
+      "deadline": "~ 10/16(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50140117",
+      "company_raw": "이비웨어㈜",
+      "company_clean": "이비웨어㈜",
+      "title": "[이비웨어(주)] 토스뱅크 QA 인력 구인(초/중급)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50140117?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/16(금)"
+    }
+  ]
 }
