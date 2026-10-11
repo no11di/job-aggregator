@@ -1,13 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "jobkorea",
-      "post_id": "119673908",
-      "company_raw": "㈜지텍에스",
-      "company_clean": "㈜지텍에스",
-      "title": "소프트웨어 테스트 엔지니어 사원모집",
-      "link": "https://www.albamon.com/jobs/detail/119673908?sc=612",
-      "deadline": "~10/14(수)"
-    }
-  ]
+  "jobs": []
 }
