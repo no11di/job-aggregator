@@ -1,3 +1,22 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55260214",
+      "company_raw": "(주)올가홀푸드",
+      "company_clean": "올가홀푸드",
+      "title": "[풀무원ORGA] IT 시스템 운영 관리",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55260214&location=ts&searchType=search&paid_fl=n&search_uuid=6648a61e-0714-4329-96ff-ef2c411820be",
+      "deadline": "~ 10/19(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55254387",
+      "company_raw": "(주)이투마스",
+      "company_clean": "이투마스",
+      "title": "[이투마스] 2026년 분야별 하반기 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55254387&location=ts&searchType=search&paid_fl=n&search_uuid=6648a61e-0714-4329-96ff-ef2c411820be",
+      "deadline": "~ 11/11(수)"
+    }
+  ]
 }
