@@ -1,3 +1,202 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55286516",
+      "company_raw": "(주)이노에이엑스",
+      "company_clean": "이노에이엑스",
+      "title": "솔루션 연계 개발 PL(팀장급) 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55286516&location=ts&searchType=search&paid_fl=n&search_uuid=c780dc3e-6496-43db-997b-5c65400be501",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55290541",
+      "company_raw": "㈜피앤피시큐어",
+      "company_clean": "㈜피앤피시큐어",
+      "title": "[피앤피시큐어 및 관계사]정보보안 솔루션 제품인증 담당자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55290541&location=ts&searchType=search&paid_fl=n&search_uuid=c780dc3e-6496-43db-997b-5c65400be501",
+      "deadline": "~ 11/08(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55290531",
+      "company_raw": "㈜피앤피시큐어",
+      "company_clean": "㈜피앤피시큐어",
+      "title": "[피앤피시큐어 및 관계사] 취약점분석/QA 엔지니어 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55290531&location=ts&searchType=search&paid_fl=n&search_uuid=c780dc3e-6496-43db-997b-5c65400be501",
+      "deadline": "~ 11/08(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55284036",
+      "company_raw": "(주)델타엑스",
+      "company_clean": "델타엑스",
+      "title": "[사업본부] PM/영업/품질 AI 분야 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55284036&location=ts&searchType=search&paid_fl=n&search_uuid=c780dc3e-6496-43db-997b-5c65400be501",
+      "deadline": "~ 10/27(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55289427",
+      "company_raw": "주) 석세스코리아컨설팅",
+      "company_clean": "주 석세스코리아컨설팅",
+      "title": "의료기기 SW QA 엔지니어 (3-6년)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55289427&location=ts&searchType=search&paid_fl=n&search_uuid=c780dc3e-6496-43db-997b-5c65400be501",
+      "deadline": "~ 10/23(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55287022",
+      "company_raw": "(주)홈앤바스",
+      "company_clean": "홈앤바스",
+      "title": "(주)홈앤바스 비데공장 품질관리(QC,QA) 담당직원 모집합니다",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55287022&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "~ 10/20(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55285210",
+      "company_raw": "(주)제이앤피메디",
+      "company_clean": "제이앤피메디",
+      "title": "[JNPMEDI] QA Associate (정규직 전환형 인턴)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55285210&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "~ 11/13(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55293384",
+      "company_raw": "구루멘토링(주)",
+      "company_clean": "구루멘토링",
+      "title": "지능형 영상감시시스템 구축 기술인력 모집(AI 기술 경험 우대)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55293384&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "~ 11/13(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55291204",
+      "company_raw": "잡원티드[JOBWANTED]",
+      "company_clean": "잡원티드JOBWANTED",
+      "title": "한국어 게임 현지화 품질검수(LQA) 담당자 모집[재택근무]",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55291204&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "~ 10/29(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55290427",
+      "company_raw": "(주)티피씨",
+      "company_clean": "티피씨",
+      "title": "[티피씨/LIKEY] QA 매니저 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55290427&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "~ 12/13(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "54805859",
+      "company_raw": "주식회사 스파크플러스",
+      "company_clean": "스파크플러스",
+      "title": "2026년 스파크플러스 전 직군 상시채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=54805859&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55286846",
+      "company_raw": "(주)배럴아이",
+      "company_clean": "배럴아이",
+      "title": "(주)배럴아이 의료기기 QA 경력채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55286846&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "~ 12/13(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55284018",
+      "company_raw": "(주)델타엑스",
+      "company_clean": "델타엑스",
+      "title": "[사업본부] PM/영업/인증/품질/생산기술 ESS분야 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55284018&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "~ 10/27(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55282794",
+      "company_raw": "(주)휴먼코아",
+      "company_clean": "휴먼코아",
+      "title": "[재택근무 l 유망 스타트업] QA 매니저 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55282794&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "~ 10/29(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55282782",
+      "company_raw": "(주)휴먼코아",
+      "company_clean": "휴먼코아",
+      "title": "[재택근무 l 유망 스타트업] 제품 운영 지원 매니저 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55282782&location=ts&searchType=search&paid_fl=n&search_uuid=418ee830-819b-4940-90fb-1cd0bc8ab059",
+      "deadline": "~ 10/29(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55285574",
+      "company_raw": "(주)이미인",
+      "company_clean": "이미인",
+      "title": "시스템 운영 / AX개발 운영 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55285574&location=ts&searchType=search&paid_fl=n&search_uuid=15344668-efd2-4b59-aa10-35fca825cdfd",
+      "deadline": "~ 11/12(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55277304",
+      "company_raw": "(주)제노레이",
+      "company_clean": "제노레이",
+      "title": "[제노레이] FLEXLAB QA팀 정규직 모집 (경력)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55277304&location=ts&searchType=search&paid_fl=n&search_uuid=15344668-efd2-4b59-aa10-35fca825cdfd",
+      "deadline": "~ 12/12(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55282541",
+      "company_raw": "원텍 (주)",
+      "company_clean": "원텍",
+      "title": "[코스닥상장사] 원텍(주)  Firmware 엔지니어 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55282541&location=ts&searchType=search&paid_fl=n&search_uuid=15344668-efd2-4b59-aa10-35fca825cdfd",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55291345",
+      "company_raw": "(주)스트롱홀드로보틱스",
+      "company_clean": "스트롱홀드로보틱스",
+      "title": "(주)스트롱홀테크놀로지 품질경영팀(QA파트) 채용공고",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55291345&location=ts&searchType=search&paid_fl=n&search_uuid=9c845e95-9bd2-4724-954a-423bb3fca70a",
+      "deadline": "~ 11/13(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55291632",
+      "company_raw": "주식회사 이지바로",
+      "company_clean": "이지바로",
+      "title": "서비스 운영 · QA · 품질관리 경력자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55291632&location=ts&searchType=search&paid_fl=n&search_uuid=9c845e95-9bd2-4724-954a-423bb3fca70a",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50171418",
+      "company_raw": "㈜스트롱홀드테크놀로지",
+      "company_clean": "㈜스트롱홀드테크놀로지",
+      "title": "(주)스트롱홀드테크놀로지 품질경영팀(QA파트) 채용공고",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50171418?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/13(금)"
+    },
+    {
+      "platform": "remember",
+      "post_id": "347273",
+      "company_raw": "(주)뉴빌리티",
+      "company_clean": "뉴빌리티",
+      "title": "[Robot] QC Engineer - Manufacturing Quality",
+      "link": "https://career.rememberapp.co.kr/job/posting/347273",
+      "deadline": "2026-11-14"
+    }
+  ]
 }
