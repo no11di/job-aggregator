@@ -1,3 +1,166 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "jobkorea",
+      "post_id": "50173044",
+      "company_raw": "㈜플래티어",
+      "company_clean": "㈜플래티어",
+      "title": "[AI CX사업부문] QA 엔지니어",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50173044?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50178617",
+      "company_raw": "㈜이엔에스코리아",
+      "company_clean": "㈜이엔에스코리아",
+      "title": "[뷰티그룹]㈜이엔에스코리아 연구소 샘플 담당 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50178617?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50174830",
+      "company_raw": "㈜아이피시",
+      "company_clean": "㈜아이피시",
+      "title": "[서울/큐로드] 게임 QA 경력자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50174830?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50174702",
+      "company_raw": "㈜아이피시",
+      "company_clean": "㈜아이피시",
+      "title": "[서울/구의역/큐로드] 게임 QA 경력자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50174702?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50173320",
+      "company_raw": "㈜코리아인",
+      "company_clean": "㈜코리아인",
+      "title": "[NICE평가정보/여의도] (UI/UX)웹서비스 기획 및 운영지원 담당자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50173320?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/06(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50175851",
+      "company_raw": "㈜이엔에스코리아",
+      "company_clean": "㈜이엔에스코리아",
+      "title": "[뷰티그룹]㈜이엔에스코리아 연구소 품질 담당 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50175851?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50173759",
+      "company_raw": "㈜마크애니",
+      "company_clean": "㈜마크애니",
+      "title": "[경력] QA 엔지니어 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50173759?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50179235",
+      "company_raw": "㈜무하유",
+      "company_clean": "㈜무하유",
+      "title": "QC 담당자 (2년이상/계약직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50179235?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50178885",
+      "company_raw": "㈜펀진",
+      "company_clean": "㈜펀진",
+      "title": "제품 QA/QC 및 인증 담당",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50178885?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/14(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50176964",
+      "company_raw": "㈜인피닉",
+      "company_clean": "㈜인피닉",
+      "title": "[오산] SW 테스트 엔지니어 (QA) 신입 및 경력 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50176964?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50173807",
+      "company_raw": "㈜컴스페이스컨설팅",
+      "company_clean": "㈜컴스페이스컨설팅",
+      "title": "금융/공공 SI사업 QA",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50173807?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50172414",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "씨엔케어(주) 화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172414?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50178190",
+      "company_raw": "㈜트라이얼인포매틱스",
+      "company_clean": "㈜트라이얼인포매틱스",
+      "title": "임상시험IT솔루션 - SQA Manager",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50178190?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50177940",
+      "company_raw": "㈜케이씨엠에스",
+      "company_clean": "㈜케이씨엠에스",
+      "title": "분당 사법부 데이터센터 전산장비 유지보수 (t06)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50177940?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/18(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50176500",
+      "company_raw": "㈜시냅스코어",
+      "company_clean": "㈜시냅스코어",
+      "title": "인덕원.OO은행.고급.품질관리.즉시-27년10월",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50176500?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "285935",
+      "company_raw": "㈜그린맨파워",
+      "company_clean": "㈜그린맨파워",
+      "title": "[상암] 유명중견 게임사 모바일 MMORPG 게임 QA",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=285935&sc=612",
+      "deadline": "~10/20(화)"
+    },
+    {
+      "platform": "remember",
+      "post_id": "347531",
+      "company_raw": "(주)포티투닷",
+      "company_clean": "포티투닷",
+      "title": "Quality Assurance Engineer (Power Management)",
+      "link": "https://career.rememberapp.co.kr/job/posting/347531",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "remember",
+      "post_id": "347539",
+      "company_raw": "(주)포티투닷",
+      "company_clean": "포티투닷",
+      "title": "Quality Assurance Engineer (SW Update)",
+      "link": "https://career.rememberapp.co.kr/job/posting/347539",
+      "deadline": "상시채용"
+    }
+  ]
 }
