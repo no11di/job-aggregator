@@ -1,31 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55178531",
-      "company_raw": "프라이빗에이아이(주)",
-      "company_clean": "프라이빗에이아이",
-      "title": "제품 인증 담당자",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55178531&location=ts&searchType=search&paid_fl=n&search_uuid=33e220d3-db0d-4bd2-b4f1-29a6f53729e1",
-      "deadline": "~ 11/16(월)"
-    },
-    {
-      "platform": "jobkorea",
-      "post_id": "50182357",
-      "company_raw": "에이스휴먼파워㈜",
-      "company_clean": "에이스휴먼파워㈜",
-      "title": "[풀재택/월275만/화상면접] 쿠팡 AI 콘텐츠 품질 평가자 채용",
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50182357?rPageCode=SL&logpath=21&sn=6&sc=611",
-      "deadline": "상시채용"
-    },
-    {
-      "platform": "jobkorea",
-      "post_id": "50189767",
-      "company_raw": "㈜해오름인포텍",
-      "company_clean": "㈜해오름인포텍",
-      "title": "사업관리(PMO-등급무관-나이제한없음1명)",
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50189767?rPageCode=SL&logpath=21&sn=6&sc=611",
-      "deadline": "~11/16(월)"
-    }
-  ]
+  "jobs": []
 }
