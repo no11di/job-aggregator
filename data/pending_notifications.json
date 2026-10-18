@@ -1,3 +1,67 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55298356",
+      "company_raw": "(주)아머스포츠코리아",
+      "company_clean": "아머스포츠코리아",
+      "title": "아머스포츠코리아 각 부문별 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55298356&location=ts&searchType=search&paid_fl=n&search_uuid=1414e462-427a-4a4b-bf93-8c60d75e05a0",
+      "deadline": "~ 11/17(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55291347",
+      "company_raw": "(주)메이머스트",
+      "company_clean": "메이머스트",
+      "title": "(주)메이머스트 AI-Native Product Engineer 채용 공고",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55291347&location=ts&searchType=search&paid_fl=n&search_uuid=3bb1dce7-aba9-43d2-9fc6-5a23e3c0ecee",
+      "deadline": "~ 11/13(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50183080",
+      "company_raw": "일성아이에스㈜",
+      "company_clean": "일성아이에스㈜",
+      "title": "2026 하반기 일성아이에스 신입ㆍ경력 수시채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50183080?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/01(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50190938",
+      "company_raw": "㈜신흥정밀",
+      "company_clean": "㈜신흥정밀",
+      "title": "신흥정밀 SA사업부 QA 인재채용 (경력)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50190938?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/06(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "286009",
+      "company_raw": "잡앤피플코리아",
+      "company_clean": "잡앤피플코리아",
+      "title": "[구로/3600] 유명게임 대기업 보안 솔루션 QA 및 보안 검수 담당",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=286009&sc=612",
+      "deadline": "~11/11(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "286010",
+      "company_raw": "잡앤피플코리아",
+      "company_clean": "잡앤피플코리아",
+      "title": "보안 모니터링 담당자 채용 [코스닥 상장 게임사 / 연 3800만원]",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=286010&sc=612",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "remember",
+      "post_id": "347941",
+      "company_raw": "(주)서북",
+      "company_clean": "서북",
+      "title": "[서북/포토이즘] QA 담당자",
+      "link": "https://career.rememberapp.co.kr/job/posting/347941",
+      "deadline": "상시채용"
+    }
+  ]
 }
