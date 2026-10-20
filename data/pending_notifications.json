@@ -1,3 +1,85 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55349077",
+      "company_raw": "(주)피트릭스",
+      "company_clean": "피트릭스",
+      "title": "AI 헬스케어 플랫폼 기업 · 고객/기술지원 담당자",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55349077&location=ts&searchType=search&paid_fl=n&search_uuid=b737ed65-309b-4bfd-9db7-0fc60b80af30",
+      "deadline": "~ 11/19(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50210557",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈]  AI 활용 QA 전문인력 경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50210557?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/09(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50210564",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 금융/이커머스 SW테스트엔지니어 경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50210564?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/09(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50210566",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈]  테스트 프로세스·품질지표 수립 및 프로젝트 리더 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50210566?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/09(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50209564",
+      "company_raw": "NC",
+      "company_clean": "NC",
+      "title": "[NC]하이브리드 모바일 캐주얼 사업 담당자 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209564?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/06(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50203493",
+      "company_raw": "애커튼테크놀로지서비스",
+      "company_clean": "애커튼테크놀로지서비스",
+      "title": "[ATS] ICT/Cloud/Infra 부문 26년 경력사원 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50203493?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50210027",
+      "company_raw": "㈜디지토피아",
+      "company_clean": "㈜디지토피아",
+      "title": "[여의도] ㅇㅇ증권 사업관리 PMO 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50210027?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/26(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "286181",
+      "company_raw": "스마일게이트",
+      "company_clean": "스마일게이트",
+      "title": "[차세대 게임] 시니어 개발 QA 담당자 모집 (FPS/TPS)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=286181&sc=612",
+      "deadline": "~10/31(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "286176",
+      "company_raw": "㈜리턴픽셀",
+      "company_clean": "㈜리턴픽셀",
+      "title": "게임 기획/QA 인턴 모집",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=286176&sc=612",
+      "deadline": "상시채용"
+    }
+  ]
 }
