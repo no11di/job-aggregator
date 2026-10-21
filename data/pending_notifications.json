@@ -1,3 +1,13 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55357729",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "HW 보안 솔루션 전문사에서 SoC 반도체 칩 개발 팀장 및 팀원",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55357729&location=ts&searchType=search&paid_fl=n&search_uuid=3e22dfd1-6f80-4344-bcfe-18f9eb0ffc62",
+      "deadline": "~ 11/04(수)"
+    }
+  ]
 }
