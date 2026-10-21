@@ -1,3 +1,328 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55356914",
+      "company_raw": "(주)글로벌머니익스프레스",
+      "company_clean": "글로벌머니익스프레스",
+      "title": "[Card] 서버개발자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356914&location=ts&searchType=search&paid_fl=n&search_uuid=b492bd8b-c9d1-42e6-a947-c8d73e12602f",
+      "deadline": "~ 11/20(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55356313",
+      "company_raw": "레전더리홀딩스(주)",
+      "company_clean": "레전더리홀딩스",
+      "title": "[윈골드] 서비스 기획자 (계약직)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356313&location=ts&searchType=search&paid_fl=n&search_uuid=b492bd8b-c9d1-42e6-a947-c8d73e12602f",
+      "deadline": "~ 11/08(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55352251",
+      "company_raw": "(주)포인트모바일",
+      "company_clean": "포인트모바일",
+      "title": "DQA팀 HW / 기구 신뢰성 테스트 engineer 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55352251&location=ts&searchType=search&paid_fl=n&search_uuid=b492bd8b-c9d1-42e6-a947-c8d73e12602f",
+      "deadline": "~ 11/20(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55350254",
+      "company_raw": "(주)리드워크",
+      "company_clean": "리드워크",
+      "title": "모바일 서비스 (AOS, IOS) 자동화 테스트 엔지니어 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55350254&location=ts&searchType=search&paid_fl=n&search_uuid=b492bd8b-c9d1-42e6-a947-c8d73e12602f",
+      "deadline": "~ 11/20(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55356671",
+      "company_raw": "위키에이드",
+      "company_clean": "위키에이드",
+      "title": "[판교/코스닥] 통신장비 시스템 검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356671&location=ts&searchType=search&paid_fl=n&search_uuid=b492bd8b-c9d1-42e6-a947-c8d73e12602f",
+      "deadline": "~ 11/05(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55356096",
+      "company_raw": "주식회사 스파크플러스",
+      "company_clean": "스파크플러스",
+      "title": "2026년 스파크플러스 전 직군 상시채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356096&location=ts&searchType=search&paid_fl=n&search_uuid=00f8b2c4-1cb1-4f1b-a2bc-cf82bfc56685",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55353187",
+      "company_raw": "휴머레인컨설팅",
+      "company_clean": "휴머레인컨설팅",
+      "title": "[뷰티 커머스] 품질팀장(QC, QA, RA)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55353187&location=ts&searchType=search&paid_fl=n&search_uuid=00f8b2c4-1cb1-4f1b-a2bc-cf82bfc56685",
+      "deadline": "~ 11/05(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55350654",
+      "company_raw": "(주)인피닉",
+      "company_clean": "인피닉",
+      "title": "[마곡] SW 테스트 엔지니어(QA) 신입사원 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55350654&location=ts&searchType=search&paid_fl=n&search_uuid=00f8b2c4-1cb1-4f1b-a2bc-cf82bfc56685",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55350100",
+      "company_raw": "(주)비버웍스",
+      "company_clean": "비버웍스",
+      "title": "O2O앱 운영 및 QA담당자",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55350100&location=ts&searchType=search&paid_fl=n&search_uuid=00f8b2c4-1cb1-4f1b-a2bc-cf82bfc56685",
+      "deadline": "~ 11/20(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55356937",
+      "company_raw": "(주)인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력16~20년/평택연구소)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356937&location=ts&searchType=search&paid_fl=n&search_uuid=a62ad563-76b6-48c6-b89a-ee0675592966",
+      "deadline": "~ 11/19(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55356924",
+      "company_raw": "(주)인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력11~15년/평택연구소)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356924&location=ts&searchType=search&paid_fl=n&search_uuid=a62ad563-76b6-48c6-b89a-ee0675592966",
+      "deadline": "~ 11/19(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55356910",
+      "company_raw": "(주)인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력6~10년/평택연구소)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356910&location=ts&searchType=search&paid_fl=n&search_uuid=a62ad563-76b6-48c6-b89a-ee0675592966",
+      "deadline": "~ 11/19(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55356902",
+      "company_raw": "(주)인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력1~5년/평택연구소)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356902&location=ts&searchType=search&paid_fl=n&search_uuid=a62ad563-76b6-48c6-b89a-ee0675592966",
+      "deadline": "~ 11/19(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55355651",
+      "company_raw": "(주)제이앤피메디",
+      "company_clean": "제이앤피메디",
+      "title": "[JNPMEDI] CSV Specialist 모집 (인천/송도)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55355651&location=ts&searchType=search&paid_fl=n&search_uuid=25fd0a10-4928-45c7-9feb-f87d645fc8f3",
+      "deadline": "~ 11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50211126",
+      "company_raw": "㈜아모텍",
+      "company_clean": "㈜아모텍",
+      "title": "㈜아모텍 품질관리 부문 신입 및 경력 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50211126?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50214536",
+      "company_raw": "㈜로보티즈",
+      "company_clean": "㈜로보티즈",
+      "title": "[로보티즈] 품질경영팀 QA파트 담당자 모집(경력)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214536?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/20(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50213712",
+      "company_raw": "㈜비버웍스",
+      "company_clean": "㈜비버웍스",
+      "title": "O2O 앱 운영 및 QA 담당자",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50213712?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50214673",
+      "company_raw": "㈜커리어웍스",
+      "company_clean": "㈜커리어웍스",
+      "title": "RPA 개발/운영(경력) 채용(Uipath)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214673?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50216581",
+      "company_raw": "㈜키스템프",
+      "company_clean": "㈜키스템프",
+      "title": "[군자역/신입가능] 대기업계열사 웹 운영 담당자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50216581?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~10/26(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50214454",
+      "company_raw": "㈜제이앤피메디",
+      "company_clean": "㈜제이앤피메디",
+      "title": "[JNPMEDI] CSV Specialist 모집 (인천/송도)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214454?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50214430",
+      "company_raw": "㈜제이앤피메디",
+      "company_clean": "㈜제이앤피메디",
+      "title": "[JNPMEDI] QA Associate (정규직 전환형 인턴) 모집 (인천/송도)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50214430?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50212523",
+      "company_raw": "대보정보통신㈜",
+      "company_clean": "대보정보통신㈜",
+      "title": "대보정보통신 SI프로젝트 품질관리(QA) 경력직 채용(정규직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50212523?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/01(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50212619",
+      "company_raw": "㈜포인트모바일",
+      "company_clean": "㈜포인트모바일",
+      "title": "DQA팀 HW / 기구 신뢰성 테스트 engineer 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50212619?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50216653",
+      "company_raw": "Peroptyx",
+      "company_clean": "Peroptyx",
+      "title": "AI Analyst (무경력가능/재택근무)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50216653?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50215106",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "씨엔케어(주) 화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50215106?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50215076",
+      "company_raw": "㈜클라비",
+      "company_clean": "㈜클라비",
+      "title": "클라비 기술연구소 SQA 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50215076?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/20(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50211013",
+      "company_raw": "㈜리드워크",
+      "company_clean": "㈜리드워크",
+      "title": "[리드워크/정규직] 모바일 서비스 (AOS, IOS) 자동화 테스트 엔지니어 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50211013?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50210827",
+      "company_raw": "㈜유니씨앤씨",
+      "company_clean": "㈜유니씨앤씨",
+      "title": "[삼성전자 온라인 공식파트너사] 온라인 MD·AMD 경력 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50210827?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50210665",
+      "company_raw": "㈜비버웍스",
+      "company_clean": "㈜비버웍스",
+      "title": "O2O앱 운영 및 QA 담당자",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50210665?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/20(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50216515",
+      "company_raw": "㈜대원씨앤씨",
+      "company_clean": "㈜대원씨앤씨",
+      "title": "[분당]한국투자저축은행 프로젝트 테스트 업무",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50216515?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50216088",
+      "company_raw": "㈜필그림소프트",
+      "company_clean": "㈜필그림소프트",
+      "title": "마곡.QA.헬프데스크.초급1명.12월-장기",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50216088?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "286251",
+      "company_raw": "㈜스피엘게임즈",
+      "company_clean": "㈜스피엘게임즈",
+      "title": "방치형 모바일 RPG QA 모집",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=286251&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55356924",
+      "company_raw": "인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력11~15년/평택연구소)",
+      "link": "https://www.jumpit.co.kr/position/55356924",
+      "deadline": "2026-11-19"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55356937",
+      "company_raw": "인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력16~20년/평택연구소)",
+      "link": "https://www.jumpit.co.kr/position/55356937",
+      "deadline": "2026-11-19"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55356902",
+      "company_raw": "인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력1~5년/평택연구소)",
+      "link": "https://www.jumpit.co.kr/position/55356902",
+      "deadline": "2026-11-19"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55356910",
+      "company_raw": "인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력6~10년/평택연구소)",
+      "link": "https://www.jumpit.co.kr/position/55356910",
+      "deadline": "2026-11-19"
+    }
+  ]
 }
