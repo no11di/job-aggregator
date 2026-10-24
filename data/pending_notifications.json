@@ -1,3 +1,22 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55383756",
+      "company_raw": "주) 석세스코리아컨설팅",
+      "company_clean": "주 석세스코리아컨설팅",
+      "title": "의료기기 SW QA 엔지니어 (3-6년)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55383756&location=ts&searchType=search&paid_fl=n&search_uuid=8e3841f3-37a2-478b-8db9-e96e84cda44b",
+      "deadline": "~ 11/06(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55384297",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "[S/W QA] / 뇌과학 기반의 헬스케어 혁신기업",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55384297&location=ts&searchType=search&paid_fl=n&search_uuid=46bd15bc-5e29-400a-9d0b-6f606885ae4a",
+      "deadline": "~ 11/08(일)"
+    }
+  ]
 }
