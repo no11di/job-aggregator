@@ -1,3 +1,112 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55386065",
+      "company_raw": "(주)에듀메타케이",
+      "company_clean": "에듀메타케이",
+      "title": "여성향 AI 캐릭터챗 프롬프트 엔지니어 / 캐릭터 대화 설계자",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55386065&location=ts&searchType=search&paid_fl=n&search_uuid=be83a5e9-ec97-4919-9860-9dd7ce6985ad",
+      "deadline": "~ 11/24(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55385679",
+      "company_raw": "반석써치(주)",
+      "company_clean": "반석써치",
+      "title": "[상장 X-ray 의료기]  시스템검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55385679&location=ts&searchType=search&paid_fl=n&search_uuid=be83a5e9-ec97-4919-9860-9dd7ce6985ad",
+      "deadline": "~ 11/09(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50235749",
+      "company_raw": "㈜이종",
+      "company_clean": "㈜이종",
+      "title": "SW 검증 인재 모집(C/C++코드기반)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50235749?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/24(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119916368",
+      "company_raw": "주식회사 데일리워크",
+      "company_clean": "데일리워크",
+      "title": "[제2판교/IT 관련우대] 차량용 APP(어플리케이션) 검수 QA 테스터",
+      "link": "https://www.albamon.com/jobs/detail/119916368?sc=612",
+      "deadline": "~11/06(금)"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "394385",
+      "company_raw": "인텔렉추얼데이터",
+      "company_clean": "인텔렉추얼데이터",
+      "title": "eDiscovery Associate Project Manager (기술 지원)",
+      "link": "https://www.wanted.co.kr/wd/394385",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "393560",
+      "company_raw": "앤서스랩코리아",
+      "company_clean": "앤서스랩코리아",
+      "title": "[DX]Data Engineer(Data Quality)",
+      "link": "https://www.wanted.co.kr/wd/393560",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "394222",
+      "company_raw": "우리엔",
+      "company_clean": "우리엔",
+      "title": "[중견 계열사] QA 엔지니어(계약직 1년)",
+      "link": "https://www.wanted.co.kr/wd/394222",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "394133",
+      "company_raw": "마켓보로",
+      "company_clean": "마켓보로",
+      "title": "프로덕트 QA 매니저 (리더)",
+      "link": "https://www.wanted.co.kr/wd/394133",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "393694",
+      "company_raw": "플랭",
+      "company_clean": "플랭",
+      "title": "QA Tester 주니어(신입~3년)",
+      "link": "https://www.wanted.co.kr/wd/393694",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "393817",
+      "company_raw": "현대자동차그룹 (HYUNDAI)",
+      "company_clean": "현대자동차그룹 HYUNDAI",
+      "title": "SDV E&E 아키텍처 기반 통합제어기 Software 통합·배포·검증",
+      "link": "https://www.wanted.co.kr/wd/393817",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "393468",
+      "company_raw": "Electronic Arts Korea (EA Korea)",
+      "company_clean": "Electronic Arts Korea EA Korea",
+      "title": "소프트웨어 품질 개발자 (Software Quality Engineer)",
+      "link": "https://www.wanted.co.kr/wd/393468",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "wanted",
+      "post_id": "393328",
+      "company_raw": "직방",
+      "company_clean": "직방",
+      "title": "QA Engineer (계약직)",
+      "link": "https://www.wanted.co.kr/wd/393328",
+      "deadline": "상시채용"
+    }
+  ]
 }
