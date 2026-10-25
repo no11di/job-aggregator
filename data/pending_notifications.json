@@ -1,3 +1,22 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55378291",
+      "company_raw": "(주)로봇앤드디자인",
+      "company_clean": "로봇앤드디자인",
+      "title": "'26년 하반기 각 부문 정규직 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55378291&location=ts&searchType=search&paid_fl=n&search_uuid=b2c0f58c-b2e6-4003-a9bf-3af5ad6eb8d5",
+      "deadline": "~ 11/24(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50235750",
+      "company_raw": "㈜이종",
+      "company_clean": "㈜이종",
+      "title": "SW 검증 인재 모집(C/C++코드기반)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50235750?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/24(화)"
+    }
+  ]
 }
