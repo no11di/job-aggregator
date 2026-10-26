@@ -1,3 +1,274 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55372370",
+      "company_raw": "(주)위펀",
+      "company_clean": "위펀",
+      "title": "AI Native QA 엔지니어 (테스트자동화/품질관리)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55372370&location=ts&searchType=search&paid_fl=n&search_uuid=958423fe-64c1-49cd-aee1-a691ec95ddf0",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55392892",
+      "company_raw": "(주)아이이에이",
+      "company_clean": "아이이에이",
+      "title": "통합 물류시스템 QE",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55392892&location=ts&searchType=search&paid_fl=n&search_uuid=958423fe-64c1-49cd-aee1-a691ec95ddf0",
+      "deadline": "~ 11/25(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55391567",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "보안솔루션사의 반도체 및 SoC칩 관련 하드웨어 보안인증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55391567&location=ts&searchType=search&paid_fl=n&search_uuid=958423fe-64c1-49cd-aee1-a691ec95ddf0",
+      "deadline": "~ 11/10(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55396221",
+      "company_raw": "(주)밸류에이치알",
+      "company_clean": "밸류에이치알",
+      "title": "[강남/연봉협의/삼식제공/복지최상] 유명 중견기업 IT헬프데스크",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55396221&location=ts&searchType=search&paid_fl=n&search_uuid=c280407e-9bb8-46ef-8ed6-1ae30503277e",
+      "deadline": "~ 11/12(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55372288",
+      "company_raw": "(주)위펀",
+      "company_clean": "위펀",
+      "title": "백엔드 개발자 (경력 5년 이상)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55372288&location=ts&searchType=search&paid_fl=n&search_uuid=c280407e-9bb8-46ef-8ed6-1ae30503277e",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55372385",
+      "company_raw": "(주)위펀",
+      "company_clean": "위펀",
+      "title": "[CEO Staff] 풀스택 개발자 (JavaScript/TypeScript)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55372385&location=ts&searchType=search&paid_fl=n&search_uuid=c280407e-9bb8-46ef-8ed6-1ae30503277e",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55372304",
+      "company_raw": "(주)위펀",
+      "company_clean": "위펀",
+      "title": "프론트엔드 개발자 (React)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55372304&location=ts&searchType=search&paid_fl=n&search_uuid=c280407e-9bb8-46ef-8ed6-1ae30503277e",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55395991",
+      "company_raw": "(주)이너버스",
+      "company_clean": "이너버스",
+      "title": "IT 보안 솔루션 QA (신입 / 경력)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55395991&location=ts&searchType=search&paid_fl=n&search_uuid=c280407e-9bb8-46ef-8ed6-1ae30503277e",
+      "deadline": "~ 11/25(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55391575",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "HW 보안 솔루션 전문사에서 아날로그 직접회로 설계 및 검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55391575&location=ts&searchType=search&paid_fl=n&search_uuid=c280407e-9bb8-46ef-8ed6-1ae30503277e",
+      "deadline": "~ 11/10(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55387967",
+      "company_raw": "(주)맨파워그룹코리아",
+      "company_clean": "맨파워그룹코리아",
+      "title": "[종각역] 글로벌 생명보험사 IT 시스템 운영 담당자 (13M)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55387967&location=ts&searchType=search&paid_fl=n&search_uuid=c280407e-9bb8-46ef-8ed6-1ae30503277e",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55394719",
+      "company_raw": "에이에스엠케이(주)",
+      "company_clean": "에이에스엠케이",
+      "title": "ASM Software QA 1명 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55394719&location=ts&searchType=search&paid_fl=n&search_uuid=0dfb8d86-7b27-4290-9a71-aeebb887ab5c",
+      "deadline": "~ 11/25(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55396616",
+      "company_raw": "(주)디노",
+      "company_clean": "디노",
+      "title": "소프트웨어 QA 엔지니어 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55396616&location=ts&searchType=search&paid_fl=n&search_uuid=0dfb8d86-7b27-4290-9a71-aeebb887ab5c",
+      "deadline": "~ 12/25(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55390175",
+      "company_raw": "엔에이치엔클라우드(주)",
+      "company_clean": "엔에이치엔클라우드",
+      "title": "[NHN Enterprise] 클라우드 서비스 QA",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55390175&location=ts&searchType=search&paid_fl=n&search_uuid=0dfb8d86-7b27-4290-9a71-aeebb887ab5c",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50240837",
+      "company_raw": "일동제약",
+      "company_clean": "일동제약",
+      "title": "[일동제약그룹] 2026년 10월 수시채용 공고문",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50240837?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "내일마감"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50238772",
+      "company_raw": "엔에이치엔클라우드㈜",
+      "company_clean": "엔에이치엔클라우드㈜",
+      "title": "[NHN Enterprise] 클라우드 서비스 QA",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50238772?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50228401",
+      "company_raw": "로로에프엔비",
+      "company_clean": "로로에프엔비",
+      "title": "로로에프엔비㈜ 부문별 채용 / 경영지원팀, 인사팀, 글로벌팀, MD팀, R&D팀",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50228401?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/23(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50244961",
+      "company_raw": "㈜비바리퍼블리카",
+      "company_clean": "㈜비바리퍼블리카",
+      "title": "QA Specialist",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50244961?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/08(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50237434",
+      "company_raw": "엠씨넥스",
+      "company_clean": "엠씨넥스",
+      "title": "㈜엠씨넥스 시스템사업실(HW) 경력 직원 모집의 건",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50237434?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/01(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50243560",
+      "company_raw": "㈜와이즈스톤티",
+      "company_clean": "㈜와이즈스톤티",
+      "title": "[와이즈스톤티] 금융 SW Test Engineer 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50243560?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50243459",
+      "company_raw": "㈜미리디",
+      "company_clean": "㈜미리디",
+      "title": "[미리캔버스] QA 엔지니어",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50243459?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/24(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50242538",
+      "company_raw": "현대면세점",
+      "company_clean": "현대면세점",
+      "title": "2026년 현대면세점 육아휴직 대체 계약직 채용 (UX기획)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50242538?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/08(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50242249",
+      "company_raw": "㈜티니어",
+      "company_clean": "㈜티니어",
+      "title": "[글로벌 앱 플랫폼] QA (2년 이상)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50242249?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50239854",
+      "company_raw": "㈜테스트이앤씨",
+      "company_clean": "㈜테스트이앤씨",
+      "title": "소프트웨어 테스트 엔지니어 채용 (서울/경력,신입)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50239854?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/25(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50238095",
+      "company_raw": "(주)에이엔디컨버젼스",
+      "company_clean": "에이엔디컨버젼스",
+      "title": "독일 차량 Infotainment Software 검증 엔지니어 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50238095?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50236534",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "씨엔케어(주) 화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50236534?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/25(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119962237",
+      "company_raw": "FA Engineer / 회로도 판독",
+      "company_clean": "FA Engineer / 회로도 판독",
+      "title": "[직원모집] 스마트기기 리페어센터 / 회로도 판독 / 셔틀버스/ 중식제공",
+      "link": "https://www.albamon.com/jobs/detail/119962237?sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "119940207",
+      "company_raw": "LG유플러스",
+      "company_clean": "LG유플러스",
+      "title": "[월16일 근무] 서버/시스템 관제, 모니터링 정규직 채용",
+      "link": "https://www.albamon.com/jobs/detail/119940207?sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "remember",
+      "post_id": "349988",
+      "company_raw": "(주)두산 디지털이노베이션",
+      "company_clean": "두산 디지털이노베이션",
+      "title": "DevSecOps Engineer (Tech QA)",
+      "link": "https://career.rememberapp.co.kr/job/posting/349988",
+      "deadline": "2026-11-08"
+    },
+    {
+      "platform": "remember",
+      "post_id": "349862",
+      "company_raw": "엔에이치엔(주)",
+      "company_clean": "엔에이치엔",
+      "title": "[NHN Enterprise] 클라우드 서비스 QA",
+      "link": "https://career.rememberapp.co.kr/job/posting/349862",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "remember",
+      "post_id": "349968",
+      "company_raw": "(주)에이비일팔공",
+      "company_clean": "에이비일팔공",
+      "title": "QA Engineer (병역특례 가능)",
+      "link": "https://career.rememberapp.co.kr/job/posting/349968",
+      "deadline": "상시채용"
+    }
+  ]
 }
