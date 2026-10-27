@@ -1,13 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55396799",
-      "company_raw": "두루에너아이(주)",
-      "company_clean": "두루에너아이",
-      "title": "[원전 I&C]SW V&V 엔지니어(정적/동적 시험 경력 채용)",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55396799&location=ts&searchType=search&paid_fl=n&search_uuid=07cbc73f-13e0-4259-9b8a-ab0f12225bde",
-      "deadline": "~ 12/25(금)"
-    }
-  ]
+  "jobs": []
 }
