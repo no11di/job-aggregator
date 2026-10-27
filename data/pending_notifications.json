@@ -1,3 +1,139 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55402222",
+      "company_raw": "한국요꼬가와일렉트로닉스매뉴팩처링(주)",
+      "company_clean": "한국요꼬가와일렉트로닉스매뉴팩처링",
+      "title": "하반기 수시채용 (생산부문/IT)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55402222&location=ts&searchType=search&paid_fl=n&search_uuid=d83b4598-72c2-41ac-9117-e898f364f686",
+      "deadline": "~ 11/11(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55405005",
+      "company_raw": "(주)서브",
+      "company_clean": "서브",
+      "title": "2026년 하반기 (주)서브 경력사원 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55405005&location=ts&searchType=search&paid_fl=n&search_uuid=d83b4598-72c2-41ac-9117-e898f364f686",
+      "deadline": "~ 12/26(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55402977",
+      "company_raw": "(주)올가홀푸드",
+      "company_clean": "올가홀푸드",
+      "title": "[풀무원ORGA] IT 시스템 운영 관리/CS파트 관리자",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55402977&location=ts&searchType=search&paid_fl=n&search_uuid=d83b4598-72c2-41ac-9117-e898f364f686",
+      "deadline": "~ 11/08(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55403673",
+      "company_raw": "넷마블(주)",
+      "company_clean": "넷마블",
+      "title": "AI 연구 및 서비스 개발",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55403673&location=ts&searchType=search&paid_fl=n&search_uuid=d83b4598-72c2-41ac-9117-e898f364f686",
+      "deadline": "~ 11/25(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55407926",
+      "company_raw": "HR컨설팅(주)",
+      "company_clean": "HR컨설팅",
+      "title": "대기업 계열IT사 DevSecOps Engineer 7년이상",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55407926&location=ts&searchType=search&paid_fl=n&search_uuid=d83b4598-72c2-41ac-9117-e898f364f686",
+      "deadline": "~ 11/11(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55407613",
+      "company_raw": "컴즈(주)",
+      "company_clean": "컴즈",
+      "title": "금융(퇴직연금) 시스템 개발자 모집합니다.",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55407613&location=ts&searchType=search&paid_fl=n&search_uuid=d83b4598-72c2-41ac-9117-e898f364f686",
+      "deadline": "~ 11/26(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55403574",
+      "company_raw": "(주)티벨",
+      "company_clean": "티벨",
+      "title": "[경력] 안드로이드 및 IOS 컨텐츠 QA 엔지니어 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55403574&location=ts&searchType=search&paid_fl=n&search_uuid=d83b4598-72c2-41ac-9117-e898f364f686",
+      "deadline": "~ 11/26(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55401239",
+      "company_raw": "엠알씨앤에스주식회사",
+      "company_clean": "엠알씨앤에스",
+      "title": "프로그램 유지운영 및 상품관리하실 분을 모집 합니다.",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55401239&location=ts&searchType=search&paid_fl=n&search_uuid=d83b4598-72c2-41ac-9117-e898f364f686",
+      "deadline": "~ 11/26(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55400587",
+      "company_raw": "(주)인피닉",
+      "company_clean": "인피닉",
+      "title": "[수원] SW 테스트 엔지니어 (QA) 신입 및 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55400587&location=ts&searchType=search&paid_fl=n&search_uuid=c6074832-0ff4-46ac-a048-840030e02441",
+      "deadline": "~ 10/31(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55406928",
+      "company_raw": "(주)바른인사컨설팅",
+      "company_clean": "바른인사컨설팅",
+      "title": "[네이버계열사] 언리얼 4·5 / Blender 경험자 신입/경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55406928&location=ts&searchType=search&paid_fl=n&search_uuid=c6074832-0ff4-46ac-a048-840030e02441",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55404131",
+      "company_raw": "(주)큐앤피플",
+      "company_clean": "큐앤피플",
+      "title": "(주)큐앤피플 차량 SDV 소프트웨어 QA 경력 채용 공고",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55404131&location=ts&searchType=search&paid_fl=n&search_uuid=c6074832-0ff4-46ac-a048-840030e02441",
+      "deadline": "~ 12/26(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55234333",
+      "company_raw": "(주)삼천리모터스",
+      "company_clean": "삼천리모터스",
+      "title": "[삼천리 그룹] (군포-본사) AS운영-Admin 인재 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55234333&location=ts&searchType=search&paid_fl=n&search_uuid=c6074832-0ff4-46ac-a048-840030e02441",
+      "deadline": "~ 11/30(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55402038",
+      "company_raw": "(주)인피닉",
+      "company_clean": "인피닉",
+      "title": "[가산/판교] SW 테스트 엔지니어 (QA) 팀장급 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55402038&location=ts&searchType=search&paid_fl=n&search_uuid=c6074832-0ff4-46ac-a048-840030e02441",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50253318",
+      "company_raw": "㈜소프트웨어품질연구소",
+      "company_clean": "㈜소프트웨어품질연구소",
+      "title": "[급구] 정보시스템 구축(SI) 품질관리(QA) 경력자 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50253318?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/07(토)"
+    },
+    {
+      "platform": "remember",
+      "post_id": "350427",
+      "company_raw": "(주)포티투닷",
+      "company_clean": "포티투닷",
+      "title": "System Test Engineer (System Verification)",
+      "link": "https://career.rememberapp.co.kr/job/posting/350427",
+      "deadline": "상시채용"
+    }
+  ]
 }
