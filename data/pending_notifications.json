@@ -1,13 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55434515",
-      "company_raw": "우리산업(주)",
-      "company_clean": "우리산업",
-      "title": "우리산업(주)  용인연구소 S/W 경력직 채용",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55434515&location=ts&searchType=search&paid_fl=n&search_uuid=c6444540-3a21-4570-9c53-270f87c285ad",
-      "deadline": "~ 11/29(일)"
-    }
-  ]
+  "jobs": []
 }
