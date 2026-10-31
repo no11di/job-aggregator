@@ -1,22 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55423779",
-      "company_raw": "(주)비상교육",
-      "company_clean": "비상교육",
-      "title": "비상교육 개발직무 인재 영입",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55423779&location=ts&searchType=search&paid_fl=n&search_uuid=ab48a17d-f4ae-4194-ba1f-36e9f2618f4c",
-      "deadline": "~ 11/08(일)"
-    },
-    {
-      "platform": "jobkorea",
-      "post_id": "50276802",
-      "company_raw": "㈜이에이치앤아이티",
-      "company_clean": "㈜이에이치앤아이티",
-      "title": "보험업무시스템 테스트전담직 모집",
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50276802?rPageCode=SL&logpath=21&sn=6&sc=611",
-      "deadline": "~12/29(화)"
-    }
-  ]
+  "jobs": []
 }
