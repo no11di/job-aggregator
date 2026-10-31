@@ -1,3 +1,67 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55437269",
+      "company_raw": "(주)위즈코리아",
+      "company_clean": "위즈코리아",
+      "title": "㈜위즈코리아 '26년 하반기 정기 채용 신입/경력 사원 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55437269&location=ts&searchType=search&paid_fl=n&search_uuid=99dda1e7-18f1-4cc4-b464-a30b92a03e1a",
+      "deadline": "~ 12/31(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55429339",
+      "company_raw": "엔큐리티(주)",
+      "company_clean": "엔큐리티",
+      "title": "[글로벌 보안/사세확장] 웹방화벽 엔지니어 신입/경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55429339&location=ts&searchType=search&paid_fl=n&search_uuid=eefb43b5-8478-4eec-a377-090fb5452c05",
+      "deadline": "~ 11/30(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55394374",
+      "company_raw": "쿠도커뮤니케이션(주)",
+      "company_clean": "쿠도커뮤니케이션",
+      "title": "2027 쿠도커뮤니케이션㈜ 신입/경력 공개채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55394374&location=ts&searchType=search&paid_fl=n&search_uuid=b9f1fad6-28a8-41ac-9458-0af5813bcbc5",
+      "deadline": "~ 11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50255009",
+      "company_raw": "㈜아이티아이즈",
+      "company_clean": "㈜아이티아이즈",
+      "title": "2026년 ITeyes 신입사원 11기 정기 공채",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50255009?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/14(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "120054491",
+      "company_raw": "㈜에스이에스",
+      "company_clean": "㈜에스이에스",
+      "title": "[성남/판교] 프린터 품질테스트 대규모 채용(총26명)-12월 1일 입사",
+      "link": "https://www.albamon.com/jobs/detail/120054491?sc=612",
+      "deadline": "~11/05(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "120032108",
+      "company_raw": "LG유플러스",
+      "company_clean": "LG유플러스",
+      "title": "데이터센터 관제(모니터링) 정규직 채용(월16일 근무)",
+      "link": "https://www.albamon.com/jobs/detail/120032108?sc=612",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "remember",
+      "post_id": "350479",
+      "company_raw": "(주)파두",
+      "company_clean": "파두",
+      "title": "[FADU] SSD Project Qual Manager",
+      "link": "https://career.rememberapp.co.kr/job/posting/350479",
+      "deadline": "2026-11-30"
+    }
+  ]
 }
