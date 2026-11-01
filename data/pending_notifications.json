@@ -1,3 +1,31 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55448317",
+      "company_raw": "굿커리어",
+      "company_clean": "굿커리어",
+      "title": "의료기기업 HW검증(QC) 대리급 구함(굿커리어)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55448317&location=ts&searchType=search&paid_fl=n&search_uuid=5ffc6578-d266-476a-9362-796e8f329c8d",
+      "deadline": "~ 11/16(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "120043000",
+      "company_raw": "주식회사 데일리워크",
+      "company_clean": "데일리워크",
+      "title": "[여의도/신규채용] 모바일 게임(안드로이드) 기기성능 QA",
+      "link": "https://www.albamon.com/jobs/detail/120043000?sc=612",
+      "deadline": "~11/13(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "286402",
+      "company_raw": "코스모스게이밍코리아",
+      "company_clean": "코스모스게이밍코리아",
+      "title": "웹게임 QA 테스터",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=286402&sc=612",
+      "deadline": "~11/30(월)"
+    }
+  ]
 }
