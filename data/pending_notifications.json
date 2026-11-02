@@ -1,3 +1,40 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55450687",
+      "company_raw": "(주)씨어스",
+      "company_clean": "씨어스",
+      "title": "Data Engineer 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55450687&location=ts&searchType=search&paid_fl=n&search_uuid=3054f0d1-83b1-4412-b114-df5f7b0ce602",
+      "deadline": "~ 12/02(수)"
+    },
+    {
+      "platform": "remember",
+      "post_id": "351650",
+      "company_raw": "(주)카카오스타일",
+      "company_clean": "카카오스타일",
+      "title": "QA Manager",
+      "link": "https://career.rememberapp.co.kr/job/posting/351650",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "remember",
+      "post_id": "351123",
+      "company_raw": "(주)트래블월렛",
+      "company_clean": "트래블월렛",
+      "title": "QA Engineer - 3년 이하",
+      "link": "https://career.rememberapp.co.kr/job/posting/351123",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "remember",
+      "post_id": "351655",
+      "company_raw": "(주)트래블월렛",
+      "company_clean": "트래블월렛",
+      "title": "QA Engineer - 4년 이상",
+      "link": "https://career.rememberapp.co.kr/job/posting/351655",
+      "deadline": "상시채용"
+    }
+  ]
 }
