@@ -1,3 +1,22 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "jobkorea",
+      "post_id": "50298281",
+      "company_raw": "에이에스이코리아㈜",
+      "company_clean": "에이에스이코리아㈜",
+      "title": "[ASE KOREA] 반도체/품질/자재 오퍼레이터, 반도체 정비사, 유해화학물질관리자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50298281?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/17(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "120097352",
+      "company_raw": "LG유플러스",
+      "company_clean": "LG유플러스",
+      "title": "[월16일 근무] 데이터센터 관제(모니터링) 정규직 채용",
+      "link": "https://www.albamon.com/jobs/detail/120097352?sc=612",
+      "deadline": "~11/24(화)"
+    }
+  ]
 }
