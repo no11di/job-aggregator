@@ -1,3 +1,13 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "jobkorea",
+      "post_id": "50305271",
+      "company_raw": "㈜아데코코리아",
+      "company_clean": "㈜아데코코리아",
+      "title": "[NVIDIA 자율주행 프로젝트] Test Engineer 대규모 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50305271?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/31(목)"
+    }
+  ]
 }
