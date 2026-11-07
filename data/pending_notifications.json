@@ -1,31 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55511948",
-      "company_raw": "에이치알포유(주)",
-      "company_clean": "에이치알포유",
-      "title": "[코스피 상장 IT서비스 중견기업] 증권사 IT 품질관리(3~12년)",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55511948&location=ts&searchType=search&paid_fl=n&search_uuid=1486f3dd-b96f-4fe4-9ebc-74da3bff179b",
-      "deadline": "~ 11/14(토)"
-    },
-    {
-      "platform": "jobkorea",
-      "post_id": "120179533",
-      "company_raw": "3A 미디어",
-      "company_clean": "3A 미디어",
-      "title": "부평청천동  화장품 OEM,ODM 영업 경력사원 모집",
-      "link": "https://www.albamon.com/jobs/detail/120179533?sc=612",
-      "deadline": "~11/20(금)"
-    },
-    {
-      "platform": "jobkorea",
-      "post_id": "120179488",
-      "company_raw": "3A 미디어",
-      "company_clean": "3A 미디어",
-      "title": "부평청천동  화장품 생산 오퍼레이터 사원 모집",
-      "link": "https://www.albamon.com/jobs/detail/120179488?sc=612",
-      "deadline": "~11/20(금)"
-    }
-  ]
+  "jobs": []
 }
