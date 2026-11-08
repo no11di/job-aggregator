@@ -1,3 +1,31 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55497238",
+      "company_raw": "(주)다우기술",
+      "company_clean": "다우기술",
+      "title": "증권 품질 관리",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55497238&location=ts&searchType=search&paid_fl=n&search_uuid=5250ec31-0a4c-4f2f-8c26-a261d04d1110",
+      "deadline": "~ 11/17(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55504409",
+      "company_raw": "한화세미텍(주)",
+      "company_clean": "한화세미텍",
+      "title": "2027년 상반기 채용전제형 인턴 및 경력 통합채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55504409&location=ts&searchType=search&paid_fl=n&search_uuid=f21a8e56-cc68-4a7a-8573-22fe2b4ef0a1",
+      "deadline": "~ 11/22(일)"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55497238",
+      "company_raw": "다우기술",
+      "company_clean": "다우기술",
+      "title": "증권 품질 관리",
+      "link": "https://www.jumpit.co.kr/position/55497238",
+      "deadline": "2026-11-17"
+    }
+  ]
 }
