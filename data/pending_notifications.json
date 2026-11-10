@@ -1,3 +1,238 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55540745",
+      "company_raw": "(주)한국기업보안",
+      "company_clean": "한국기업보안",
+      "title": "(주)한국기업보안 솔루션 및 웹서비스 QA 경력 채용 공고입니다",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55540745&location=ts&searchType=search&paid_fl=n&search_uuid=50f9ff88-dbf4-43ba-b21d-19337de2d7ad",
+      "deadline": "~ 01/10(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55531513",
+      "company_raw": "(주)플래티어",
+      "company_clean": "플래티어",
+      "title": "[AI CX사업부문] QA 엔지니어",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55531513&location=ts&searchType=search&paid_fl=n&search_uuid=50f9ff88-dbf4-43ba-b21d-19337de2d7ad",
+      "deadline": "~ 12/10(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50339286",
+      "company_raw": "삼성메디슨㈜",
+      "company_clean": "삼성메디슨㈜",
+      "title": "삼성메디슨 2026년 하반기 3급 신입사원 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50339286?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/19(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337707",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - 총무(총무)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337707?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337673",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - 인사(전략커뮤니케이션)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337673?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337655",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - 보안솔루션 인증(인증)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337655?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337636",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - 품질보증(QA)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337636?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337623",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - IT영업(민간/공공사업)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337623?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337607",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - AI평가/검증(AX개발)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337607?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337596",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - Linux기반 OS개발(기반기술)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337596?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337576",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - APT에이전트개발(에이전트개발)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337576?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337567",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - APT개발(제품개발)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337567?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337555",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - AI보안솔루션 개발(클라우드개발)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337555?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337537",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - 제품개발(ASM, Deep, RMS)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337537?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337526",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - 제품개발(BD1 AI Plus)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337526?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50337510",
+      "company_raw": "㈜윈스테크넷",
+      "company_clean": "㈜윈스테크넷",
+      "title": "2027년 상반기 인턴/현장실습생 모집 - 보안솔루션개발(SNIPER)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50337510?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/15(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50343883",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "씨엔케어(주) 화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50343883?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/11(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50343604",
+      "company_raw": "㈜한국기업보안",
+      "company_clean": "㈜한국기업보안",
+      "title": "솔루션 및 웹서비스 QA",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50343604?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~01/10(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50343486",
+      "company_raw": "㈜에이머시",
+      "company_clean": "㈜에이머시",
+      "title": "솔루션사업부 기술지원엔지니어 경력&신입 모집 공고",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50343486?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/11(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50339323",
+      "company_raw": "두루에너아이㈜",
+      "company_clean": "두루에너아이㈜",
+      "title": "원전 SW V&V(화이트박스 테스트) 엔지니어 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50339323?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/10(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50338424",
+      "company_raw": "㈜보콜",
+      "company_clean": "㈜보콜",
+      "title": "[(주)보콜] 품질QA 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50338424?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/10(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50338681",
+      "company_raw": "㈜보콜",
+      "company_clean": "㈜보콜",
+      "title": "[(주)보콜] 품질관리부 팀장 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50338681?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/10(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50296136",
+      "company_raw": "㈜제이알인더스트리",
+      "company_clean": "㈜제이알인더스트리",
+      "title": "IoT 안전솔루션 조달 인증 및 정부과제 담당자 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50296136?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/03(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "120233017",
+      "company_raw": "FA Engineer / 회로도 판독",
+      "company_clean": "FA Engineer / 회로도 판독",
+      "title": "[직원모집] 스마트기기 리페어센터 / 회로도 판독 / 셔틀버스/ 중식제공",
+      "link": "https://www.albamon.com/jobs/detail/120233017?sc=612",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "286812",
+      "company_raw": "㈜슈퍼캣",
+      "company_clean": "㈜슈퍼캣",
+      "title": "[슈퍼캣 / 도깨비의세계] FUN QA 모집 (신입/경력)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=286812&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55531513",
+      "company_raw": "플래티어",
+      "company_clean": "플래티어",
+      "title": "[AI CX사업부문] QA 엔지니어",
+      "link": "https://www.jumpit.co.kr/position/55531513",
+      "deadline": "2026-12-10"
+    }
+  ]
 }
