@@ -1,31 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55528791",
-      "company_raw": "(주)비즈비",
-      "company_clean": "비즈비",
-      "title": "bizbee ERP 회계인사 물류 구축  컨설턴트 모집 (신입, 경력)",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55528791&location=ts&searchType=search&paid_fl=n&search_uuid=baf1dbf1-4f1a-4c1f-89aa-fd2c96d83682",
-      "deadline": "~ 12/10(목)"
-    },
-    {
-      "platform": "jobkorea",
-      "post_id": "50335749",
-      "company_raw": "㈜네오디엑스",
-      "company_clean": "㈜네오디엑스",
-      "title": "(판교) 그룹사 S/W 및 OS 운영자 모집 (MS AD, S/W 자산관리 등..)",
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50335749?rPageCode=SL&logpath=21&sn=6&sc=611",
-      "deadline": "~12/31(목)"
-    },
-    {
-      "platform": "jobkorea",
-      "post_id": "50333755",
-      "company_raw": "㈜엘엑스세미콘",
-      "company_clean": "㈜엘엑스세미콘",
-      "title": "[LX세미콘] 2026년 11월 경력사원 채용 (서울/대전)",
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333755?rPageCode=SL&logpath=21&sn=6&sc=612",
-      "deadline": "~11/22(일)"
-    }
-  ]
+  "jobs": []
 }
