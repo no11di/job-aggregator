@@ -1,3 +1,13 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "jobkorea",
+      "post_id": "50349103",
+      "company_raw": "인트로맨㈜",
+      "company_clean": "인트로맨㈜",
+      "title": "[국회의사당역 / 신규게임 ] 큐로드 본사 게임 디바이스 성능 QA 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50349103?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/11(금)"
+    }
+  ]
 }
