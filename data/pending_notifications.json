@@ -1,3 +1,157 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55544101",
+      "company_raw": "어니컴(주)",
+      "company_clean": "어니컴",
+      "title": "[용인 흥덕] 자동화 테스트 엔지니어 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55544101&location=ts&searchType=search&paid_fl=n&search_uuid=e7ab72d6-51de-4858-8af4-629ab1c9675e",
+      "deadline": "~ 12/31(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55547974",
+      "company_raw": "(주)에이치알비즈코리아",
+      "company_clean": "에이치알비즈코리아",
+      "title": "개발QA 담당/ 모바일 RPG/세계적인 게임사/판교 근무",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55547974&location=ts&searchType=search&paid_fl=n&search_uuid=e7ab72d6-51de-4858-8af4-629ab1c9675e",
+      "deadline": "~ 11/26(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55547759",
+      "company_raw": "(주)델타엑스",
+      "company_clean": "델타엑스",
+      "title": "[사업본부] PM/영업/인증/품질/생산기술 ESS분야 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55547759&location=ts&searchType=search&paid_fl=n&search_uuid=92125192-a330-489a-afa4-1e319c25260c",
+      "deadline": "~ 11/17(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55541089",
+      "company_raw": "반석써치(주)",
+      "company_clean": "반석써치",
+      "title": "[상장 X-ray 의료기]  시스템검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55541089&location=ts&searchType=search&paid_fl=n&search_uuid=92125192-a330-489a-afa4-1e319c25260c",
+      "deadline": "~ 11/26(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55548044",
+      "company_raw": "(주)에이치알비즈코리아",
+      "company_clean": "에이치알비즈코리아",
+      "title": "FQA 담당/모바일 RPG/세계적인 게임사/판교",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55548044&location=ts&searchType=search&paid_fl=n&search_uuid=657be488-f132-46ff-b04c-ba4e04a58261",
+      "deadline": "~ 11/26(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55544613",
+      "company_raw": "(주)아이티센엔텍",
+      "company_clean": "아이티센엔텍",
+      "title": "아이티센엔텍 품질보증 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55544613&location=ts&searchType=search&paid_fl=n&search_uuid=657be488-f132-46ff-b04c-ba4e04a58261",
+      "deadline": "~ 12/31(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50276162",
+      "company_raw": "㈜미리디",
+      "company_clean": "㈜미리디",
+      "title": "[커머스 플랫폼] QA 엔지니어",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50276162?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/29(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50346533",
+      "company_raw": "어니컴㈜",
+      "company_clean": "어니컴㈜",
+      "title": "[용인 흥덕] 자동화 테스트 엔지니어 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50346533?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/31(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50344754",
+      "company_raw": "㈜커리어웍스",
+      "company_clean": "㈜커리어웍스",
+      "title": "RPA 개발/운영(경력) 채용 (Uipath)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50344754?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/11(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50349898",
+      "company_raw": "리드커리어㈜",
+      "company_clean": "리드커리어㈜",
+      "title": "[TTA/분당/대구] 11월 파견직 공채/시험지원, 회계지원 (신입가능/스펙업)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50349898?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/17(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50346911",
+      "company_raw": "㈜아이티센엔텍",
+      "company_clean": "㈜아이티센엔텍",
+      "title": "아이티센엔텍 품질보증 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50346911?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/31(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50344032",
+      "company_raw": "㈜소만사",
+      "company_clean": "㈜소만사",
+      "title": "정보보안 SW솔루션 제품 인증 전문가 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50344032?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50350420",
+      "company_raw": "㈜서인시스템",
+      "company_clean": "㈜서인시스템",
+      "title": "공공프로젝트 운영 사업관리 인력을 모집합니다.",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50350420?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/20(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50349798",
+      "company_raw": "㈜델타엑스",
+      "company_clean": "㈜델타엑스",
+      "title": "[사업본부] PM/영업/품질 AI 분야 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50349798?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/17(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50346815",
+      "company_raw": "㈜한컴즈",
+      "company_clean": "㈜한컴즈",
+      "title": "여의도/은행/오케스트라/품질관리/즉시/27.5월/고급",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50346815?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/11(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50347714",
+      "company_raw": "㈜아이이에이",
+      "company_clean": "㈜아이이에이",
+      "title": "ERP 프로젝트 솔루션 통합 PL/PMO 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50347714?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/11(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "120253016",
+      "company_raw": "(리페어센터)김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "company_clean": "리페어센터김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "title": "영종도/주5일/전자회로 이해 및 관련 수리 경험자/9to6/셔틀운행",
+      "link": "https://www.albamon.com/jobs/detail/120253016?sc=612",
+      "deadline": "~12/01(화)"
+    }
+  ]
 }
