@@ -1,13 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "jobkorea",
-      "post_id": "50355171",
-      "company_raw": "주식회사 피에이치코리아",
-      "company_clean": "피에이치코리아",
-      "title": "[피자헛] 본사 Digital&Tech 팀 팀원 채용 공고",
-      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50355171?rPageCode=SL&logpath=21&sn=6&sc=611",
-      "deadline": "~11/18(수)"
-    }
-  ]
+  "jobs": []
 }
