@@ -1,13 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55522834",
-      "company_raw": "(주)긴트",
-      "company_clean": "긴트",
-      "title": "[경력] 로보틱스 시스템 엔지니어",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55522834&location=ts&searchType=search&paid_fl=n&search_uuid=7f24d8bf-5376-4646-a889-fe5f6b23d44f",
-      "deadline": "~ 12/09(수)"
-    }
-  ]
+  "jobs": []
 }
