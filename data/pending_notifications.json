@@ -1,3 +1,40 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55573943",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "보안솔루션사의 반도체 및 SoC칩 관련 하드웨어 보안인증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55573943&location=ts&searchType=search&paid_fl=n&search_uuid=df494378-8a71-4bac-b510-426369ffd408",
+      "deadline": "~ 12/14(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55573886",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "HW 보안 솔루션 전문사에서 아날로그 직접회로 설계 및 검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55573886&location=ts&searchType=search&paid_fl=n&search_uuid=44b5078a-3abc-4232-96d5-4b5ff0436615",
+      "deadline": "~ 12/14(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55573956",
+      "company_raw": "(주)비비파트너스",
+      "company_clean": "비비파트너스",
+      "title": "[S/W 검증 팀장] / AI 기반의 헬스케어 바이오 혁신기업",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55573956&location=ts&searchType=search&paid_fl=n&search_uuid=2b6c8ee2-fbdb-4b70-bb4a-4d12295a544b",
+      "deadline": "~ 11/29(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50367171",
+      "company_raw": "㈜렌즈커뮤니케이션즈",
+      "company_clean": "㈜렌즈커뮤니케이션즈",
+      "title": "대표 비서 (업무지원·솔루션 테스트) 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50367171?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/19(목)"
+    }
+  ]
 }
