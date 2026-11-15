@@ -1,3 +1,58 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55563439",
+      "company_raw": "(주)우리엔",
+      "company_clean": "우리엔",
+      "title": "[중견 계열사] QA 엔지니어(계약직)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55563439&location=ts&searchType=search&paid_fl=n&search_uuid=1582ed5f-259d-4e19-89d5-54bd90a653df",
+      "deadline": "~ 12/15(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50368869",
+      "company_raw": "㈜피아이이",
+      "company_clean": "㈜피아이이",
+      "title": "㈜피아이이 각 부문별 경력사원 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50368869?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/16(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50368847",
+      "company_raw": "스콥정보통신㈜",
+      "company_clean": "스콥정보통신㈜",
+      "title": "스콥정보통신(주) QA 담당자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50368847?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/16(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50368831",
+      "company_raw": "㈜로보티즈",
+      "company_clean": "㈜로보티즈",
+      "title": "[로보티즈] 품질경영팀 인증파트 담당자 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50368831?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~01/15(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50368316",
+      "company_raw": "㈜큐그릿",
+      "company_clean": "㈜큐그릿",
+      "title": "이커머스 플랫폼 QA/테스트 인재 채용 (1-5년 경력 / 커머스 경력 우대)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50368316?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/15(화)"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55563439",
+      "company_raw": "우리엔",
+      "company_clean": "우리엔",
+      "title": "[중견 계열사] QA 엔지니어(계약직)",
+      "link": "https://www.jumpit.co.kr/position/55563439",
+      "deadline": "2026-12-15"
+    }
+  ]
 }
