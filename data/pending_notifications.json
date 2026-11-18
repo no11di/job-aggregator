@@ -1,3 +1,247 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55608082",
+      "company_raw": "(주)큐아이엠",
+      "company_clean": "큐아이엠",
+      "title": "차량용 AUDIO, AVN(NAVI)  S/W 평가 부문 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55608082&location=ts&searchType=search&paid_fl=n&search_uuid=066eb0c7-40c0-41bd-87ab-b13a191835e2",
+      "deadline": "~ 12/18(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55607014",
+      "company_raw": "주식회사 제이와이네트웍스",
+      "company_clean": "제이와이네트웍스",
+      "title": "[코스닥 상장 AI 영상보안 솔루션 전문기업]QA/QE담당 리더",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55607014&location=ts&searchType=search&paid_fl=n&search_uuid=afdea371-792f-415b-a54a-52900378e9f3",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55606952",
+      "company_raw": "(주)델타엑스",
+      "company_clean": "델타엑스",
+      "title": "[사업본부] PM/영업/인증/품질/생산기술 ESS분야 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55606952&location=ts&searchType=search&paid_fl=n&search_uuid=afdea371-792f-415b-a54a-52900378e9f3",
+      "deadline": "~ 12/01(화)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55599222",
+      "company_raw": "(주)다이얼로그디자인에이전시",
+      "company_clean": "다이얼로그디자인에이전시",
+      "title": "풀스택 소프트웨어 엔지니어 (AI Workflow 플랫폼 개발·운영)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55599222&location=ts&searchType=search&paid_fl=n&search_uuid=afdea371-792f-415b-a54a-52900378e9f3",
+      "deadline": "~ 12/26(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55606446",
+      "company_raw": "대보정보통신(주)",
+      "company_clean": "대보정보통신",
+      "title": "SI프로젝트 품질관리(QA) 경력직 채용(정규직)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55606446&location=ts&searchType=search&paid_fl=n&search_uuid=afdea371-792f-415b-a54a-52900378e9f3",
+      "deadline": "~ 12/06(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55605660",
+      "company_raw": "(주)프로보티브",
+      "company_clean": "프로보티브",
+      "title": "개발팀장 (Tech Lead, AI-first)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55605660&location=ts&searchType=search&paid_fl=n&search_uuid=afdea371-792f-415b-a54a-52900378e9f3",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50383069",
+      "company_raw": "동화일렉트로라이트",
+      "company_clean": "동화일렉트로라이트",
+      "title": "동화일렉트로라이트 사무직 & 기술직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50383069?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50392615",
+      "company_raw": "㈜아베크디자인",
+      "company_clean": "㈜아베크디자인",
+      "title": "AI 설계팀 채용공고",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50392615?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/18(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50391445",
+      "company_raw": "카카오뱅크",
+      "company_clean": "카카오뱅크",
+      "title": "계정계 QA 담당자 (계약직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50391445?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/07(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50390308",
+      "company_raw": "네이버제트㈜",
+      "company_clean": "네이버제트㈜",
+      "title": "[NAVER Z] 제페토 스튜디오 CX 운영 (계약직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50390308?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/03(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50388492",
+      "company_raw": "대보정보통신㈜",
+      "company_clean": "대보정보통신㈜",
+      "title": "대보정보통신 SI프로젝트 품질관리(QA) 경력직 채용(정규직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50388492?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/06(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50386948",
+      "company_raw": "인카금융서비스㈜",
+      "company_clean": "인카금융서비스㈜",
+      "title": "AI 에이전트 엔지니어",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50386948?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~01/16(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50392069",
+      "company_raw": "다이킨첨단머티리얼즈코리아㈜",
+      "company_clean": "다이킨첨단머티리얼즈코리아㈜",
+      "title": "[정규직] 하반기 각 부문별 채용 (QA, QC, 제조 현장 오퍼 레이터, 설비)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50392069?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50392496",
+      "company_raw": "㈜헥토큐앤엠",
+      "company_clean": "㈜헥토큐앤엠",
+      "title": "[헥토큐앤엠] 게임QA 담당자 채용 (계약직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50392496?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50391756",
+      "company_raw": "㈜예술과기술",
+      "company_clean": "㈜예술과기술",
+      "title": "공공기관 QA 중급1명",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50391756?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/18(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50389013",
+      "company_raw": "㈜델타엑스",
+      "company_clean": "㈜델타엑스",
+      "title": "[사업본부] PM/영업/품질 AI 분야 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50389013?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/01(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50388734",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "씨엔케어(주) 화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50388734?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/18(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50387426",
+      "company_raw": "해피패스",
+      "company_clean": "해피패스",
+      "title": "TestComplete 테스트 자동화 엔지니어 모집 (리드 / 엔지니어)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50387426?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/18(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50387106",
+      "company_raw": "모빌테크",
+      "company_clean": "모빌테크",
+      "title": "[모빌테크] 데이터 수집 및 Calibration 작업자 (계약직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50387106?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/18(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50392522",
+      "company_raw": "㈜헥토큐앤엠",
+      "company_clean": "㈜헥토큐앤엠",
+      "title": "[헥토큐앤엠] 게임QA 담당자 채용 (프리랜서)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50392522?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50386303",
+      "company_raw": "㈜케이씨엠에스",
+      "company_clean": "㈜케이씨엠에스",
+      "title": "증미역 LG전자 글로벌 사업/사무지원 (t06)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50386303?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "내일마감"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "120374677",
+      "company_raw": "(리페어센터)김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "company_clean": "리페어센터김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "title": "영종도/주5일/전자회로도 판독이해 및 관련 수리 경험자/9to6/셔틀운행",
+      "link": "https://www.albamon.com/jobs/detail/120374677?sc=612",
+      "deadline": "~12/08(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "120361273",
+      "company_raw": "㈜그린피플",
+      "company_clean": "㈜그린피플",
+      "title": "[대규모 채용/부발] 하이닉스 반도체 성능 검사 및 테스트 업무 사원",
+      "link": "https://www.albamon.com/jobs/detail/120361273?sc=612",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "287133",
+      "company_raw": "네오제이피엘",
+      "company_clean": "네오제이피엘",
+      "title": "[매치3 퍼즐게임] 11월 20일 일일 테스터(아르바이트) 모집",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=287133&sc=612",
+      "deadline": "모레마감"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "287111",
+      "company_raw": "㈜슈퍼캣",
+      "company_clean": "㈜슈퍼캣",
+      "title": "[슈퍼캣 / 도깨비의세계] QA 담당자 모집 (경력)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=287111&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "287103",
+      "company_raw": "히든몬스터",
+      "company_clean": "히든몬스터",
+      "title": "[경력 1-3년] 모바일 게임 운영 매니저 모집 (일본어/영어/중국어 필수 택1)",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=287103&sc=612",
+      "deadline": "~12/17(목)"
+    },
+    {
+      "platform": "remember",
+      "post_id": "355514",
+      "company_raw": "(주)케이씨텍",
+      "company_clean": "케이씨텍",
+      "title": "반도체 장비 Software QA 리더 (동탄)",
+      "link": "https://career.rememberapp.co.kr/job/posting/355514",
+      "deadline": "2026-12-17"
+    }
+  ]
 }
