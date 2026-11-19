@@ -1,3 +1,112 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55622724",
+      "company_raw": "(주)카카오뱅크",
+      "company_clean": "카카오뱅크",
+      "title": "계정계 QA 담당자 (계약직)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55622724&location=ts&searchType=search&paid_fl=n&search_uuid=ff4eb3fc-61d1-42a9-a577-60858b068cfe",
+      "deadline": "~ 12/07(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55558797",
+      "company_raw": "(주)인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력11~15년/평택연구소)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55558797&location=ts&searchType=search&paid_fl=n&search_uuid=ff4eb3fc-61d1-42a9-a577-60858b068cfe",
+      "deadline": "~ 12/19(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55558790",
+      "company_raw": "(주)인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력16~20년/평택연구소)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55558790&location=ts&searchType=search&paid_fl=n&search_uuid=ff4eb3fc-61d1-42a9-a577-60858b068cfe",
+      "deadline": "~ 12/19(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55558784",
+      "company_raw": "(주)인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력6~10년/평택연구소)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55558784&location=ts&searchType=search&paid_fl=n&search_uuid=ff4eb3fc-61d1-42a9-a577-60858b068cfe",
+      "deadline": "~ 12/19(토)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55558775",
+      "company_raw": "(주)인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력1~5년/평택연구소)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55558775&location=ts&searchType=search&paid_fl=n&search_uuid=ff4eb3fc-61d1-42a9-a577-60858b068cfe",
+      "deadline": "~ 12/19(토)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50399501",
+      "company_raw": "카카오뱅크",
+      "company_clean": "카카오뱅크",
+      "title": "여신관리 운영 업무 담당자 (계약직)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399501?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50388827",
+      "company_raw": "엔에이치엔서비스㈜ (NHN Service Corporation)",
+      "company_clean": "엔에이치엔서비스㈜ NHN Service Corporation",
+      "title": "[NHN Service][분당] 테스트 엔지니어(인턴) 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50388827?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/24(화)"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55558784",
+      "company_raw": "인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력6~10년/평택연구소)",
+      "link": "https://www.jumpit.co.kr/position/55558784",
+      "deadline": "2026-12-19"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55558775",
+      "company_raw": "인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력1~5년/평택연구소)",
+      "link": "https://www.jumpit.co.kr/position/55558775",
+      "deadline": "2026-12-19"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55558790",
+      "company_raw": "인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력16~20년/평택연구소)",
+      "link": "https://www.jumpit.co.kr/position/55558790",
+      "deadline": "2026-12-19"
+    },
+    {
+      "platform": "jumpit",
+      "post_id": "55558797",
+      "company_raw": "인텔리안테크놀로지스",
+      "company_clean": "인텔리안테크놀로지스",
+      "title": "안테나측청 (경력11~15년/평택연구소)",
+      "link": "https://www.jumpit.co.kr/position/55558797",
+      "deadline": "2026-12-19"
+    },
+    {
+      "platform": "remember",
+      "post_id": "355810",
+      "company_raw": "(주)워시스왓",
+      "company_clean": "워시스왓",
+      "title": "QA 매니저",
+      "link": "https://career.rememberapp.co.kr/job/posting/355810",
+      "deadline": "상시채용"
+    }
+  ]
 }
