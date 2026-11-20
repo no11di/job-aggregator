@@ -1,3 +1,22 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "jobkorea",
+      "post_id": "50402086",
+      "company_raw": "현대약품㈜",
+      "company_clean": "현대약품㈜",
+      "title": "현대약품㈜ 각 부문 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50402086?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~11/30(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50408369",
+      "company_raw": "㈜쿡섬",
+      "company_clean": "㈜쿡섬",
+      "title": "PMO 1명, QA 1명, 오케스트라 필수",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50408369?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/20(일)"
+    }
+  ]
 }
