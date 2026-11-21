@@ -1,3 +1,13 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "jobkorea",
+      "post_id": "120399649",
+      "company_raw": "엔펄스 주식회사",
+      "company_clean": "엔펄스",
+      "title": "[엔펄스] 용인연구소 연구평가 보조 계약직 채용",
+      "link": "https://www.albamon.com/jobs/detail/120399649?sc=612",
+      "deadline": "~11/25(수)"
+    }
+  ]
 }
