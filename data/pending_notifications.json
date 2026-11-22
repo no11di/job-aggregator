@@ -1,22 +1,3 @@
 {
-  "jobs": [
-    {
-      "platform": "saramin",
-      "post_id": "55639339",
-      "company_raw": "(주)에이치알비즈코리아",
-      "company_clean": "에이치알비즈코리아",
-      "title": "개발QA 담당/ 모바일 RPG/세계적인 게임사/판교 근무",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55639339&location=ts&searchType=search&paid_fl=n&search_uuid=9c2114fa-07e0-44ba-8389-a5c08a23c86a",
-      "deadline": "~ 12/07(월)"
-    },
-    {
-      "platform": "saramin",
-      "post_id": "55639351",
-      "company_raw": "(주)에이치알비즈코리아",
-      "company_clean": "에이치알비즈코리아",
-      "title": "FQA 담당/모바일 RPG/세계적인 게임사/판교",
-      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55639351&location=ts&searchType=search&paid_fl=n&search_uuid=024c7270-c940-4e71-ac5f-e42cef966948",
-      "deadline": "~ 12/07(월)"
-    }
-  ]
+  "jobs": []
 }
