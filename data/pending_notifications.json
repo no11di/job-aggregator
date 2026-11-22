@@ -1,3 +1,31 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "jobkorea",
+      "post_id": "50411137",
+      "company_raw": "㈜엑스큐어넷",
+      "company_clean": "㈜엑스큐어넷",
+      "title": "보안솔루션 품질검증(QA) 및 자동화 개발 경력 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50411137?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50409829",
+      "company_raw": "(주)케이씨엠에스(kcms)",
+      "company_clean": "케이씨엠에스kcms",
+      "title": "상암동 공공기관 KLID 운영 사업관리 (c10)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50409829?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "오늘마감"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "287217",
+      "company_raw": "유비스",
+      "company_clean": "유비스",
+      "title": "루나 크래프트 게임운영 신규 채용",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=287217&sc=612",
+      "deadline": "상시채용"
+    }
+  ]
 }
