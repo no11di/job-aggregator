@@ -1,3 +1,40 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55653266",
+      "company_raw": "(주)코어프로세스",
+      "company_clean": "코어프로세스",
+      "title": "(주)코어프로세스 유지보수프로젝트 품질관리(QA) 경력 채용공고",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55653266&location=ts&searchType=search&paid_fl=n&search_uuid=07e4e3c6-395f-4c8b-9574-5679d39c507f",
+      "deadline": "~ 12/24(목)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55647155",
+      "company_raw": "(주)와따에이아이",
+      "company_clean": "와따에이아이",
+      "title": "IOT 전장 설계/개발 주니어 엔지니어[판교]",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55647155&location=ts&searchType=search&paid_fl=n&search_uuid=ef22c632-0862-4d6a-a35f-fd9b452efe85",
+      "deadline": "~ 12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50405824",
+      "company_raw": "㈜파리크라상",
+      "company_clean": "㈜파리크라상",
+      "title": "각 부문 채용(생산/단순노무/QA)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50405824?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/03(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50419622",
+      "company_raw": "㈜비바리퍼블리카",
+      "company_clean": "㈜비바리퍼블리카",
+      "title": "[토스] IDC 매니저",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50419622?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/31(목)"
+    }
+  ]
 }
