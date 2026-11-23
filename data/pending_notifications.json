@@ -1,3 +1,391 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55646537",
+      "company_raw": "㈜피앤피시큐어",
+      "company_clean": "㈜피앤피시큐어",
+      "title": "[피앤피시큐어 및 관계사]정보보안 솔루션 제품인증 담당자 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55646537&location=ts&searchType=search&paid_fl=n&search_uuid=2a62345b-f5b1-4ff7-a9bc-1661fe77b623",
+      "deadline": "~ 12/20(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55646513",
+      "company_raw": "㈜피앤피시큐어",
+      "company_clean": "㈜피앤피시큐어",
+      "title": "[피앤피시큐어 및 관계사] 취약점분석/QA 엔지니어 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55646513&location=ts&searchType=search&paid_fl=n&search_uuid=2a62345b-f5b1-4ff7-a9bc-1661fe77b623",
+      "deadline": "~ 12/20(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55646058",
+      "company_raw": "아우토크립트(주)",
+      "company_clean": "아우토크립트",
+      "title": "모빌리티 보안 솔루션 QA/QC 엔지니어 [경력]",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55646058&location=ts&searchType=search&paid_fl=n&search_uuid=2a62345b-f5b1-4ff7-a9bc-1661fe77b623",
+      "deadline": "~ 12/23(수)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55645707",
+      "company_raw": "와이즈와이어즈(주)",
+      "company_clean": "와이즈와이어즈",
+      "title": "[와이즈와이어즈] 시험 인증 테스트 엔지니어 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55645707&location=ts&searchType=search&paid_fl=n&search_uuid=2a62345b-f5b1-4ff7-a9bc-1661fe77b623",
+      "deadline": "~ 12/07(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55640531",
+      "company_raw": "(주)엑스큐어넷",
+      "company_clean": "엑스큐어넷",
+      "title": "보안솔루션 품질검증(QA) 및 자동화 개발 경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55640531&location=ts&searchType=search&paid_fl=n&search_uuid=2a62345b-f5b1-4ff7-a9bc-1661fe77b623",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55649030",
+      "company_raw": "(주)인피닉",
+      "company_clean": "인피닉",
+      "title": "[마곡] SW 테스트 엔지니어 신입모집 (운전가능자)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55649030&location=ts&searchType=search&paid_fl=n&search_uuid=2a62345b-f5b1-4ff7-a9bc-1661fe77b623",
+      "deadline": "~ 11/27(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55649532",
+      "company_raw": "씨드로닉스(주)",
+      "company_clean": "씨드로닉스",
+      "title": "AI 학습데이터 매니저 - 해양 Radar 가공 검수/운영",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55649532&location=ts&searchType=search&paid_fl=n&search_uuid=2a62345b-f5b1-4ff7-a9bc-1661fe77b623",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55649529",
+      "company_raw": "씨드로닉스(주)",
+      "company_clean": "씨드로닉스",
+      "title": "AI 학습데이터 매니저 - Camera 가공 검수/운영",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55649529&location=ts&searchType=search&paid_fl=n&search_uuid=2a62345b-f5b1-4ff7-a9bc-1661fe77b623",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55645767",
+      "company_raw": "와이즈와이어즈(주)",
+      "company_clean": "와이즈와이어즈",
+      "title": "테스트 프로세스·품질지표 수립 및 프로젝트 리더 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55645767&location=ts&searchType=search&paid_fl=n&search_uuid=fda7338b-3ed2-4cbd-88fd-8f5d41b4a218",
+      "deadline": "~ 12/07(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55645748",
+      "company_raw": "와이즈와이어즈(주)",
+      "company_clean": "와이즈와이어즈",
+      "title": "[와이즈와이어즈] 금융/이커머스 SW테스트엔지니어 경력직 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55645748&location=ts&searchType=search&paid_fl=n&search_uuid=fda7338b-3ed2-4cbd-88fd-8f5d41b4a218",
+      "deadline": "~ 12/07(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55645741",
+      "company_raw": "와이즈와이어즈(주)",
+      "company_clean": "와이즈와이어즈",
+      "title": "[와이즈와이어즈]  AI 활용 QA 전문인력 경력직 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55645741&location=ts&searchType=search&paid_fl=n&search_uuid=fda7338b-3ed2-4cbd-88fd-8f5d41b4a218",
+      "deadline": "~ 12/07(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55645684",
+      "company_raw": "와이즈와이어즈(주)",
+      "company_clean": "와이즈와이어즈",
+      "title": "[와이즈와이어즈]SW테스트엔지니어(SQA) 신입/경력 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55645684&location=ts&searchType=search&paid_fl=n&search_uuid=fda7338b-3ed2-4cbd-88fd-8f5d41b4a218",
+      "deadline": "~ 12/07(월)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55643836",
+      "company_raw": "테스트코윈",
+      "company_clean": "테스트코윈",
+      "title": "(App/Web) 테스트엔지니어 SQA 테스트 모집",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55643836&location=ts&searchType=search&paid_fl=n&search_uuid=fda7338b-3ed2-4cbd-88fd-8f5d41b4a218",
+      "deadline": "~ 11/27(금)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55642487",
+      "company_raw": "로버트월터스코리아(주)",
+      "company_clean": "로버트월터스코리아",
+      "title": "[제조/엔지니어] QA Engineer",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55642487&location=ts&searchType=search&paid_fl=n&search_uuid=fda7338b-3ed2-4cbd-88fd-8f5d41b4a218",
+      "deadline": "채용시"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55642235",
+      "company_raw": "(주)휴먼코아",
+      "company_clean": "휴먼코아",
+      "title": "[재택근무 l 유망 스타트업] QA 매니저 채용",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55642235&location=ts&searchType=search&paid_fl=n&search_uuid=fda7338b-3ed2-4cbd-88fd-8f5d41b4a218",
+      "deadline": "~ 12/08(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50411173",
+      "company_raw": "㈜드림홀딩스",
+      "company_clean": "㈜드림홀딩스",
+      "title": "2026년 하반기 각 부문 신입 / 경력 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50411173?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50414033",
+      "company_raw": "㈜세온이앤에스",
+      "company_clean": "㈜세온이앤에스",
+      "title": "S/W 테스트 엔지니어(경력)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50414033?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50415102",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈]  AI 활용 QA 전문인력 경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50415102?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/01(화)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50415127",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈]  테스트 프로세스·품질지표 수립 및 프로젝트 리더 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50415127?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/07(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50415119",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 금융/이커머스 SW테스트엔지니어 경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50415119?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/07(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50415155",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 시험 인증 테스트 엔지니어 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50415155?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/07(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50415139",
+      "company_raw": "와이즈와이어즈㈜",
+      "company_clean": "와이즈와이어즈㈜",
+      "title": "[와이즈와이어즈] 소프트웨어테스트엔지니어(SQA) 신입/경력직 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50415139?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/07(월)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50418261",
+      "company_raw": "리드커리어㈜",
+      "company_clean": "리드커리어㈜",
+      "title": "[TTA/분당/상암] 12월 파견직 공채/시험지원, 임원비서 (신입가능/스펙업)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50418261?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/02(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50413222",
+      "company_raw": "엠씨넥스",
+      "company_clean": "엠씨넥스",
+      "title": "㈜엠씨넥스 시스템사업실(HW) 경력 직원 모집의 건",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50413222?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/29(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50414432",
+      "company_raw": "㈜영진모빌리티",
+      "company_clean": "㈜영진모빌리티",
+      "title": "(주)영진모빌리티 제품 측정원 (현장 QC) 신입 / 경력 채용(시화)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50414432?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~01/22(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50416403",
+      "company_raw": "㈜피앤피시큐어",
+      "company_clean": "㈜피앤피시큐어",
+      "title": "[피앤피시큐어 및 관계사] 정보보안 솔루션 제품 인증 담당자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50416403?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/20(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50416393",
+      "company_raw": "㈜피앤피시큐어",
+      "company_clean": "㈜피앤피시큐어",
+      "title": "[피앤피시큐어 및 관계사] S/W 취약점 분석, QA 엔지니어 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50416393?rPageCode=SL&logpath=21&sn=6&sc=612",
+      "deadline": "~12/20(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50415659",
+      "company_raw": "㈜펨트론",
+      "company_clean": "㈜펨트론",
+      "title": "[펨트론] SWQA 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50415659?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/31(목)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50414730",
+      "company_raw": "㈜씨앤디팩토리",
+      "company_clean": "㈜씨앤디팩토리",
+      "title": "QA담당자 경력(3년-8년) 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50414730?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50414299",
+      "company_raw": "㈜한컴즈",
+      "company_clean": "㈜한컴즈",
+      "title": "인덕원/은행/품질관리/즉시/4개월/중급",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50414299?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50411443",
+      "company_raw": "씨엔케어㈜",
+      "company_clean": "씨엔케어㈜",
+      "title": "씨엔케어(주) 화장품(젤네일) 품질보증 QA,QC 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50411443?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50415705",
+      "company_raw": "㈜이디야",
+      "company_clean": "㈜이디야",
+      "title": "[이디야커피 본사] IT부서 사무지원 모집 [1명]",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50415705?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50413875",
+      "company_raw": "㈜테스트코윈(testcowin",
+      "company_clean": "㈜테스트코윈testcowin",
+      "title": "(App/Web) 테스트엔지니어 SQA 테스트 모집",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50413875?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/27(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50411887",
+      "company_raw": "쿠팡 주식회사",
+      "company_clean": "쿠팡",
+      "title": "[CPLB] 벤더사 소통 및 상품 정보 관리자 (계약직/신입가능/재택)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50411887?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50411428",
+      "company_raw": "㈜와이즈스톤",
+      "company_clean": "㈜와이즈스톤",
+      "title": "[와이즈스톤] 서버 개발자 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50411428?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50418164",
+      "company_raw": "㈜케이씨엠에스",
+      "company_clean": "㈜케이씨엠에스",
+      "title": "상암 KLID 지역정보개발원 사업관리 운영 (t03)",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50418164?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "모레마감"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50414741",
+      "company_raw": "토피아정보기술㈜",
+      "company_clean": "토피아정보기술㈜",
+      "title": "금융권 차세대 프로젝트 품질관리",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50414741?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~11/27(금)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50413829",
+      "company_raw": "㈜솔텍아이앤에스",
+      "company_clean": "㈜솔텍아이앤에스",
+      "title": "금융권 Neo 차세대 프로젝트 - 품질관리",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50413829?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50413029",
+      "company_raw": "㈜조인아이티",
+      "company_clean": "㈜조인아이티",
+      "title": "Neo차세대/인덕원/즉시-4개월(연장가능성)/중급,품질Admin,엑셀필수등 참조",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50413029?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/23(수)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "120454144",
+      "company_raw": "(리페어센터)김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "company_clean": "리페어센터김포공항/합정역/부평/청라/송도/운서 셔틀",
+      "title": "영종도/주5일/전자회로 이해 및 관련 수리 경험자/9to6/셔틀운행",
+      "link": "https://www.albamon.com/jobs/detail/120454144?sc=612",
+      "deadline": "~12/13(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "287257",
+      "company_raw": "㈜이엑스투게임즈",
+      "company_clean": "㈜이엑스투게임즈",
+      "title": "[Ex2게임즈] QA",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=287257&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "287221",
+      "company_raw": "에스씨에이게임신촌",
+      "company_clean": "에스씨에이게임신촌",
+      "title": "아카데미학원 강사구인 [스파인, 유니티, 언리얼, UI, QA, 원화, 그래픽, 기획]",
+      "link": "https://www.gamejob.co.kr/List_GI/GIB_Read.asp?GI_No=287221&sc=612",
+      "deadline": "상시채용"
+    },
+    {
+      "platform": "remember",
+      "post_id": "356310",
+      "company_raw": "한화비전(주)",
+      "company_clean": "한화비전",
+      "title": "SW QA (계약직)",
+      "link": "https://career.rememberapp.co.kr/job/posting/356310",
+      "deadline": "2026-12-23"
+    }
+  ]
 }
