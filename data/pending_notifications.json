@@ -1,3 +1,31 @@
 {
-  "jobs": []
+  "jobs": [
+    {
+      "platform": "saramin",
+      "post_id": "55697768",
+      "company_raw": "반석써치(주)",
+      "company_clean": "반석써치",
+      "title": "[상장 X-ray 의료기]  시스템검증",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55697768&location=ts&searchType=search&paid_fl=n&search_uuid=60843c3d-f09f-4120-905c-987bf50fa547",
+      "deadline": "~ 12/13(일)"
+    },
+    {
+      "platform": "saramin",
+      "post_id": "55697054",
+      "company_raw": "프로페셔날핸즈인핸즈코리아(주)",
+      "company_clean": "프로페셔날핸즈인핸즈코리아",
+      "title": "중견 그룹사 IT인프라 운영(부장급)",
+      "link": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55697054&location=ts&searchType=search&paid_fl=n&search_uuid=7602b82d-a01b-4aba-8ee1-a808cb8850f7",
+      "deadline": "~ 12/13(일)"
+    },
+    {
+      "platform": "jobkorea",
+      "post_id": "50406874",
+      "company_raw": "㈜에이아이오",
+      "company_clean": "㈜에이아이오",
+      "title": "[AIO] NAND Storage 컨트롤러 개발 및 품질 부문 신입/경력 채용",
+      "link": "https://www.jobkorea.co.kr/Recruit/GI_Read/50406874?rPageCode=SL&logpath=21&sn=6&sc=611",
+      "deadline": "~12/20(일)"
+    }
+  ]
 }
